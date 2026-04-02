@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T19:43:00.000Z",
+  "lastUpdated": "2026-04-02T19:44:30.000Z",
   "note": "Live mission schedule. Updated based on NASA blog and mission audio.",
   "crewSchedule": [
     {
@@ -69,7 +69,7 @@
       "startMET": 20,
       "endMET": 21.5,
       "day": 2,
-      "label": "Wake & meal",
+      "label": "TEST: Wake & meal (from GitHub!)",
       "desc": "Morning routine and breakfast."
     },
     {
