@@ -1,0 +1,1121 @@
+{
+  "lastUpdated": "2026-04-02T19:38:05.719Z",
+  "note": "Live mission schedule. Updated based on NASA blog and mission audio.",
+  "crewSchedule": [
+    {
+      "startMET": 0,
+      "endMET": 0.15,
+      "day": 1,
+      "label": "Launch & ascent",
+      "desc": "SLS liftoff, main-engine cutoff ~8 min after launch."
+    },
+    {
+      "startMET": 0.15,
+      "endMET": 1,
+      "day": 1,
+      "label": "Orbital insertion burns",
+      "desc": "ICPS perigee-raise burn (~49 min), then high-Earth orbit insertion (~1 hr)."
+    },
+    {
+      "startMET": 1,
+      "endMET": 3,
+      "day": 1,
+      "label": "Post-insertion checks",
+      "desc": "Remove launch suits, reconfigure cabin for living and work."
+    },
+    {
+      "startMET": 3,
+      "endMET": 5,
+      "day": 1,
+      "label": "Proximity operations demo",
+      "desc": "ICPS becomes docking target; crew practices manual flying toward and around it."
+    },
+    {
+      "startMET": 5,
+      "endMET": 8,
+      "day": 1,
+      "label": "Orion systems checkout",
+      "desc": "Test potable water dispenser, toilet, CO₂ removal system."
+    },
+    {
+      "startMET": 7,
+      "endMET": 7.5,
+      "day": 1,
+      "label": "Crew meal",
+      "desc": "First meal in orbit — test food rehydration system."
+    },
+    {
+      "startMET": 7.5,
+      "endMET": 12.5,
+      "day": 1,
+      "label": "Sleep period",
+      "desc": "Brief rest period (~4 hours) after first day in space."
+    },
+    {
+      "startMET": 12.5,
+      "endMET": 14,
+      "day": 1,
+      "label": "Orbital manoeuvre & DSN checkout",
+      "desc": "Engine firing for correct TLI orbital geometry; emergency comms test on Deep Space Network."
+    },
+    {
+      "startMET": 13,
+      "endMET": 20,
+      "day": 1,
+      "label": "Sleep period",
+      "desc": "After perigee raise burn, crew returns to sleep for ~4.5 hours before first full day in space."
+    },
+    {
+      "startMET": 20,
+      "endMET": 21.5,
+      "day": 2,
+      "label": "Wake & meal",
+      "desc": "Morning routine and breakfast."
+    },
+    {
+      "startMET": 21.5,
+      "endMET": 24,
+      "day": 2,
+      "label": "Flywheel exercise setup & workout",
+      "desc": "Wiseman and Glover set up flywheel exercise device and perform first mission workouts."
+    },
+    {
+      "startMET": 24,
+      "endMET": 27,
+      "day": 2,
+      "label": "Koch & Hansen exercise",
+      "desc": "Koch and Hansen exercise on the flywheel device."
+    },
+    {
+      "startMET": 26,
+      "endMET": 30,
+      "day": 2,
+      "label": "TLI burn preparation",
+      "desc": "Koch prepares Orion's orbital manoeuvring system engine (~6,000 lbs thrust) for translunar injection."
+    },
+    {
+      "startMET": 30,
+      "endMET": 30.3,
+      "day": 2,
+      "label": "Translunar injection burn",
+      "desc": "The TLI burn — sets course for the Moon and establishes the free-return trajectory for Earth return on Day 10."
+    },
+    {
+      "startMET": 30.3,
+      "endMET": 32,
+      "day": 2,
+      "label": "Post-TLI checks & acclimation",
+      "desc": "Verify spacecraft health after the critical burn; confirm trajectory; crew acclimation time."
+    },
+    {
+      "startMET": 32,
+      "endMET": 34,
+      "day": 2,
+      "label": "First video downlink",
+      "desc": "First space-to-ground video communication session with Mission Control."
+    },
+    {
+      "startMET": 34,
+      "endMET": 42,
+      "day": 2,
+      "label": "Sleep period",
+      "desc": "Full rest period after TLI day."
+    },
+    {
+      "startMET": 42,
+      "endMET": 44,
+      "day": 3,
+      "label": "Wake & meal",
+      "desc": "Morning routine and breakfast."
+    },
+    {
+      "startMET": 44,
+      "endMET": 46,
+      "day": 3,
+      "label": "Trajectory correction burn #1 prep",
+      "desc": "Hansen prepares for first of three outbound course-correction burns."
+    },
+    {
+      "startMET": 46,
+      "endMET": 46.2,
+      "day": 3,
+      "label": "Outbound trajectory correction burn #1",
+      "desc": "First mid-course correction ensures Orion stays on target for the Moon."
+    },
+    {
+      "startMET": 46.2,
+      "endMET": 50,
+      "day": 3,
+      "label": "CPR & medical kit demo",
+      "desc": "Glover, Koch, and Hansen demonstrate CPR procedures in microgravity; Wiseman and Glover check out medical kit."
+    },
+    {
+      "startMET": 50,
+      "endMET": 52,
+      "day": 3,
+      "label": "DSN emergency comms test",
+      "desc": "Koch tests Orion's emergency communications system on the Deep Space Network."
+    },
+    {
+      "startMET": 52,
+      "endMET": 55,
+      "day": 3,
+      "label": "Lunar flyby rehearsal",
+      "desc": "Entire crew rehearses choreography for Day 6 lunar flyby scientific observations."
+    },
+    {
+      "startMET": 55,
+      "endMET": 57,
+      "day": 3,
+      "label": "Exercise & personal time",
+      "desc": "Crew exercise and downtime."
+    },
+    {
+      "startMET": 57,
+      "endMET": 58,
+      "day": 3,
+      "label": "Video downlink",
+      "desc": "Scheduled space-to-ground video session."
+    },
+    {
+      "startMET": 58,
+      "endMET": 66,
+      "day": 3,
+      "label": "Sleep period",
+      "desc": "Full rest period."
+    },
+    {
+      "startMET": 66,
+      "endMET": 68,
+      "day": 4,
+      "label": "Wake & meal",
+      "desc": "Morning routine and breakfast."
+    },
+    {
+      "startMET": 68,
+      "endMET": 70,
+      "day": 4,
+      "label": "Trajectory correction burn #2 prep",
+      "desc": "Preparation for second outbound course correction."
+    },
+    {
+      "startMET": 70,
+      "endMET": 70.2,
+      "day": 4,
+      "label": "Outbound trajectory correction burn #2",
+      "desc": "Second mid-course correction refines lunar approach path."
+    },
+    {
+      "startMET": 70.2,
+      "endMET": 74,
+      "day": 4,
+      "label": "Lunar target study",
+      "desc": "Each astronaut reviews geographic targets for Day 6 imagery — exact targets based on launch day/time."
+    },
+    {
+      "startMET": 74,
+      "endMET": 76,
+      "day": 4,
+      "label": "Celestial photography",
+      "desc": "Crew photographs celestial bodies from Orion's windows."
+    },
+    {
+      "startMET": 76,
+      "endMET": 78,
+      "day": 4,
+      "label": "Exercise",
+      "desc": "Flywheel workout session."
+    },
+    {
+      "startMET": 78,
+      "endMET": 80,
+      "day": 4,
+      "label": "Video downlink & personal time",
+      "desc": "Video call with ground and free time."
+    },
+    {
+      "startMET": 80,
+      "endMET": 82,
+      "day": 4,
+      "label": "Crew meal",
+      "desc": "Evening meal."
+    },
+    {
+      "startMET": 82,
+      "endMET": 90,
+      "day": 4,
+      "label": "Sleep period",
+      "desc": "Full rest period."
+    },
+    {
+      "startMET": 90,
+      "endMET": 92,
+      "day": 5,
+      "label": "Wake & meal",
+      "desc": "Morning routine and breakfast."
+    },
+    {
+      "startMET": 92,
+      "endMET": 97,
+      "day": 5,
+      "label": "Spacesuit pressure testing",
+      "desc": "Test donning suits quickly, pressurizing them, installing seats, eating/drinking through helmet port."
+    },
+    {
+      "startMET": 97,
+      "endMET": 99,
+      "day": 5,
+      "label": "Crew meal & rest",
+      "desc": "Midday break."
+    },
+    {
+      "startMET": 99,
+      "endMET": 100,
+      "day": 5,
+      "label": "Trajectory correction burn #3 prep",
+      "desc": "Preparation for final outbound course correction before lunar flyby."
+    },
+    {
+      "startMET": 100,
+      "endMET": 100.2,
+      "day": 5,
+      "label": "Outbound trajectory correction burn #3",
+      "desc": "Final outbound mid-course correction. Orion enters the lunar sphere of influence today."
+    },
+    {
+      "startMET": 100.2,
+      "endMET": 102,
+      "day": 5,
+      "label": "Exercise",
+      "desc": "Flywheel workout session."
+    },
+    {
+      "startMET": 102,
+      "endMET": 104,
+      "day": 5,
+      "label": "Video downlink & personal time",
+      "desc": "Video call with ground and free time."
+    },
+    {
+      "startMET": 104,
+      "endMET": 106,
+      "day": 5,
+      "label": "Crew meal",
+      "desc": "Evening meal."
+    },
+    {
+      "startMET": 106,
+      "endMET": 114,
+      "day": 5,
+      "label": "Sleep period",
+      "desc": "Full rest period before lunar flyby day."
+    },
+    {
+      "startMET": 114,
+      "endMET": 116,
+      "day": 6,
+      "label": "Wake early — lunar flyby day",
+      "desc": "Early wake-up for the historic lunar flyby."
+    },
+    {
+      "startMET": 116,
+      "endMET": 118,
+      "day": 6,
+      "label": "Crew meal & flyby prep",
+      "desc": "Breakfast and final preparation for close lunar approach."
+    },
+    {
+      "startMET": 118,
+      "endMET": 124,
+      "day": 6,
+      "label": "Lunar flyby — photography & observations",
+      "desc": "Closest approach: 4,000–6,000 miles from lunar surface. Moon appears basketball-sized at arm's length. Crew photographs and records observations."
+    },
+    {
+      "startMET": 124,
+      "endMET": 125,
+      "day": 6,
+      "label": "Far-side transit — loss of signal",
+      "desc": "Orion passes behind the Moon. Communications blackout lasting 30–50 minutes."
+    },
+    {
+      "startMET": 125,
+      "endMET": 130,
+      "day": 6,
+      "label": "Post-flyby science & observation",
+      "desc": "Continued photography and recordings after reacquiring signal. First humans to see parts of the lunar far side with their own eyes."
+    },
+    {
+      "startMET": 130,
+      "endMET": 132,
+      "day": 6,
+      "label": "Exercise & crew meal",
+      "desc": "Post-flyby meal and exercise."
+    },
+    {
+      "startMET": 132,
+      "endMET": 134,
+      "day": 6,
+      "label": "Video downlink",
+      "desc": "Share lunar flyby experience with Mission Control and the world."
+    },
+    {
+      "startMET": 134,
+      "endMET": 142,
+      "day": 6,
+      "label": "Sleep period",
+      "desc": "Rest period after the historic flyby."
+    },
+    {
+      "startMET": 142,
+      "endMET": 144,
+      "day": 7,
+      "label": "Wake & meal",
+      "desc": "Morning routine. Orion exits the lunar sphere of influence today."
+    },
+    {
+      "startMET": 144,
+      "endMET": 147,
+      "day": 7,
+      "label": "Crew lunar debrief",
+      "desc": "Ground scientists speak with crew while the lunar flyby experience is fresh."
+    },
+    {
+      "startMET": 147,
+      "endMET": 148,
+      "day": 7,
+      "label": "Return trajectory correction burn #1",
+      "desc": "First of three return course corrections to adjust path home."
+    },
+    {
+      "startMET": 148,
+      "endMET": 150,
+      "day": 7,
+      "label": "Exercise",
+      "desc": "Flywheel workout session."
+    },
+    {
+      "startMET": 150,
+      "endMET": 154,
+      "day": 7,
+      "label": "Off-duty time",
+      "desc": "Largely off-duty day for rest before final return phase tasks."
+    },
+    {
+      "startMET": 154,
+      "endMET": 156,
+      "day": 7,
+      "label": "Crew meal",
+      "desc": "Evening meal."
+    },
+    {
+      "startMET": 156,
+      "endMET": 166,
+      "day": 7,
+      "label": "Sleep period",
+      "desc": "Extended rest period."
+    },
+    {
+      "startMET": 166,
+      "endMET": 168,
+      "day": 8,
+      "label": "Wake & meal",
+      "desc": "Morning routine and breakfast."
+    },
+    {
+      "startMET": 168,
+      "endMET": 172,
+      "day": 8,
+      "label": "Radiation shelter demonstration",
+      "desc": "Crew builds a protective shelter using Orion supplies — demonstrating shielding from solar particle events."
+    },
+    {
+      "startMET": 172,
+      "endMET": 176,
+      "day": 8,
+      "label": "Manual piloting demonstration",
+      "desc": "Test Orion manual control: target centering, tail-to-Sun attitude, 6-DOF vs 3-DOF manoeuvres."
+    },
+    {
+      "startMET": 176,
+      "endMET": 178,
+      "day": 8,
+      "label": "Exercise",
+      "desc": "Flywheel workout session."
+    },
+    {
+      "startMET": 178,
+      "endMET": 180,
+      "day": 8,
+      "label": "Video downlink & crew meal",
+      "desc": "Video call with ground and evening meal."
+    },
+    {
+      "startMET": 180,
+      "endMET": 190,
+      "day": 8,
+      "label": "Sleep period",
+      "desc": "Full rest period."
+    },
+    {
+      "startMET": 190,
+      "endMET": 192,
+      "day": 9,
+      "label": "Wake & meal",
+      "desc": "Morning routine and breakfast."
+    },
+    {
+      "startMET": 192,
+      "endMET": 195,
+      "day": 9,
+      "label": "Re-entry & splashdown procedure review",
+      "desc": "Crew studies re-entry procedures and talks with flight control team."
+    },
+    {
+      "startMET": 195,
+      "endMET": 196,
+      "day": 9,
+      "label": "Return trajectory correction burn #2",
+      "desc": "Course correction to keep Orion on target for splashdown zone."
+    },
+    {
+      "startMET": 196,
+      "endMET": 198,
+      "day": 9,
+      "label": "Waste system & garment testing",
+      "desc": "Test backup waste collection systems; fit-check orthostatic intolerance compression garments."
+    },
+    {
+      "startMET": 198,
+      "endMET": 200,
+      "day": 9,
+      "label": "Exercise & personal time",
+      "desc": "Final workout session and personal time."
+    },
+    {
+      "startMET": 200,
+      "endMET": 202,
+      "day": 9,
+      "label": "Crew meal",
+      "desc": "Evening meal — last full evening in space."
+    },
+    {
+      "startMET": 202,
+      "endMET": 206,
+      "day": 9,
+      "label": "Sleep period",
+      "desc": "Final rest period before re-entry day."
+    },
+    {
+      "startMET": 210,
+      "endMET": 214,
+      "day": 10,
+      "label": "Wake early — re-entry day",
+      "desc": "Early wake-up for the final day of the mission."
+    },
+    {
+      "startMET": 214,
+      "endMET": 218,
+      "day": 10,
+      "label": "Final stow & cabin prep",
+      "desc": "Return cabin to launch configuration: stow equipment, install seats."
+    },
+    {
+      "startMET": 218,
+      "endMET": 222,
+      "day": 10,
+      "label": "Don spacesuits for re-entry",
+      "desc": "Crew dons OCSS pressure suits, closes visors, and straps in for atmospheric entry."
+    },
+    {
+      "startMET": 222,
+      "endMET": 225,
+      "day": 10,
+      "label": "Service module separation",
+      "desc": "Crew module separates from European Service Module prior to atmospheric entry."
+    },
+    {
+      "startMET": 225,
+      "endMET": 226,
+      "day": 10,
+      "label": "Atmospheric re-entry",
+      "desc": "Heat shield faces temperatures up to ~2,760 °C (5,000 °F) during re-entry at ~40,000 km/h."
+    },
+    {
+      "startMET": 226,
+      "endMET": 226.5,
+      "day": 10,
+      "label": "Parachute descent",
+      "desc": "Drogue chutes slow to ~494 km/h, then three main chutes deploy — final descent at ~27 km/h."
+    },
+    {
+      "startMET": 226.5,
+      "endMET": 228,
+      "day": 10,
+      "label": "Splashdown & recovery",
+      "desc": "Splashdown in the Pacific Ocean. NASA and U.S. Navy recovery teams retrieve crew and capsule."
+    }
+  ],
+  "timelineOverrides": [
+    {
+      "id": "launch-team-stations",
+      "metHours": -49.833,
+      "utc": "2026-03-30T20:34:00Z"
+    },
+    {
+      "id": "countdown-clock-begins",
+      "metHours": -49.667,
+      "utc": "2026-03-30T20:44:00Z"
+    },
+    {
+      "id": "orion-power-up",
+      "metHours": -45.5,
+      "utc": "2026-03-31T00:54:00Z"
+    },
+    {
+      "id": "core-stage-power-up",
+      "metHours": -42.333,
+      "utc": "2026-03-31T04:04:00Z"
+    },
+    {
+      "id": "rs25-final-prep",
+      "metHours": -39.75,
+      "utc": "2026-03-31T06:39:00Z"
+    },
+    {
+      "id": "icps-power-up",
+      "metHours": -20.25,
+      "utc": "2026-04-01T02:09:00Z"
+    },
+    {
+      "id": "non-essential-leave-pad",
+      "metHours": -15.5,
+      "utc": "2026-04-01T06:54:00Z"
+    },
+    {
+      "id": "gls-activation",
+      "metHours": -13.25,
+      "utc": "2026-04-01T09:09:00Z"
+    },
+    {
+      "id": "built-in-hold-2h45m",
+      "metHours": -12.583,
+      "utc": "2026-04-01T09:49:00Z"
+    },
+    {
+      "id": "go-nogo-tanking",
+      "metHours": -10.833,
+      "utc": "2026-04-01T11:34:00Z"
+    },
+    {
+      "id": "lh2-slow-fill",
+      "metHours": -9.917,
+      "utc": "2026-04-01T12:29:00Z"
+    },
+    {
+      "id": "resume-t-clock",
+      "metHours": -9.833,
+      "utc": "2026-04-01T12:34:00Z"
+    },
+    {
+      "id": "lox-slow-fill",
+      "metHours": -9.667,
+      "utc": "2026-04-01T12:44:00Z"
+    },
+    {
+      "id": "orion-comms-activated",
+      "metHours": -6.667,
+      "utc": "2026-04-01T15:44:00Z"
+    },
+    {
+      "id": "closeout-crew-assemble",
+      "metHours": -6.167,
+      "utc": "2026-04-01T16:14:00Z"
+    },
+    {
+      "id": "crew-weather-brief",
+      "metHours": -6,
+      "utc": "2026-04-01T16:24:00Z"
+    },
+    {
+      "id": "built-in-hold-1h10m",
+      "metHours": -5.167,
+      "utc": "2026-04-01T17:14:00Z"
+    },
+    {
+      "id": "crew-deploy-to-pad",
+      "metHours": -4.667,
+      "utc": "2026-04-01T17:44:00Z"
+    },
+    {
+      "id": "crew-board-orion",
+      "metHours": -4,
+      "utc": "2026-04-01T18:24:00Z"
+    },
+    {
+      "id": "hatch-preps-closure",
+      "metHours": -3.667,
+      "utc": "2026-04-01T18:44:00Z"
+    },
+    {
+      "id": "hatch-service-panel",
+      "metHours": -2.333,
+      "utc": "2026-04-01T20:04:00Z"
+    },
+    {
+      "id": "las-hatch-closure",
+      "metHours": -1.667,
+      "utc": "2026-04-01T20:44:00Z"
+    },
+    {
+      "id": "launch-director-brief",
+      "metHours": -1.167,
+      "utc": "2026-04-01T21:14:00Z"
+    },
+    {
+      "id": "closeout-crew-departs",
+      "metHours": -0.833,
+      "utc": "2026-04-01T21:34:00Z"
+    },
+    {
+      "id": "final-ntd-briefing",
+      "metHours": -0.833,
+      "utc": "2026-04-01T21:34:00Z"
+    },
+    {
+      "id": "built-in-hold-30m",
+      "metHours": -0.667,
+      "utc": "2026-04-01T21:44:00Z"
+    },
+    {
+      "id": "orion-earth-comm",
+      "metHours": -0.417,
+      "utc": "2026-04-01T21:59:00Z"
+    },
+    {
+      "id": "launch-director-poll",
+      "metHours": -0.283,
+      "utc": "2026-04-01T22:07:00Z"
+    },
+    {
+      "id": "visors-down",
+      "metHours": -0.25,
+      "utc": "2026-04-01T22:09:00Z"
+    },
+    {
+      "id": "terminal-countdown",
+      "metHours": -0.167,
+      "utc": "2026-04-01T22:14:00Z"
+    },
+    {
+      "id": "crew-access-arm-retract",
+      "metHours": -0.133,
+      "utc": "2026-04-01T22:16:00Z"
+    },
+    {
+      "id": "tank-press-internal-power",
+      "metHours": -0.1,
+      "utc": "2026-04-01T22:18:00Z"
+    },
+    {
+      "id": "las-capability-available",
+      "metHours": -0.089,
+      "utc": "2026-04-01T22:18:40Z"
+    },
+    {
+      "id": "fts-armed",
+      "metHours": -0.075,
+      "utc": "2026-04-01T22:19:30Z"
+    },
+    {
+      "id": "core-stage-apu-start",
+      "metHours": -0.067,
+      "utc": "2026-04-01T22:20:00Z"
+    },
+    {
+      "id": "purge-sequence-4",
+      "metHours": -0.053,
+      "utc": "2026-04-01T22:20:50Z"
+    },
+    {
+      "id": "booster-internal-power",
+      "metHours": -0.033,
+      "utc": "2026-04-01T22:22:00Z"
+    },
+    {
+      "id": "core-stage-internal-power",
+      "metHours": -0.025,
+      "utc": "2026-04-01T22:22:30Z"
+    },
+    {
+      "id": "icps-lh2-terminate",
+      "metHours": -0.014,
+      "utc": "2026-04-01T22:23:10Z"
+    },
+    {
+      "id": "go-automated-sequencer",
+      "metHours": -0.009,
+      "utc": "2026-04-01T22:23:27Z"
+    },
+    {
+      "id": "h2-burnoff-igniters",
+      "metHours": -0.003,
+      "utc": "2026-04-01T22:23:48Z"
+    },
+    {
+      "id": "rs25-start-command",
+      "metHours": -0.003,
+      "utc": "2026-04-01T22:23:50Z"
+    },
+    {
+      "id": "rs25-ignition",
+      "metHours": -0.002,
+      "utc": "2026-04-01T22:23:53Z"
+    },
+    {
+      "id": "booster-ignition-liftoff",
+      "metHours": 0,
+      "utc": "2026-04-01T22:35:12Z"
+    },
+    {
+      "id": "launch",
+      "metHours": 0,
+      "utc": "2026-04-01T22:35:12Z"
+    },
+    {
+      "id": "max-q",
+      "metHours": 0.0167,
+      "utc": "2026-04-01T22:25:00Z"
+    },
+    {
+      "id": "srb-sep",
+      "metHours": 0.035,
+      "utc": "2026-04-01T22:26:06Z"
+    },
+    {
+      "id": "sm-fairing-jettison",
+      "metHours": 0.0583,
+      "utc": "2026-04-01T22:27:30Z"
+    },
+    {
+      "id": "las-jettison",
+      "metHours": 0.0625,
+      "utc": "2026-04-01T22:27:45Z"
+    },
+    {
+      "id": "meco",
+      "metHours": 0.14,
+      "utc": "2026-04-01T22:32:24Z"
+    },
+    {
+      "id": "core-sep",
+      "metHours": 0.1433,
+      "utc": "2026-04-01T22:32:36Z"
+    },
+    {
+      "id": "icps-cutoff",
+      "metHours": 0.3,
+      "utc": "2026-04-01T22:42:00Z"
+    },
+    {
+      "id": "solar-deploy",
+      "metHours": 0.333,
+      "utc": "2026-04-01T22:44:00Z"
+    },
+    {
+      "id": "crew-checks",
+      "metHours": 0.4,
+      "utc": "2026-04-01T22:48:00Z"
+    },
+    {
+      "id": "perigee-raise-1",
+      "metHours": 0.82,
+      "utc": "2026-04-01T23:13:00Z"
+    },
+    {
+      "id": "perigee-raise-2",
+      "metHours": 1.82,
+      "utc": "2026-04-02T00:13:00Z"
+    },
+    {
+      "id": "orion-systems-checkout",
+      "metHours": 2,
+      "utc": "2026-04-02T00:24:00Z"
+    },
+    {
+      "id": "prox-ops",
+      "metHours": 3.405,
+      "utc": "2026-04-02T01:59:30Z"
+    },
+    {
+      "id": "icps-sep-burn",
+      "metHours": 4.833,
+      "utc": "2026-04-02T03:25:00Z"
+    },
+    {
+      "id": "icps-disposal",
+      "metHours": 5,
+      "utc": "2026-04-02T03:35:00Z"
+    },
+    {
+      "id": "cubesat-deploy",
+      "metHours": 5.067,
+      "utc": "2026-04-02T03:39:00Z"
+    },
+    {
+      "id": "crew-sleep-1a",
+      "metHours": 7,
+      "utc": "2026-04-02T05:35:00Z"
+    },
+    {
+      "id": "orbit-geometry-burn",
+      "metHours": 12.5,
+      "utc": "2026-04-02T10:54:00Z"
+    },
+    {
+      "id": "dsn-emergency-checkout",
+      "metHours": 13,
+      "utc": "2026-04-02T11:24:00Z"
+    },
+    {
+      "id": "crew-sleep-1b",
+      "metHours": 13,
+      "utc": "2026-04-02T11:35:00Z"
+    },
+    {
+      "id": "exercise-wiseman-glover",
+      "metHours": 21.5,
+      "utc": "2026-04-02T17:24:00Z"
+    },
+    {
+      "id": "exercise-koch-hansen",
+      "metHours": 24,
+      "utc": "2026-04-02T22:24:00Z"
+    },
+    {
+      "id": "tli-prep",
+      "metHours": 26,
+      "utc": "2026-04-03T00:24:00Z"
+    },
+    {
+      "id": "tli",
+      "metHours": 25.23,
+      "utc": "2026-04-02T23:49:00Z"
+    },
+    {
+      "id": "post-tli-acclimation",
+      "metHours": 32,
+      "utc": "2026-04-03T06:24:00Z"
+    },
+    {
+      "id": "first-video-downlink",
+      "metHours": 34,
+      "utc": "2026-04-03T08:24:00Z"
+    },
+    {
+      "id": "outbound-correction-1",
+      "metHours": 48.13,
+      "utc": "2026-04-03T22:43:00Z"
+    },
+    {
+      "id": "cpr-demo",
+      "metHours": 50,
+      "utc": "2026-04-04T00:24:00Z"
+    },
+    {
+      "id": "medical-kit-checkout",
+      "metHours": 52,
+      "utc": "2026-04-04T02:24:00Z"
+    },
+    {
+      "id": "dsn-emergency-test",
+      "metHours": 53.42,
+      "utc": "2026-04-04T04:00:00Z"
+    },
+    {
+      "id": "emergency-procedure-practice",
+      "metHours": 55,
+      "utc": "2026-04-04T05:24:00Z"
+    },
+    {
+      "id": "outbound-science-experiments",
+      "metHours": 56,
+      "utc": "2026-04-04T06:24:00Z"
+    },
+    {
+      "id": "lunar-obs-rehearsal",
+      "metHours": 57,
+      "utc": "2026-04-04T07:24:00Z"
+    },
+    {
+      "id": "gps-tdrs-range-limit",
+      "metHours": 68,
+      "utc": "2026-04-04T18:24:00Z"
+    },
+    {
+      "id": "emergency-procedure-practice-2",
+      "metHours": 70,
+      "utc": "2026-04-04T20:24:00Z"
+    },
+    {
+      "id": "outbound-correction-2",
+      "metHours": 73.13,
+      "utc": "2026-04-04T23:43:00Z"
+    },
+    {
+      "id": "lunar-target-study",
+      "metHours": 74,
+      "utc": "2026-04-05T00:24:00Z"
+    },
+    {
+      "id": "celestial-photography",
+      "metHours": 78,
+      "utc": "2026-04-05T04:24:00Z"
+    },
+    {
+      "id": "spacesuit-pressure-test",
+      "metHours": 98,
+      "utc": "2026-04-06T00:24:00Z"
+    },
+    {
+      "id": "suit-eat-drink-test",
+      "metHours": 100,
+      "utc": "2026-04-06T02:24:00Z"
+    },
+    {
+      "id": "outbound-correction-3",
+      "metHours": 100.48,
+      "utc": "2026-04-06T03:04:00Z"
+    },
+    {
+      "id": "lunar-sphere-influence",
+      "metHours": 102.13,
+      "utc": "2026-04-06T04:43:00Z"
+    },
+    {
+      "id": "lunar-approach",
+      "metHours": 120,
+      "utc": "2026-04-06T22:24:00Z"
+    },
+    {
+      "id": "closest-approach",
+      "metHours": 120.52,
+      "utc": "2026-04-06T23:06:00Z"
+    },
+    {
+      "id": "lunar-surface-obs",
+      "metHours": 121,
+      "utc": "2026-04-06T23:35:00Z"
+    },
+    {
+      "id": "far-side-blackout",
+      "metHours": 122,
+      "utc": "2026-04-07T00:35:00Z"
+    },
+    {
+      "id": "far-side-photography",
+      "metHours": 122.5,
+      "utc": "2026-04-07T01:05:00Z"
+    },
+    {
+      "id": "signal-reacquired",
+      "metHours": 122.8,
+      "utc": "2026-04-07T01:23:00Z"
+    },
+    {
+      "id": "distance-record",
+      "metHours": 121.43,
+      "utc": "2026-04-06T23:51:00Z"
+    },
+    {
+      "id": "post-flyby-science",
+      "metHours": 130,
+      "utc": "2026-04-07T08:24:00Z"
+    },
+    {
+      "id": "exit-lunar-sphere",
+      "metHours": 138.87,
+      "utc": "2026-04-07T17:27:00Z"
+    },
+    {
+      "id": "day7-off-duty",
+      "metHours": 142,
+      "utc": "2026-04-07T20:24:00Z"
+    },
+    {
+      "id": "return-correction-1",
+      "metHours": 145.48,
+      "utc": "2026-04-07T23:54:00Z"
+    },
+    {
+      "id": "radiation-shelter",
+      "metHours": 170,
+      "utc": "2026-04-09T00:24:00Z"
+    },
+    {
+      "id": "manual-piloting-demo",
+      "metHours": 174,
+      "utc": "2026-04-09T04:24:00Z"
+    },
+    {
+      "id": "return-correction-2",
+      "metHours": 196.48,
+      "utc": "2026-04-10T03:04:00Z"
+    },
+    {
+      "id": "reentry-procedure-review",
+      "metHours": 196,
+      "utc": "2026-04-10T02:24:00Z"
+    },
+    {
+      "id": "equipment-stow-begins",
+      "metHours": 200,
+      "utc": "2026-04-10T06:24:00Z"
+    },
+    {
+      "id": "final-stow-cabin-prep",
+      "metHours": 214,
+      "utc": "2026-04-10T20:24:00Z"
+    },
+    {
+      "id": "crew-dons-suits",
+      "metHours": 218,
+      "utc": "2026-04-11T00:24:00Z"
+    },
+    {
+      "id": "esm-sep",
+      "metHours": 222,
+      "utc": "2026-04-11T04:24:00Z"
+    },
+    {
+      "id": "entry-interface",
+      "metHours": 225,
+      "utc": "2026-04-11T07:24:00Z"
+    },
+    {
+      "id": "reentry-radio-blackout",
+      "metHours": 225.5,
+      "utc": "2026-04-11T07:54:00Z"
+    },
+    {
+      "id": "drogue-chutes",
+      "metHours": 226,
+      "utc": "2026-04-11T08:24:00Z"
+    },
+    {
+      "id": "main-chutes",
+      "metHours": 226.2,
+      "utc": "2026-04-11T08:36:00Z"
+    },
+    {
+      "id": "splashdown",
+      "metHours": 226.5,
+      "utc": "2026-04-11T08:54:00Z"
+    },
+    {
+      "id": "recovery",
+      "metHours": 228,
+      "utc": "2026-04-11T10:24:00Z"
+    }
+  ]
+}
