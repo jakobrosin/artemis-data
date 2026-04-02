@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-02T19:42:00.000Z",
+  "lastUpdated": "2026-04-02T19:43:00.000Z",
   "note": "Live mission schedule. Updated based on NASA blog and mission audio.",
   "crewSchedule": [
     {
       "startMET": 0,
       "endMET": 0.15,
       "day": 1,
-      "label": "Launch & ascent",
+      "label": "TEST: This label came from GitHub, not the site code!",
       "desc": "SLS liftoff, main-engine cutoff ~8 min after launch."
     },
     {
