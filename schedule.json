@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T19:59:00.000Z",
+  "lastUpdated": "2026-04-02T20:16:00.000Z",
   "note": "Live mission schedule. Updated based on NASA blog and mission audio.",
   "crewSchedule": [
     {
@@ -76,43 +76,50 @@
       "startMET": 21.5,
       "endMET": 24,
       "day": 2,
-      "label": "Flywheel exercise setup & workout",
-      "desc": "Wiseman and Glover set up flywheel exercise device and perform first mission workouts."
+      "label": "TLI prep & burn conference",
+      "desc": "Crew and ground teams prepare for the translunar injection burn. Systems checkout, burn timeline review."
     },
     {
       "startMET": 24,
-      "endMET": 27,
+      "endMET": 25.2,
       "day": 2,
-      "label": "Koch & Hansen exercise",
-      "desc": "Koch and Hansen exercise on the flywheel device."
+      "label": "Final TLI preparations \u2014 suits on",
+      "desc": "Crew dons pressure suits as precaution for the critical burn."
     },
     {
-      "startMET": 26,
-      "endMET": 30,
-      "day": 2,
-      "label": "TLI burn preparation",
-      "desc": "Koch prepares Orion's orbital manoeuvring system engine (~6,000 lbs thrust) for translunar injection."
-    },
-    {
-      "startMET": 30,
-      "endMET": 30.3,
+      "startMET": 25.2,
+      "endMET": 25.5,
       "day": 2,
       "label": "Translunar injection burn",
-      "desc": "The TLI burn \u2014 sets course for the Moon and establishes the free-return trajectory for Earth return on Day 10."
+      "desc": "ESM main engine fires for ~6 minutes. The burn that sends Orion to the Moon."
     },
     {
-      "startMET": 30.3,
+      "startMET": 25.5,
+      "endMET": 27,
+      "day": 2,
+      "label": "Post-TLI checks & Earth shadow transit",
+      "desc": "Systems verification after TLI. Orion enters and exits Earth shadow."
+    },
+    {
+      "startMET": 27,
+      "endMET": 29,
+      "day": 2,
+      "label": "Video downlink & crew meal",
+      "desc": "First video call home after TLI. Crew eats their first post-burn meal."
+    },
+    {
+      "startMET": 29,
       "endMET": 32,
       "day": 2,
-      "label": "Post-TLI checks & acclimation",
-      "desc": "Verify spacecraft health after the critical burn; confirm trajectory; crew acclimation time."
+      "label": "Exercise & personal time",
+      "desc": "Flywheel exercise sessions, pushed from earlier in the day due to TLI prep priority."
     },
     {
       "startMET": 32,
       "endMET": 34,
       "day": 2,
-      "label": "First video downlink",
-      "desc": "First space-to-ground video communication session with Mission Control."
+      "label": "Crew meal & pre-sleep",
+      "desc": "Evening meal and preparation for first full sleep period in transit to the Moon."
     },
     {
       "startMET": 34,
