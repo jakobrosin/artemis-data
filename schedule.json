@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T20:47:00.000Z",
+  "lastUpdated": "2026-04-02T20:50:00.000Z",
   "note": "Live mission schedule. Updated based on NASA blog and mission audio.",
   "crewSchedule": [
     {
@@ -67,45 +67,45 @@
     },
     {
       "startMET": 20,
-      "endMET": 21.5,
+      "endMET": 21,
       "day": 2,
       "label": "Wake & meal",
       "desc": "Morning routine and breakfast."
     },
     {
-      "startMET": 24.8,
-      "endMET": 25.5,
-      "day": 2,
-      "label": "Flywheel exercise",
-      "desc": "Crew sets up and uses the flywheel resistive exercise device."
-    },
-    {
-      "startMET": 21.5,
-      "endMET": 24.8,
+      "startMET": 21,
+      "endMET": 22.5,
       "day": 2,
       "label": "TLI prep & burn conference",
-      "desc": "Crew and ground teams prepare for the translunar injection burn."
+      "desc": "Mission management team review. Go/no-go decision for TLI."
     },
     {
-      "startMET": 25,
-      "endMET": 25.2,
+      "startMET": 22,
+      "endMET": 23.5,
       "day": 2,
-      "label": "Final TLI preparations",
-      "desc": "Final systems checkout before the critical burn."
+      "label": "Crew exercise",
+      "desc": "Flywheel resistive exercise device. Crew rotates on the single device."
     },
     {
-      "startMET": 25.2,
+      "startMET": 23.5,
+      "endMET": 24.5,
+      "day": 2,
+      "label": "TLI burn preparation",
+      "desc": "Final systems checkout, crew dons pressure suits as precaution."
+    },
+    {
+      "startMET": 24.5,
       "endMET": 25.5,
       "day": 2,
       "label": "Translunar injection burn",
-      "desc": "ESM main engine fires for ~6 minutes. The burn that sends Orion to the Moon."
+      "desc": "ESM main engine fires for ~6 minutes. The burn that commits Orion to the Moon."
     },
     {
       "startMET": 25.5,
       "endMET": 27,
       "day": 2,
       "label": "Post-TLI checks",
-      "desc": "Systems verification after TLI."
+      "desc": "Systems verification. Orion enters and exits Earth shadow."
     },
     {
       "startMET": 27,
@@ -119,14 +119,14 @@
       "endMET": 32,
       "day": 2,
       "label": "Personal time",
-      "desc": "Off-duty time after a historic day."
+      "desc": "Off-duty after a historic day."
     },
     {
       "startMET": 32,
       "endMET": 34,
       "day": 2,
       "label": "Crew meal & pre-sleep",
-      "desc": "Evening meal before first full sleep in transit."
+      "desc": "Evening meal before transit sleep."
     },
     {
       "startMET": 34,
@@ -898,17 +898,17 @@
     },
     {
       "id": "exercise-wiseman-glover",
-      "metHours": 24.8,
+      "metHours": 22,
       "utc": "2026-04-02T17:24:00Z"
     },
     {
       "id": "exercise-koch-hansen",
-      "metHours": 30.5,
+      "metHours": 22,
       "utc": "2026-04-02T22:24:00Z"
     },
     {
       "id": "tli-prep",
-      "metHours": 23,
+      "metHours": 23.5,
       "utc": "2026-04-03T00:24:00Z"
     },
     {
