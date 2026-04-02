@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T20:51:00.000Z",
+  "lastUpdated": "2026-04-02T21:19:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -15,7 +15,7 @@
       "metHours": -49.667,
       "phase": "prelaunch",
       "title": "Countdown Clock Begins",
-      "summary": "The official launch countdown clock starts at L−49 hours 40 minutes."
+      "summary": "The official launch countdown clock starts at L\u221249 hours 40 minutes."
     },
     {
       "id": "orion-power-up",
@@ -77,15 +77,15 @@
       "id": "lh2-slow-fill",
       "metHours": -9.917,
       "phase": "prelaunch",
-      "title": "Core Stage LH₂ Slow Fill",
+      "title": "Core Stage LH\u2082 Slow Fill",
       "summary": "Loading of liquid hydrogen into the SLS core stage begins with a slow fill to chill down the tank and feed lines."
     },
     {
       "id": "resume-t-clock",
       "metHours": -9.833,
       "phase": "prelaunch",
-      "title": "Resume T-Clock from T−8h 10m",
-      "summary": "The T-clock resumes counting from T−8 hours 10 minutes, running in parallel with the L-clock."
+      "title": "Resume T-Clock from T\u22128h 10m",
+      "summary": "The T-clock resumes counting from T\u22128 hours 10 minutes, running in parallel with the L-clock."
     },
     {
       "id": "lox-slow-fill",
@@ -99,7 +99,7 @@
       "metHours": -6.667,
       "phase": "prelaunch",
       "title": "Orion Comms Activated (RF to Mission Control)",
-      "summary": "Orion’s RF communication link to Mission Control Houston is activated and verified."
+      "summary": "Orion\u2019s RF communication link to Mission Control Houston is activated and verified."
     },
     {
       "id": "closeout-crew-assemble",
@@ -183,21 +183,21 @@
       "metHours": -0.667,
       "phase": "prelaunch",
       "title": "Built-in 30-Minute Hold",
-      "summary": "The final planned hold in the countdown — 30 minutes of margin for last-minute issue resolution."
+      "summary": "The final planned hold in the countdown \u2014 30 minutes of margin for last-minute issue resolution."
     },
     {
       "id": "orion-earth-comm",
       "metHours": -0.417,
       "phase": "prelaunch",
-      "title": "Transition to Orion–Earth Comm Loop",
-      "summary": "Communications switch from ground-based loops to the direct Orion–Earth space communication link."
+      "title": "Transition to Orion\u2013Earth Comm Loop",
+      "summary": "Communications switch from ground-based loops to the direct Orion\u2013Earth space communication link."
     },
     {
       "id": "launch-director-poll",
       "metHours": -0.283,
       "phase": "prelaunch",
       "title": "Launch Director Polls Team for Go",
-      "summary": "The Launch Director polls all console positions for a final “Go/No-Go” decision to proceed with launch."
+      "summary": "The Launch Director polls all console positions for a final \u201cGo/No-Go\u201d decision to proceed with launch."
     },
     {
       "id": "visors-down",
@@ -211,7 +211,7 @@
       "metHours": -0.167,
       "phase": "prelaunch",
       "title": "Terminal Countdown Begins (GLS)",
-      "summary": "The Ground Launch Sequencer takes active control at T−10 minutes, beginning the automated terminal countdown."
+      "summary": "The Ground Launch Sequencer takes active control at T\u221210 minutes, beginning the automated terminal countdown."
     },
     {
       "id": "crew-access-arm-retract",
@@ -273,7 +273,7 @@
       "id": "icps-lh2-terminate",
       "metHours": -0.014,
       "phase": "prelaunch",
-      "title": "ICPS LH₂ Terminate Replenish",
+      "title": "ICPS LH\u2082 Terminate Replenish",
       "summary": "Liquid hydrogen replenishment to the ICPS upper stage is terminated and the fill line is secured."
     },
     {
@@ -281,7 +281,7 @@
       "metHours": -0.009,
       "phase": "prelaunch",
       "title": "Go for Automated Launch Sequencer",
-      "summary": "Final “Go” is given and the automated launch sequencer takes full control for the final seconds."
+      "summary": "Final \u201cGo\u201d is given and the automated launch sequencer takes full control for the final seconds."
     },
     {
       "id": "h2-burnoff-igniters",
@@ -308,7 +308,7 @@
       "id": "booster-ignition-liftoff",
       "metHours": 0,
       "phase": "prelaunch",
-      "title": "Booster Ignition — Liftoff!",
+      "title": "Booster Ignition \u2014 Liftoff!",
       "summary": "The twin solid rocket boosters ignite and the eight hold-down bolts are severed pyrotechnically. SLS lifts off from LC-39B."
     },
     {
@@ -400,13 +400,13 @@
       "metHours": 2,
       "phase": "earth-orbit",
       "title": "Orion Systems Checkout Begins",
-      "summary": "Crew begins comprehensive systems checkout: testing water dispenser, toilet, CO₂ removal, and reconfiguring the cabin for orbital operations."
+      "summary": "Crew begins comprehensive systems checkout: testing water dispenser, toilet, CO\u2082 removal, and reconfiguring the cabin for orbital operations."
     },
     {
       "id": "prox-ops",
       "metHours": 3.405,
       "phase": "earth-orbit",
-      "title": "Proximity Operations Demo — ICPS Separation",
+      "title": "Proximity Operations Demo \u2014 ICPS Separation",
       "summary": "Orion separates from the spent ICPS upper stage at MET 3h 24m. The crew practises manual flying toward and around it as a docking-target surrogate."
     },
     {
@@ -421,7 +421,7 @@
       "metHours": 5,
       "phase": "earth-orbit",
       "title": "ICPS Disposal Burn",
-      "summary": "The spent ICPS performs a disposal burn to move into a safe heliocentric orbit, away from Orion’s path."
+      "summary": "The spent ICPS performs a disposal burn to move into a safe heliocentric orbit, away from Orion\u2019s path."
     },
     {
       "id": "cubesat-deploy",
@@ -449,7 +449,7 @@
       "metHours": 13,
       "phase": "earth-orbit",
       "title": "Deep Space Network Emergency Comms Checkout",
-      "summary": "First test of Orion’s emergency communication system via the Deep Space Network — verifying the link that will be critical during the lunar phase."
+      "summary": "First test of Orion\u2019s emergency communication system via the Deep Space Network \u2014 verifying the link that will be critical during the lunar phase."
     },
     {
       "id": "crew-sleep-1b",
@@ -460,24 +460,24 @@
     },
     {
       "id": "exercise-wiseman-glover",
-      "metHours": 21.5,
+      "metHours": 22,
       "phase": "earth-orbit",
       "title": "Crew Exercise",
       "summary": "Crew rotates on the flywheel resistive exercise device before the TLI burn."
     },
     {
       "id": "tli-prep",
-      "metHours": 26,
+      "metHours": 23.5,
       "phase": "earth-orbit",
       "title": "TLI Burn Preparation",
-      "summary": "Koch prepares Orion’s orbital manoeuvring system engine for the critical translunar injection burn."
+      "summary": "Koch prepares Orion\u2019s orbital manoeuvring system engine for the critical translunar injection burn."
     },
     {
       "id": "tli",
       "metHours": 25.23,
       "phase": "translunar",
-      "title": "⭐ Trans-Lunar Injection (TLI) Burn",
-      "summary": "THE critical burn — ESM main engine fires for ~6 min 5 s, adding ~1,450 km/h to escape Earth orbit and set course for the Moon."
+      "title": "\u2b50 Trans-Lunar Injection (TLI) Burn",
+      "summary": "THE critical burn \u2014 ESM main engine fires for ~6 min 5 s, adding ~1,450 km/h to escape Earth orbit and set course for the Moon."
     },
     {
       "id": "post-tli-acclimation",
@@ -498,14 +498,14 @@
       "metHours": 48.13,
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 1",
-      "summary": "First of three outbound mid-course corrections, fine-tuning Orion’s path to the Moon."
+      "summary": "First of three outbound mid-course corrections, fine-tuning Orion\u2019s path to the Moon."
     },
     {
       "id": "cpr-demo",
       "metHours": 50,
       "phase": "outbound-coast",
       "title": "CPR Demonstration in Microgravity",
-      "summary": "Glover, Koch, and Hansen demonstrate CPR procedures adapted for microgravity — a critical emergency skill for deep-space missions."
+      "summary": "Glover, Koch, and Hansen demonstrate CPR procedures adapted for microgravity \u2014 a critical emergency skill for deep-space missions."
     },
     {
       "id": "medical-kit-checkout",
@@ -519,41 +519,41 @@
       "metHours": 53.42,
       "phase": "outbound-coast",
       "title": "Emergency Comms Test on Deep Space Network",
-      "summary": "Koch tests Orion’s emergency communication modes through the Deep Space Network at increasing distance from Earth."
+      "summary": "Koch tests Orion\u2019s emergency communication modes through the Deep Space Network at increasing distance from Earth."
     },
     {
       "id": "emergency-procedure-practice",
       "metHours": 55,
       "phase": "outbound-coast",
-      "title": "Emergency Procedure Practice — Cabin Depress & Fire",
-      "summary": "Crew runs through emergency procedures for cabin depressurisation and fire — two of the most dangerous scenarios in deep space where rescue is impossible."
+      "title": "Emergency Procedure Practice \u2014 Cabin Depress & Fire",
+      "summary": "Crew runs through emergency procedures for cabin depressurisation and fire \u2014 two of the most dangerous scenarios in deep space where rescue is impossible."
     },
     {
       "id": "outbound-science-experiments",
       "metHours": 56,
       "phase": "outbound-coast",
       "title": "Outbound Science Experiments",
-      "summary": "The crew conducts a suite of biomedical and technology experiments during the outbound transit — the first human-tended experiments beyond low Earth orbit since Apollo."
+      "summary": "The crew conducts a suite of biomedical and technology experiments during the outbound transit \u2014 the first human-tended experiments beyond low Earth orbit since Apollo."
     },
     {
       "id": "lunar-obs-rehearsal",
       "metHours": 57,
       "phase": "outbound-coast",
       "title": "Lunar Observation Rehearsal",
-      "summary": "The crew rehearses the choreography for Flight Day 6’s lunar flyby observations — camera positions, attitude manoeuvres, and target sequences."
+      "summary": "The crew rehearses the choreography for Flight Day 6\u2019s lunar flyby observations \u2014 camera positions, attitude manoeuvres, and target sequences."
     },
     {
       "id": "gps-tdrs-range-limit",
       "metHours": 68,
       "phase": "outbound-coast",
-      "title": "GPS & TDRS Range Limit — Beyond Earth’s Navigation Grid",
-      "summary": "Orion passes beyond the effective range of GPS satellites and the TDRS relay network — from here, only NASA’s Deep Space Network can reach the crew."
+      "title": "GPS & TDRS Range Limit \u2014 Beyond Earth\u2019s Navigation Grid",
+      "summary": "Orion passes beyond the effective range of GPS satellites and the TDRS relay network \u2014 from here, only NASA\u2019s Deep Space Network can reach the crew."
     },
     {
       "id": "emergency-procedure-practice-2",
       "metHours": 70,
       "phase": "outbound-coast",
-      "title": "Emergency Procedure Practice — Rapid Abort Scenarios",
+      "title": "Emergency Procedure Practice \u2014 Rapid Abort Scenarios",
       "summary": "Second emergency drill session: the crew practises abort scenarios including an emergency return trajectory burn and contingency power-down procedures."
     },
     {
@@ -561,49 +561,49 @@
       "metHours": 73.13,
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 2",
-      "summary": "Second mid-course correction refines Orion’s lunar approach path."
+      "summary": "Second mid-course correction refines Orion\u2019s lunar approach path."
     },
     {
       "id": "lunar-target-study",
       "metHours": 74,
       "phase": "outbound-coast",
       "title": "Lunar Geography Target Study",
-      "summary": "Each crew member reviews their assigned geographic targets for lunar flyby imaging — specific craters, maria, and the South Pole–Aitken Basin."
+      "summary": "Each crew member reviews their assigned geographic targets for lunar flyby imaging \u2014 specific craters, maria, and the South Pole\u2013Aitken Basin."
     },
     {
       "id": "celestial-photography",
       "metHours": 78,
       "phase": "outbound-coast",
       "title": "Celestial Photography Session",
-      "summary": "Crew photographs celestial bodies from Orion’s windows — a 20-minute dedicated photography session capturing views impossible from Earth."
+      "summary": "Crew photographs celestial bodies from Orion\u2019s windows \u2014 a 20-minute dedicated photography session capturing views impossible from Earth."
     },
     {
       "id": "spacesuit-pressure-test",
       "metHours": 98,
       "phase": "outbound-coast",
       "title": "Spacesuit Pressure Tests",
-      "summary": "Crew tests rapid donning and pressurisation of the Orion Crew Survival System (OCSS) suits — practising emergency scenarios."
+      "summary": "Crew tests rapid donning and pressurisation of the Orion Crew Survival System (OCSS) suits \u2014 practising emergency scenarios."
     },
     {
       "id": "suit-eat-drink-test",
       "metHours": 100,
       "phase": "outbound-coast",
       "title": "Suit Eat/Drink Port Test",
-      "summary": "Crew tests eating and drinking through the helmet port while suited — validating the ability to sustain crew during extended suited operations."
+      "summary": "Crew tests eating and drinking through the helmet port while suited \u2014 validating the ability to sustain crew during extended suited operations."
     },
     {
       "id": "outbound-correction-3",
       "metHours": 100.48,
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 3",
-      "summary": "Final outbound mid-course correction before the lunar flyby — last chance to fine-tune the approach trajectory."
+      "summary": "Final outbound mid-course correction before the lunar flyby \u2014 last chance to fine-tune the approach trajectory."
     },
     {
       "id": "lunar-sphere-influence",
       "metHours": 102.13,
       "phase": "outbound-coast",
-      "title": "⭐ Enter Lunar Sphere of Influence",
-      "summary": "Orion crosses into the Moon’s gravitational sphere of influence at ~66,200 km from the lunar centre — the Moon’s gravity is now the dominant force acting on the spacecraft."
+      "title": "\u2b50 Enter Lunar Sphere of Influence",
+      "summary": "Orion crosses into the Moon\u2019s gravitational sphere of influence at ~66,200 km from the lunar centre \u2014 the Moon\u2019s gravity is now the dominant force acting on the spacecraft."
     },
     {
       "id": "lunar-approach",
@@ -616,8 +616,8 @@
       "id": "closest-approach",
       "metHours": 120.52,
       "phase": "lunar-flyby",
-      "title": "⭐ Closest Approach — ~8,900 km Above Lunar Surface",
-      "summary": "The emotional and navigational heart of the mission — Orion passes ~8,900 km (~5,530 mi) above the Moon, closer than any crewed spacecraft since Apollo."
+      "title": "\u2b50 Closest Approach \u2014 ~8,900 km Above Lunar Surface",
+      "summary": "The emotional and navigational heart of the mission \u2014 Orion passes ~8,900 km (~5,530 mi) above the Moon, closer than any crewed spacecraft since Apollo."
     },
     {
       "id": "lunar-surface-obs",
@@ -630,15 +630,15 @@
       "id": "far-side-blackout",
       "metHours": 122,
       "phase": "lunar-flyby",
-      "title": "⭐ Far Side of Moon — Communications Blackout (30–50 min)",
-      "summary": "Orion passes behind the Moon. All radio contact with Earth is lost for 30–50 minutes — the crew is completely on their own, farther from contact with home than any humans in history."
+      "title": "\u2b50 Far Side of Moon \u2014 Communications Blackout (30\u201350 min)",
+      "summary": "Orion passes behind the Moon. All radio contact with Earth is lost for 30\u201350 minutes \u2014 the crew is completely on their own, farther from contact with home than any humans in history."
     },
     {
       "id": "far-side-photography",
       "metHours": 122.5,
       "phase": "lunar-flyby",
       "title": "Far-Side Photography Session",
-      "summary": "During the communications blackout, the crew turns all cameras toward the Moon’s far side — a landscape no human eye has seen directly since Apollo 17."
+      "summary": "During the communications blackout, the crew turns all cameras toward the Moon\u2019s far side \u2014 a landscape no human eye has seen directly since Apollo 17."
     },
     {
       "id": "signal-reacquired",
@@ -651,28 +651,28 @@
       "id": "distance-record",
       "metHours": 121.43,
       "phase": "lunar-flyby",
-      "title": "⭐ Maximum Distance from Earth — ~4,600 mi Beyond the Far Side",
-      "summary": "Orion reaches its maximum distance from Earth at approximately 405,500 km — surpassing Apollo 13’s record of 400,171 km by over 5,300 km, and passing roughly 4,600 miles beyond the Moon’s far side."
+      "title": "\u2b50 Maximum Distance from Earth \u2014 ~4,600 mi Beyond the Far Side",
+      "summary": "Orion reaches its maximum distance from Earth at approximately 405,500 km \u2014 surpassing Apollo 13\u2019s record of 400,171 km by over 5,300 km, and passing roughly 4,600 miles beyond the Moon\u2019s far side."
     },
     {
       "id": "post-flyby-science",
       "metHours": 130,
       "phase": "lunar-flyby",
       "title": "Post-Flyby Science Observations",
-      "summary": "Continued photography and observations as Orion departs the Moon — capturing the receding lunar landscape and \"Earthrise\" views."
+      "summary": "Continued photography and observations as Orion departs the Moon \u2014 capturing the receding lunar landscape and \"Earthrise\" views."
     },
     {
       "id": "exit-lunar-sphere",
       "metHours": 138.87,
       "phase": "return-coast",
       "title": "Exit Lunar Sphere of Influence",
-      "summary": "Orion exits the Moon’s gravitational sphere of influence — Earth’s gravity is once again the dominant force. The homeward journey accelerates from here."
+      "summary": "Orion exits the Moon\u2019s gravitational sphere of influence \u2014 Earth\u2019s gravity is once again the dominant force. The homeward journey accelerates from here."
     },
     {
       "id": "day7-off-duty",
       "metHours": 142,
       "phase": "return-coast",
-      "title": "Crew Off-Duty Day — Rest & Personal Time",
+      "title": "Crew Off-Duty Day \u2014 Rest & Personal Time",
       "summary": "Largely off-duty day for the crew to rest and recover after the intense lunar flyby. Minimal scheduled activities."
     },
     {
@@ -680,21 +680,21 @@
       "metHours": 145.48,
       "phase": "return-coast",
       "title": "Return Trajectory Correction Burn 1",
-      "summary": "First of three return course-correction burns to adjust Orion’s path toward the re-entry corridor."
+      "summary": "First of three return course-correction burns to adjust Orion\u2019s path toward the re-entry corridor."
     },
     {
       "id": "radiation-shelter",
       "metHours": 170,
       "phase": "return-coast",
       "title": "Radiation Shelter Demonstration",
-      "summary": "Crew builds a protective radiation shelter using Orion’s supplies and equipment — demonstrating shielding from solar particle events."
+      "summary": "Crew builds a protective radiation shelter using Orion\u2019s supplies and equipment \u2014 demonstrating shielding from solar particle events."
     },
     {
       "id": "manual-piloting-demo",
       "metHours": 174,
       "phase": "return-coast",
-      "title": "Manual Piloting Demo — 6-DOF vs 3-DOF",
-      "summary": "Crew tests Orion’s manual flight control modes: target centering, tail-to-Sun attitude, and comparing 6-DOF vs 3-DOF handling."
+      "title": "Manual Piloting Demo \u2014 6-DOF vs 3-DOF",
+      "summary": "Crew tests Orion\u2019s manual flight control modes: target centering, tail-to-Sun attitude, and comparing 6-DOF vs 3-DOF handling."
     },
     {
       "id": "return-correction-2",
@@ -722,7 +722,7 @@
       "metHours": 214,
       "phase": "reentry",
       "title": "Final Stow & Cabin Prep",
-      "summary": "Final cabin preparations for re-entry — all equipment secured, seats in landing position, cabin in launch configuration."
+      "summary": "Final cabin preparations for re-entry \u2014 all equipment secured, seats in landing position, cabin in launch configuration."
     },
     {
       "id": "crew-dons-suits",
@@ -742,8 +742,8 @@
       "id": "entry-interface",
       "metHours": 225,
       "phase": "reentry",
-      "title": "⭐ Entry Interface — Hitting Atmosphere at 40,000 km/h",
-      "summary": "Orion enters Earth’s atmosphere at 120 km altitude, travelling at ~40,000 km/h (25,000 mph). Heat shield faces ~2,760 °C (5,000 °F)."
+      "title": "\u2b50 Entry Interface \u2014 Hitting Atmosphere at 40,000 km/h",
+      "summary": "Orion enters Earth\u2019s atmosphere at 120 km altitude, travelling at ~40,000 km/h (25,000 mph). Heat shield faces ~2,760 \u00b0C (5,000 \u00b0F)."
     },
     {
       "id": "reentry-radio-blackout",
@@ -770,7 +770,7 @@
       "id": "splashdown",
       "metHours": 226.5,
       "phase": "reentry",
-      "title": "⭐ Splashdown in Pacific Ocean",
+      "title": "\u2b50 Splashdown in Pacific Ocean",
       "summary": "Orion splashes down in the Pacific Ocean ~370 km off San Diego, California. The Artemis II mission is complete."
     },
     {
@@ -815,14 +815,14 @@
       "endMET": 8,
       "day": 1,
       "label": "Orion systems checkout",
-      "desc": "Test potable water dispenser, toilet, CO₂ removal system."
+      "desc": "Test potable water dispenser, toilet, CO\u2082 removal system."
     },
     {
       "startMET": 7,
       "endMET": 7.5,
       "day": 1,
       "label": "Crew meal",
-      "desc": "First meal in orbit — test food rehydration system."
+      "desc": "First meal in orbit \u2014 test food rehydration system."
     },
     {
       "startMET": 7.5,
@@ -856,7 +856,7 @@
       "startMET": 21,
       "endMET": 22,
       "day": 2,
-      "label": "TLI burn conference — GO for TLI",
+      "label": "TLI burn conference \u2014 GO for TLI",
       "desc": "Mission management team gave go for translunar injection."
     },
     {
@@ -1004,7 +1004,7 @@
       "endMET": 74,
       "day": 4,
       "label": "Lunar target study",
-      "desc": "Each astronaut reviews geographic targets for Day 6 imagery — exact targets based on launch day/time."
+      "desc": "Each astronaut reviews geographic targets for Day 6 imagery \u2014 exact targets based on launch day/time."
     },
     {
       "startMET": 74,
@@ -1108,7 +1108,7 @@
       "startMET": 114,
       "endMET": 116,
       "day": 6,
-      "label": "Wake early — lunar flyby day",
+      "label": "Wake early \u2014 lunar flyby day",
       "desc": "Early wake-up for the historic lunar flyby."
     },
     {
@@ -1122,15 +1122,15 @@
       "startMET": 118,
       "endMET": 124,
       "day": 6,
-      "label": "Lunar flyby — photography & observations",
-      "desc": "Closest approach: 4,000–6,000 miles from lunar surface. Moon appears basketball-sized at arm's length. Crew photographs and records observations."
+      "label": "Lunar flyby \u2014 photography & observations",
+      "desc": "Closest approach: 4,000\u20136,000 miles from lunar surface. Moon appears basketball-sized at arm's length. Crew photographs and records observations."
     },
     {
       "startMET": 124,
       "endMET": 125,
       "day": 6,
-      "label": "Far-side transit — loss of signal",
-      "desc": "Orion passes behind the Moon. Communications blackout lasting 30–50 minutes."
+      "label": "Far-side transit \u2014 loss of signal",
+      "desc": "Orion passes behind the Moon. Communications blackout lasting 30\u201350 minutes."
     },
     {
       "startMET": 125,
@@ -1221,7 +1221,7 @@
       "endMET": 172,
       "day": 8,
       "label": "Radiation shelter demonstration",
-      "desc": "Crew builds a protective shelter using Orion supplies — demonstrating shielding from solar particle events."
+      "desc": "Crew builds a protective shelter using Orion supplies \u2014 demonstrating shielding from solar particle events."
     },
     {
       "startMET": 172,
@@ -1291,7 +1291,7 @@
       "endMET": 202,
       "day": 9,
       "label": "Crew meal",
-      "desc": "Evening meal — last full evening in space."
+      "desc": "Evening meal \u2014 last full evening in space."
     },
     {
       "startMET": 202,
@@ -1304,7 +1304,7 @@
       "startMET": 210,
       "endMET": 214,
       "day": 10,
-      "label": "Wake early — re-entry day",
+      "label": "Wake early \u2014 re-entry day",
       "desc": "Early wake-up for the final day of the mission."
     },
     {
@@ -1333,14 +1333,14 @@
       "endMET": 226,
       "day": 10,
       "label": "Atmospheric re-entry",
-      "desc": "Heat shield faces temperatures up to ~2,760 °C (5,000 °F) during re-entry at ~40,000 km/h."
+      "desc": "Heat shield faces temperatures up to ~2,760 \u00b0C (5,000 \u00b0F) during re-entry at ~40,000 km/h."
     },
     {
       "startMET": 226,
       "endMET": 226.5,
       "day": 10,
       "label": "Parachute descent",
-      "desc": "Drogue chutes slow to ~494 km/h, then three main chutes deploy — final descent at ~27 km/h."
+      "desc": "Drogue chutes slow to ~494 km/h, then three main chutes deploy \u2014 final descent at ~27 km/h."
     },
     {
       "startMET": 226.5,
