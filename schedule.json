@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T20:50:00.000Z",
+  "lastUpdated": "2026-04-02T20:51:00.000Z",
   "note": "Live mission schedule. Updated based on NASA blog and mission audio.",
   "crewSchedule": [
     {
@@ -74,38 +74,38 @@
     },
     {
       "startMET": 21,
-      "endMET": 22.5,
+      "endMET": 22,
       "day": 2,
-      "label": "TLI prep & burn conference",
-      "desc": "Mission management team review. Go/no-go decision for TLI."
+      "label": "TLI burn conference \u2014 GO for TLI",
+      "desc": "Mission management team gave go for translunar injection."
     },
     {
       "startMET": 22,
       "endMET": 23.5,
       "day": 2,
       "label": "Crew exercise",
-      "desc": "Flywheel resistive exercise device. Crew rotates on the single device."
+      "desc": "Flywheel resistive exercise. Crew rotates on the single device."
     },
     {
       "startMET": 23.5,
       "endMET": 24.5,
       "day": 2,
       "label": "TLI burn preparation",
-      "desc": "Final systems checkout, crew dons pressure suits as precaution."
+      "desc": "Final systems checkout, crew dons pressure suits."
     },
     {
       "startMET": 24.5,
       "endMET": 25.5,
       "day": 2,
       "label": "Translunar injection burn",
-      "desc": "ESM main engine fires for ~6 minutes. The burn that commits Orion to the Moon."
+      "desc": "ESM main engine fires for ~6 minutes. Commits Orion to the Moon."
     },
     {
       "startMET": 25.5,
       "endMET": 27,
       "day": 2,
       "label": "Post-TLI checks",
-      "desc": "Systems verification. Orion enters and exits Earth shadow."
+      "desc": "Systems verification. Earth shadow transit."
     },
     {
       "startMET": 27,
