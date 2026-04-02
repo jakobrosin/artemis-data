@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-02T19:38:05.719Z",
+  "lastUpdated": "2026-04-02T19:40:00.000Z",
   "note": "Live mission schedule. Updated based on NASA blog and mission audio.",
   "crewSchedule": [
     {
       "startMET": 0,
       "endMET": 0.15,
       "day": 1,
-      "label": "Launch & ascent",
+      "label": "TEST: Launch & ascent (remote update works!)",
       "desc": "SLS liftoff, main-engine cutoff ~8 min after launch."
     },
     {
@@ -35,14 +35,14 @@
       "endMET": 8,
       "day": 1,
       "label": "Orion systems checkout",
-      "desc": "Test potable water dispenser, toilet, CO₂ removal system."
+      "desc": "Test potable water dispenser, toilet, CO\u2082 removal system."
     },
     {
       "startMET": 7,
       "endMET": 7.5,
       "day": 1,
       "label": "Crew meal",
-      "desc": "First meal in orbit — test food rehydration system."
+      "desc": "First meal in orbit \u2014 test food rehydration system."
     },
     {
       "startMET": 7.5,
@@ -98,7 +98,7 @@
       "endMET": 30.3,
       "day": 2,
       "label": "Translunar injection burn",
-      "desc": "The TLI burn — sets course for the Moon and establishes the free-return trajectory for Earth return on Day 10."
+      "desc": "The TLI burn \u2014 sets course for the Moon and establishes the free-return trajectory for Earth return on Day 10."
     },
     {
       "startMET": 30.3,
@@ -210,7 +210,7 @@
       "endMET": 74,
       "day": 4,
       "label": "Lunar target study",
-      "desc": "Each astronaut reviews geographic targets for Day 6 imagery — exact targets based on launch day/time."
+      "desc": "Each astronaut reviews geographic targets for Day 6 imagery \u2014 exact targets based on launch day/time."
     },
     {
       "startMET": 74,
@@ -314,7 +314,7 @@
       "startMET": 114,
       "endMET": 116,
       "day": 6,
-      "label": "Wake early — lunar flyby day",
+      "label": "Wake early \u2014 lunar flyby day",
       "desc": "Early wake-up for the historic lunar flyby."
     },
     {
@@ -328,15 +328,15 @@
       "startMET": 118,
       "endMET": 124,
       "day": 6,
-      "label": "Lunar flyby — photography & observations",
-      "desc": "Closest approach: 4,000–6,000 miles from lunar surface. Moon appears basketball-sized at arm's length. Crew photographs and records observations."
+      "label": "Lunar flyby \u2014 photography & observations",
+      "desc": "Closest approach: 4,000\u20136,000 miles from lunar surface. Moon appears basketball-sized at arm's length. Crew photographs and records observations."
     },
     {
       "startMET": 124,
       "endMET": 125,
       "day": 6,
-      "label": "Far-side transit — loss of signal",
-      "desc": "Orion passes behind the Moon. Communications blackout lasting 30–50 minutes."
+      "label": "Far-side transit \u2014 loss of signal",
+      "desc": "Orion passes behind the Moon. Communications blackout lasting 30\u201350 minutes."
     },
     {
       "startMET": 125,
@@ -427,7 +427,7 @@
       "endMET": 172,
       "day": 8,
       "label": "Radiation shelter demonstration",
-      "desc": "Crew builds a protective shelter using Orion supplies — demonstrating shielding from solar particle events."
+      "desc": "Crew builds a protective shelter using Orion supplies \u2014 demonstrating shielding from solar particle events."
     },
     {
       "startMET": 172,
@@ -497,7 +497,7 @@
       "endMET": 202,
       "day": 9,
       "label": "Crew meal",
-      "desc": "Evening meal — last full evening in space."
+      "desc": "Evening meal \u2014 last full evening in space."
     },
     {
       "startMET": 202,
@@ -510,7 +510,7 @@
       "startMET": 210,
       "endMET": 214,
       "day": 10,
-      "label": "Wake early — re-entry day",
+      "label": "Wake early \u2014 re-entry day",
       "desc": "Early wake-up for the final day of the mission."
     },
     {
@@ -539,14 +539,14 @@
       "endMET": 226,
       "day": 10,
       "label": "Atmospheric re-entry",
-      "desc": "Heat shield faces temperatures up to ~2,760 °C (5,000 °F) during re-entry at ~40,000 km/h."
+      "desc": "Heat shield faces temperatures up to ~2,760 \u00b0C (5,000 \u00b0F) during re-entry at ~40,000 km/h."
     },
     {
       "startMET": 226,
       "endMET": 226.5,
       "day": 10,
       "label": "Parachute descent",
-      "desc": "Drogue chutes slow to ~494 km/h, then three main chutes deploy — final descent at ~27 km/h."
+      "desc": "Drogue chutes slow to ~494 km/h, then three main chutes deploy \u2014 final descent at ~27 km/h."
     },
     {
       "startMET": 226.5,
