@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T20:18:30.000Z",
+  "lastUpdated": "2026-04-02T20:44:00.000Z",
   "note": "Live mission schedule. Updated based on NASA blog and mission audio.",
   "crewSchedule": [
     {
@@ -74,17 +74,24 @@
     },
     {
       "startMET": 21.5,
-      "endMET": 24,
+      "endMET": 23,
       "day": 2,
-      "label": "TLI prep & burn conference",
-      "desc": "Crew and ground teams prepare for the translunar injection burn. Systems checkout, burn timeline review."
+      "label": "Flywheel exercise",
+      "desc": "Crew sets up and uses the flywheel resistive exercise device."
     },
     {
-      "startMET": 24,
+      "startMET": 23,
+      "endMET": 25,
+      "day": 2,
+      "label": "TLI prep & burn conference",
+      "desc": "Crew and ground teams prepare for the translunar injection burn."
+    },
+    {
+      "startMET": 25,
       "endMET": 25.2,
       "day": 2,
-      "label": "Final TLI preparations \u2014 suits on",
-      "desc": "Crew dons pressure suits as precaution for the critical burn."
+      "label": "Final TLI preparations",
+      "desc": "Final systems checkout before the critical burn."
     },
     {
       "startMET": 25.2,
@@ -97,29 +104,29 @@
       "startMET": 25.5,
       "endMET": 27,
       "day": 2,
-      "label": "Post-TLI checks & Earth shadow transit",
-      "desc": "Systems verification after TLI. Orion enters and exits Earth shadow."
+      "label": "Post-TLI checks",
+      "desc": "Systems verification after TLI."
     },
     {
       "startMET": 27,
       "endMET": 29,
       "day": 2,
       "label": "Video downlink & crew meal",
-      "desc": "First video call home after TLI. Crew eats their first post-burn meal."
+      "desc": "First video call home after TLI."
     },
     {
       "startMET": 29,
       "endMET": 32,
       "day": 2,
-      "label": "Exercise & personal time",
-      "desc": "Flywheel exercise sessions, pushed from earlier in the day due to TLI prep priority."
+      "label": "Personal time",
+      "desc": "Off-duty time after a historic day."
     },
     {
       "startMET": 32,
       "endMET": 34,
       "day": 2,
       "label": "Crew meal & pre-sleep",
-      "desc": "Evening meal and preparation for first full sleep period in transit to the Moon."
+      "desc": "Evening meal before first full sleep in transit."
     },
     {
       "startMET": 34,
@@ -891,7 +898,7 @@
     },
     {
       "id": "exercise-wiseman-glover",
-      "metHours": 29,
+      "metHours": 21.5,
       "utc": "2026-04-02T17:24:00Z"
     },
     {
@@ -901,7 +908,7 @@
     },
     {
       "id": "tli-prep",
-      "metHours": 21.5,
+      "metHours": 23,
       "utc": "2026-04-03T00:24:00Z"
     },
     {
