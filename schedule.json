@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:19:00.000Z",
+  "lastUpdated": "2026-04-03T17:22:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -624,10 +624,10 @@
     },
     {
       "id": "outbound-correction-1",
-      "metHours": 48.13,
+      "metHours": 48.23,
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 1",
-      "summary": "First of three outbound mid-course corrections, fine-tuning Orion\u2019s path to the Moon.",
+      "summary": "8-second burn using reaction control thrusters to fine-tune the trajectory toward the Moon.",
       "timed": true
     },
     {
