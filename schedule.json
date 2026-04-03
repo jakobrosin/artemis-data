@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T06:22:00.000Z",
+  "lastUpdated": "2026-04-03T17:02:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -8,791 +8,992 @@
       "metHours": -49.833,
       "phase": "prelaunch",
       "title": "Launch Team Arrives to Stations",
-      "summary": "Launch team personnel report to their consoles in the Launch Control Center at Kennedy Space Center."
+      "summary": "Launch team personnel report to their consoles in the Launch Control Center at Kennedy Space Center.",
+      "timed": true,
+      "day": -1
     },
     {
       "id": "countdown-clock-begins",
       "metHours": -49.667,
       "phase": "prelaunch",
       "title": "Countdown Clock Begins",
-      "summary": "The official launch countdown clock starts at L\u221249 hours 40 minutes."
+      "summary": "The official launch countdown clock starts at L\u221249 hours 40 minutes.",
+      "timed": true,
+      "day": -1
     },
     {
       "id": "orion-power-up",
       "metHours": -45.5,
       "phase": "prelaunch",
       "title": "Orion Spacecraft Powered Up",
-      "summary": "The Orion crew module and European Service Module are powered on and begin system self-checks."
+      "summary": "The Orion crew module and European Service Module are powered on and begin system self-checks.",
+      "timed": true,
+      "day": 0
     },
     {
       "id": "core-stage-power-up",
       "metHours": -42.333,
       "phase": "prelaunch",
       "title": "Core Stage Powered Up",
-      "summary": "The SLS core stage avionics and flight computers are powered on for pre-flight testing."
+      "summary": "The SLS core stage avionics and flight computers are powered on for pre-flight testing.",
+      "timed": true,
+      "day": 0
     },
     {
       "id": "rs25-final-prep",
       "metHours": -39.75,
       "phase": "prelaunch",
       "title": "Final Preparations of RS-25 Engines",
-      "summary": "Technicians complete final inspections and preparations on the four RS-25 main engines."
+      "summary": "Technicians complete final inspections and preparations on the four RS-25 main engines.",
+      "timed": true,
+      "day": 0
     },
     {
       "id": "icps-power-up",
       "metHours": -20.25,
       "phase": "prelaunch",
       "title": "ICPS Powered Up for Launch",
-      "summary": "The Interim Cryogenic Propulsion Stage upper stage is powered on and its RL10B-2 engine systems are checked."
+      "summary": "The Interim Cryogenic Propulsion Stage upper stage is powered on and its RL10B-2 engine systems are checked.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "non-essential-leave-pad",
       "metHours": -15.5,
       "phase": "prelaunch",
       "title": "Non-Essential Personnel Leave Pad",
-      "summary": "All non-essential workers are cleared from Launch Complex 39B as the countdown enters its critical phase."
+      "summary": "All non-essential workers are cleared from Launch Complex 39B as the countdown enters its critical phase.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "gls-activation",
       "metHours": -13.25,
       "phase": "prelaunch",
       "title": "Ground Launch Sequencer Activation",
-      "summary": "The Ground Launch Sequencer (GLS) software is activated and begins monitoring vehicle health."
+      "summary": "The Ground Launch Sequencer (GLS) software is activated and begins monitoring vehicle health.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "built-in-hold-2h45m",
       "metHours": -12.583,
       "phase": "prelaunch",
       "title": "Built-in 2h 45m Hold Begins",
-      "summary": "A planned 2-hour 45-minute hold in the countdown allows teams to catch up on procedures and resolve any open issues."
+      "summary": "A planned 2-hour 45-minute hold in the countdown allows teams to catch up on procedures and resolve any open issues.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "go-nogo-tanking",
       "metHours": -10.833,
       "phase": "prelaunch",
       "title": "Go/No-Go for Tanking",
-      "summary": "The Launch Director polls the team for permission to begin loading cryogenic propellants into the SLS core stage."
+      "summary": "The Launch Director polls the team for permission to begin loading cryogenic propellants into the SLS core stage.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "lh2-slow-fill",
       "metHours": -9.917,
       "phase": "prelaunch",
       "title": "Core Stage LH\u2082 Slow Fill",
-      "summary": "Loading of liquid hydrogen into the SLS core stage begins with a slow fill to chill down the tank and feed lines."
+      "summary": "Loading of liquid hydrogen into the SLS core stage begins with a slow fill to chill down the tank and feed lines.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "resume-t-clock",
       "metHours": -9.833,
       "phase": "prelaunch",
       "title": "Resume T-Clock from T\u22128h 10m",
-      "summary": "The T-clock resumes counting from T\u22128 hours 10 minutes, running in parallel with the L-clock."
+      "summary": "The T-clock resumes counting from T\u22128 hours 10 minutes, running in parallel with the L-clock.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "lox-slow-fill",
       "metHours": -9.667,
       "phase": "prelaunch",
       "title": "Core Stage LOX Slow Fill",
-      "summary": "Liquid oxygen loading begins into the SLS core stage, starting with slow fill to chill the tank."
+      "summary": "Liquid oxygen loading begins into the SLS core stage, starting with slow fill to chill the tank.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "orion-comms-activated",
       "metHours": -6.667,
       "phase": "prelaunch",
       "title": "Orion Comms Activated (RF to Mission Control)",
-      "summary": "Orion\u2019s RF communication link to Mission Control Houston is activated and verified."
+      "summary": "Orion\u2019s RF communication link to Mission Control Houston is activated and verified.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "closeout-crew-assemble",
       "metHours": -6.167,
       "phase": "prelaunch",
       "title": "Closeout Crew Assemble",
-      "summary": "The closeout crew assembles at the pad to prepare for crew arrival and ingress into Orion."
+      "summary": "The closeout crew assembles at the pad to prepare for crew arrival and ingress into Orion.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "crew-weather-brief",
       "metHours": -6,
       "phase": "prelaunch",
       "title": "Flight Crew Weather Brief",
-      "summary": "The flight crew receives the final weather briefing from the 45th Weather Squadron at Patrick Space Force Base."
+      "summary": "The flight crew receives the final weather briefing from the 45th Weather Squadron at Patrick Space Force Base.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "built-in-hold-1h10m",
       "metHours": -5.167,
       "phase": "prelaunch",
       "title": "Built-in 1h 10m Hold Begins",
-      "summary": "A planned 1-hour 10-minute hold provides final margin before crew transport to the pad."
+      "summary": "A planned 1-hour 10-minute hold provides final margin before crew transport to the pad.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "crew-deploy-to-pad",
       "metHours": -4.667,
       "phase": "prelaunch",
       "title": "Flight Crew Deployment to Pad",
-      "summary": "The crew departs the Neil Armstrong Operations and Checkout Building for the 9-mile drive to Launch Complex 39B."
+      "summary": "The crew departs the Neil Armstrong Operations and Checkout Building for the 9-mile drive to Launch Complex 39B.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "crew-board-orion",
       "metHours": -4,
       "phase": "prelaunch",
       "title": "Flight Crew Board Orion (Ingress)",
-      "summary": "The four crew members enter the Orion spacecraft via the Crew Access Arm and take their assigned seats."
+      "summary": "The four crew members enter the Orion spacecraft via the Crew Access Arm and take their assigned seats.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "hatch-preps-closure",
       "metHours": -3.667,
       "phase": "prelaunch",
       "title": "Crew Module Hatch Preps and Closure",
-      "summary": "The closeout crew prepares and closes the Orion crew module hatch, then performs leak checks."
+      "summary": "The closeout crew prepares and closes the Orion crew module hatch, then performs leak checks.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "hatch-service-panel",
       "metHours": -2.333,
       "phase": "prelaunch",
       "title": "Hatch Service Panel Install / Closeouts",
-      "summary": "The exterior hatch service panel is installed and final closeout tasks are performed on the crew module."
+      "summary": "The exterior hatch service panel is installed and final closeout tasks are performed on the crew module.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "las-hatch-closure",
       "metHours": -1.667,
       "phase": "prelaunch",
       "title": "Launch Abort System Hatch Closure",
-      "summary": "The Launch Abort System (LAS) hatch is sealed, completing the closeout of the crew escape path."
+      "summary": "The Launch Abort System (LAS) hatch is sealed, completing the closeout of the crew escape path.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "launch-director-brief",
       "metHours": -1.167,
       "phase": "prelaunch",
       "title": "Launch Director Brief",
-      "summary": "Launch Director Charlie Blackwell-Thompson briefs the team on countdown status and any open items."
+      "summary": "Launch Director Charlie Blackwell-Thompson briefs the team on countdown status and any open items.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "closeout-crew-departs",
       "metHours": -0.833,
       "phase": "prelaunch",
       "title": "Closeout Crew Departs Pad",
-      "summary": "The closeout crew leaves the mobile launcher and evacuates to the Launch Control Center, 5.6 km away."
+      "summary": "The closeout crew leaves the mobile launcher and evacuates to the Launch Control Center, 5.6 km away.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "final-ntd-briefing",
       "metHours": -0.833,
       "phase": "prelaunch",
       "title": "Final NTD Briefing",
-      "summary": "The NASA Test Director (NTD) delivers the final pre-launch briefing to all teams."
+      "summary": "The NASA Test Director (NTD) delivers the final pre-launch briefing to all teams.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "built-in-hold-30m",
       "metHours": -0.667,
       "phase": "prelaunch",
       "title": "Built-in 30-Minute Hold",
-      "summary": "The final planned hold in the countdown \u2014 30 minutes of margin for last-minute issue resolution."
+      "summary": "The final planned hold in the countdown \u2014 30 minutes of margin for last-minute issue resolution.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "orion-earth-comm",
       "metHours": -0.417,
       "phase": "prelaunch",
       "title": "Transition to Orion\u2013Earth Comm Loop",
-      "summary": "Communications switch from ground-based loops to the direct Orion\u2013Earth space communication link."
+      "summary": "Communications switch from ground-based loops to the direct Orion\u2013Earth space communication link.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "launch-director-poll",
       "metHours": -0.283,
       "phase": "prelaunch",
       "title": "Launch Director Polls Team for Go",
-      "summary": "The Launch Director polls all console positions for a final \u201cGo/No-Go\u201d decision to proceed with launch."
+      "summary": "The Launch Director polls all console positions for a final \u201cGo/No-Go\u201d decision to proceed with launch.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "visors-down",
       "metHours": -0.25,
       "phase": "prelaunch",
       "title": "Flight Crew Visors Down",
-      "summary": "The four crew members lower and lock their helmet visors, sealing their OCSS pressure suits for launch."
+      "summary": "The four crew members lower and lock their helmet visors, sealing their OCSS pressure suits for launch.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "terminal-countdown",
       "metHours": -0.167,
       "phase": "prelaunch",
       "title": "Terminal Countdown Begins (GLS)",
-      "summary": "The Ground Launch Sequencer takes active control at T\u221210 minutes, beginning the automated terminal countdown."
+      "summary": "The Ground Launch Sequencer takes active control at T\u221210 minutes, beginning the automated terminal countdown.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "crew-access-arm-retract",
       "metHours": -0.133,
       "phase": "prelaunch",
       "title": "Crew Access Arm Retract",
-      "summary": "The 55-metre Crew Access Arm swings away from Orion and locks into launch position."
+      "summary": "The 55-metre Crew Access Arm swings away from Orion and locks into launch position.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "tank-press-internal-power",
       "metHours": -0.1,
       "phase": "prelaunch",
       "title": "Core Stage Tank Pressurization / Orion to Internal Power",
-      "summary": "Core stage propellant tanks are pressurised to flight levels and Orion switches to internal battery power."
+      "summary": "Core stage propellant tanks are pressurised to flight levels and Orion switches to internal battery power.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "las-capability-available",
       "metHours": -0.089,
       "phase": "prelaunch",
       "title": "LAS Capability Available",
-      "summary": "The Launch Abort System is armed and ready to pull the crew module to safety if an abort is triggered."
+      "summary": "The Launch Abort System is armed and ready to pull the crew module to safety if an abort is triggered.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "fts-armed",
       "metHours": -0.075,
       "phase": "prelaunch",
       "title": "Flight Termination System Armed",
-      "summary": "The flight termination system is armed, giving Range Safety the ability to destroy the vehicle if it goes off course."
+      "summary": "The flight termination system is armed, giving Range Safety the ability to destroy the vehicle if it goes off course.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "core-stage-apu-start",
       "metHours": -0.067,
       "phase": "prelaunch",
       "title": "Core Stage APU Start",
-      "summary": "The core stage Auxiliary Power Units start, providing hydraulic power for RS-25 engine gimballing."
+      "summary": "The core stage Auxiliary Power Units start, providing hydraulic power for RS-25 engine gimballing.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "purge-sequence-4",
       "metHours": -0.053,
       "phase": "prelaunch",
       "title": "Purge Sequence 4",
-      "summary": "The fourth and final purge sequence flushes the engine compartment with inert gas to prevent hydrogen accumulation."
+      "summary": "The fourth and final purge sequence flushes the engine compartment with inert gas to prevent hydrogen accumulation.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "booster-internal-power",
       "metHours": -0.033,
       "phase": "prelaunch",
       "title": "Booster to Internal Power",
-      "summary": "The twin solid rocket boosters switch to internal battery power in preparation for ignition."
+      "summary": "The twin solid rocket boosters switch to internal battery power in preparation for ignition.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "core-stage-internal-power",
       "metHours": -0.025,
       "phase": "prelaunch",
       "title": "Core Stage to Internal Power",
-      "summary": "The SLS core stage disconnects from ground power and switches to internal batteries."
+      "summary": "The SLS core stage disconnects from ground power and switches to internal batteries.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "icps-lh2-terminate",
       "metHours": -0.014,
       "phase": "prelaunch",
       "title": "ICPS LH\u2082 Terminate Replenish",
-      "summary": "Liquid hydrogen replenishment to the ICPS upper stage is terminated and the fill line is secured."
+      "summary": "Liquid hydrogen replenishment to the ICPS upper stage is terminated and the fill line is secured.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "go-automated-sequencer",
       "metHours": -0.009,
       "phase": "prelaunch",
       "title": "Go for Automated Launch Sequencer",
-      "summary": "Final \u201cGo\u201d is given and the automated launch sequencer takes full control for the final seconds."
+      "summary": "Final \u201cGo\u201d is given and the automated launch sequencer takes full control for the final seconds.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "h2-burnoff-igniters",
       "metHours": -0.003,
       "phase": "prelaunch",
       "title": "Hydrogen Burn-Off Igniters",
-      "summary": "Hydrogen burn-off igniters activate beneath the RS-25 engines to safely combust any free hydrogen before ignition."
+      "summary": "Hydrogen burn-off igniters activate beneath the RS-25 engines to safely combust any free hydrogen before ignition.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "rs25-start-command",
       "metHours": -0.003,
       "phase": "prelaunch",
       "title": "RS-25 Engine Start Command",
-      "summary": "The start command is sent to the four RS-25 engines, initiating the staggered ignition sequence."
+      "summary": "The start command is sent to the four RS-25 engines, initiating the staggered ignition sequence.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "rs25-ignition",
       "metHours": -0.002,
       "phase": "prelaunch",
       "title": "RS-25 Engines Ignite",
-      "summary": "All four RS-25 engines reach full thrust. The vehicle strains against the hold-down posts as systems are verified."
+      "summary": "All four RS-25 engines reach full thrust. The vehicle strains against the hold-down posts as systems are verified.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "booster-ignition-liftoff",
       "metHours": 0,
       "phase": "prelaunch",
       "title": "Booster Ignition \u2014 Liftoff!",
-      "summary": "The twin solid rocket boosters ignite and the eight hold-down bolts are severed pyrotechnically. SLS lifts off from LC-39B."
+      "summary": "The twin solid rocket boosters ignite and the eight hold-down bolts are severed pyrotechnically. SLS lifts off from LC-39B.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "launch",
       "metHours": 0,
       "phase": "launch",
       "title": "Liftoff",
-      "summary": "SLS lifts off from LC-39B at Kennedy Space Center. Nearly 40 MN of thrust pushes the crew toward orbit at ~8 km/s."
+      "summary": "SLS lifts off from LC-39B at Kennedy Space Center. Nearly 40 MN of thrust pushes the crew toward orbit at ~8 km/s.",
+      "timed": true
     },
     {
       "id": "max-q",
       "metHours": 0.0167,
       "phase": "launch",
       "title": "Max Q (Maximum Dynamic Pressure)",
-      "summary": "The vehicle passes through the point of maximum aerodynamic stress at approximately T+60 seconds. Altitude ~14 km."
+      "summary": "The vehicle passes through the point of maximum aerodynamic stress at approximately T+60 seconds. Altitude ~14 km.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "srb-sep",
       "metHours": 0.035,
       "phase": "launch",
       "title": "SRB Separation",
-      "summary": "The twin solid rocket boosters separate after burning for ~126 seconds, at an altitude of ~45 km."
+      "summary": "The twin solid rocket boosters separate after burning for ~126 seconds, at an altitude of ~45 km.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "sm-fairing-jettison",
       "metHours": 0.0583,
       "phase": "launch",
       "title": "Service Module Fairing Jettison",
-      "summary": "The protective fairing panels around the European Service Module are jettisoned, exposing the solar arrays and radiators."
+      "summary": "The protective fairing panels around the European Service Module are jettisoned, exposing the solar arrays and radiators.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "las-jettison",
       "metHours": 0.0625,
       "phase": "launch",
       "title": "Launch Abort System Jettison",
-      "summary": "The Launch Abort System tower is jettisoned. It is no longer needed as the vehicle is above the altitude where it could safely pull the crew module away."
+      "summary": "The Launch Abort System tower is jettisoned. It is no longer needed as the vehicle is above the altitude where it could safely pull the crew module away.",
+      "timed": true
     },
     {
       "id": "meco",
       "metHours": 0.14,
       "phase": "launch",
       "title": "Core Stage MECO (Main Engine Cutoff)",
-      "summary": "The four RS-25 engines shut down after ~8 minutes 24 seconds of powered flight. The core stage has done its job."
+      "summary": "The four RS-25 engines shut down after ~8 minutes 24 seconds of powered flight. The core stage has done its job.",
+      "timed": true
     },
     {
       "id": "core-sep",
       "metHours": 0.1433,
       "phase": "launch",
       "title": "Core Stage Separation & ICPS Ignition",
-      "summary": "Core stage separates. The Interim Cryogenic Propulsion Stage (ICPS) ignites to reach initial parking orbit."
+      "summary": "Core stage separates. The Interim Cryogenic Propulsion Stage (ICPS) ignites to reach initial parking orbit.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "icps-cutoff",
       "metHours": 0.3,
       "phase": "launch",
       "title": "ICPS Cutoff / Orbital Insertion",
-      "summary": "ICPS completes its first burn. Orion reaches initial low Earth orbit at ~185 km (115 mi) altitude."
+      "summary": "ICPS completes its first burn. Orion reaches initial low Earth orbit at ~185 km (115 mi) altitude.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "solar-deploy",
       "metHours": 0.333,
       "phase": "launch",
       "title": "Solar Array Deployment",
-      "summary": "The four solar array wings on the European Service Module unfurl to their full 19-metre span, generating 11.2 kW of electrical power."
+      "summary": "The four solar array wings on the European Service Module unfurl to their full 19-metre span, generating 11.2 kW of electrical power.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "crew-checks",
       "metHours": 0.4,
       "phase": "launch",
       "title": "Crew Checks Begin",
-      "summary": "Crew begins post-insertion checks: verifying suit integrity, cabin pressure, communications, and reviewing vehicle systems displays."
+      "summary": "Crew begins post-insertion checks: verifying suit integrity, cabin pressure, communications, and reviewing vehicle systems displays.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "perigee-raise-1",
       "metHours": 0.82,
       "phase": "earth-orbit",
       "title": "ICPS Perigee Raise Burn 1",
-      "summary": "ICPS fires at T+49 min to raise orbit from 185 km circular to a highly elliptical orbit with apogee ~70,400 km."
+      "summary": "ICPS fires at T+49 min to raise orbit from 185 km circular to a highly elliptical orbit with apogee ~70,400 km.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "perigee-raise-2",
       "metHours": 1.82,
       "phase": "earth-orbit",
       "title": "ICPS Perigee Raise Burn 2",
-      "summary": "Second ICPS burn further raises the orbit into high Earth orbit for systems checkout."
+      "summary": "Second ICPS burn further raises the orbit into high Earth orbit for systems checkout.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "orion-systems-checkout",
       "metHours": 2,
       "phase": "earth-orbit",
       "title": "Orion Systems Checkout Begins",
-      "summary": "Crew begins comprehensive systems checkout: testing water dispenser, toilet, CO\u2082 removal, and reconfiguring the cabin for orbital operations."
+      "summary": "Crew begins comprehensive systems checkout: testing water dispenser, toilet, CO\u2082 removal, and reconfiguring the cabin for orbital operations.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "prox-ops",
       "metHours": 3.405,
       "phase": "earth-orbit",
       "title": "Proximity Operations Demo \u2014 ICPS Separation",
-      "summary": "Orion separates from the spent ICPS upper stage at MET 3h 24m. The crew practises manual flying toward and around it as a docking-target surrogate."
+      "summary": "Orion separates from the spent ICPS upper stage at MET 3h 24m. The crew practises manual flying toward and around it as a docking-target surrogate.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "icps-sep-burn",
       "metHours": 4.833,
       "phase": "earth-orbit",
       "title": "Orion Upper Stage Separation Burn",
-      "summary": "Orion fires its ESM thrusters to increase distance from the spent ICPS, ending proximity operations."
+      "summary": "Orion fires its ESM thrusters to increase distance from the spent ICPS, ending proximity operations.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "icps-disposal",
       "metHours": 5,
       "phase": "earth-orbit",
       "title": "ICPS Disposal Burn",
-      "summary": "The spent ICPS performs a disposal burn to move into a safe heliocentric orbit, away from Orion\u2019s path."
+      "summary": "The spent ICPS performs a disposal burn to move into a safe heliocentric orbit, away from Orion\u2019s path.",
+      "timed": true
     },
     {
       "id": "cubesat-deploy",
       "metHours": 5.067,
       "phase": "earth-orbit",
       "title": "CubeSat Deployment Sequence",
-      "summary": "Ten small CubeSat satellites deploy from the ICPS at one-minute intervals, beginning secondary science missions in deep space."
+      "summary": "Ten small CubeSat satellites deploy from the ICPS at one-minute intervals, beginning secondary science missions in deep space.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "crew-sleep-1a",
       "metHours": 7,
       "phase": "earth-orbit",
       "title": "Crew Sleep Period 1",
-      "summary": "Brief rest period after launch. Crew woken at MET ~12.5h for the perigee raise burn."
+      "summary": "Brief rest period after launch. Crew woken at MET ~12.5h for the perigee raise burn.",
+      "timed": true
     },
     {
       "id": "orbit-geometry-burn",
       "metHours": 12.5,
       "phase": "earth-orbit",
       "title": "Orbit Geometry Burn",
-      "summary": "Engine firing adjusts orbital geometry to set up the correct approach angle for the TLI burn on Flight Day 2."
+      "summary": "Engine firing adjusts orbital geometry to set up the correct approach angle for the TLI burn on Flight Day 2.",
+      "timed": true
     },
     {
       "id": "dsn-emergency-checkout",
       "metHours": 13,
       "phase": "earth-orbit",
       "title": "Deep Space Network Emergency Comms Checkout",
-      "summary": "First test of Orion\u2019s emergency communication system via the Deep Space Network \u2014 verifying the link that will be critical during the lunar phase."
+      "summary": "First test of Orion\u2019s emergency communication system via the Deep Space Network \u2014 verifying the link that will be critical during the lunar phase.",
+      "timed": true
     },
     {
       "id": "crew-sleep-1b",
       "metHours": 13,
       "phase": "earth-orbit",
       "title": "Crew Sleep Period 2",
-      "summary": "After the perigee raise burn, crew returns to sleep until MET 20h. Crew requested wakeup music at MET 20:00."
+      "summary": "After the perigee raise burn, crew returns to sleep until MET 20h. Crew requested wakeup music at MET 20:00.",
+      "timed": true
     },
     {
       "id": "exercise-wiseman-glover",
       "metHours": 22,
       "phase": "earth-orbit",
       "title": "Crew Exercise",
-      "summary": "Crew rotates on the flywheel resistive exercise device before the TLI burn."
+      "summary": "Crew rotates on the flywheel resistive exercise device before the TLI burn.",
+      "timed": true
     },
     {
       "id": "tli-prep",
       "metHours": 23.5,
       "phase": "earth-orbit",
       "title": "TLI Burn Preparation",
-      "summary": "Koch prepares Orion\u2019s orbital manoeuvring system engine for the critical translunar injection burn."
+      "summary": "Koch prepares Orion\u2019s orbital manoeuvring system engine for the critical translunar injection burn.",
+      "timed": true
     },
     {
       "id": "tli",
       "metHours": 25.23,
       "phase": "translunar",
       "title": "\u2b50 Trans-Lunar Injection (TLI) Burn",
-      "summary": "THE critical burn \u2014 ESM main engine fires for ~6 min 5 s, adding ~1,450 km/h to escape Earth orbit and set course for the Moon."
+      "summary": "THE critical burn \u2014 ESM main engine fires for ~6 min 5 s, adding ~1,450 km/h to escape Earth orbit and set course for the Moon.",
+      "timed": true
     },
     {
       "id": "post-tli-acclimation",
       "metHours": 27,
       "phase": "translunar",
       "title": "Post-TLI Crew Acclimation",
-      "summary": "Crew verifies spacecraft health after TLI and begins adjusting to the outbound cruise phase. Lighter duties as Earth recedes."
+      "summary": "Crew verifies spacecraft health after TLI and begins adjusting to the outbound cruise phase. Lighter duties as Earth recedes.",
+      "timed": false,
+      "day": 2
     },
     {
       "id": "first-video-downlink",
       "metHours": 44,
       "phase": "translunar",
       "title": "First Space-to-Ground Video Communication",
-      "summary": "The crew conducts their first live video session with Mission Control Houston, sharing the view of Earth receding behind them."
+      "summary": "The crew conducts their first live video session with Mission Control Houston, sharing the view of Earth receding behind them.",
+      "timed": false,
+      "day": 2
     },
     {
       "id": "outbound-correction-1",
       "metHours": 48.13,
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 1",
-      "summary": "First of three outbound mid-course corrections, fine-tuning Orion\u2019s path to the Moon."
+      "summary": "First of three outbound mid-course corrections, fine-tuning Orion\u2019s path to the Moon.",
+      "timed": true
     },
     {
       "id": "cpr-demo",
       "metHours": 50,
       "phase": "outbound-coast",
       "title": "CPR Demonstration in Microgravity",
-      "summary": "Glover, Koch, and Hansen demonstrate CPR procedures adapted for microgravity \u2014 a critical emergency skill for deep-space missions."
+      "summary": "Glover, Koch, and Hansen demonstrate CPR procedures adapted for microgravity \u2014 a critical emergency skill for deep-space missions.",
+      "timed": false,
+      "day": 3
     },
     {
       "id": "medical-kit-checkout",
       "metHours": 52,
       "phase": "outbound-coast",
       "title": "Medical Kit Checkout",
-      "summary": "Wiseman and Glover test the onboard medical kit: thermometer, blood pressure monitor, stethoscope, otoscope, and medications."
+      "summary": "Wiseman and Glover test the onboard medical kit: thermometer, blood pressure monitor, stethoscope, otoscope, and medications.",
+      "timed": false,
+      "day": 3
     },
     {
       "id": "dsn-emergency-test",
       "metHours": 53.42,
       "phase": "outbound-coast",
       "title": "Emergency Comms Test on Deep Space Network",
-      "summary": "Koch tests Orion\u2019s emergency communication modes through the Deep Space Network at increasing distance from Earth."
+      "summary": "Koch tests Orion\u2019s emergency communication modes through the Deep Space Network at increasing distance from Earth.",
+      "timed": false,
+      "day": 3
     },
     {
       "id": "emergency-procedure-practice",
       "metHours": 55,
       "phase": "outbound-coast",
       "title": "Emergency Procedure Practice \u2014 Cabin Depress & Fire",
-      "summary": "Crew runs through emergency procedures for cabin depressurisation and fire \u2014 two of the most dangerous scenarios in deep space where rescue is impossible."
+      "summary": "Crew runs through emergency procedures for cabin depressurisation and fire \u2014 two of the most dangerous scenarios in deep space where rescue is impossible.",
+      "timed": true,
+      "day": 3
     },
     {
       "id": "outbound-science-experiments",
       "metHours": 56,
       "phase": "outbound-coast",
       "title": "Outbound Science Experiments",
-      "summary": "The crew conducts a suite of biomedical and technology experiments during the outbound transit \u2014 the first human-tended experiments beyond low Earth orbit since Apollo."
+      "summary": "The crew conducts a suite of biomedical and technology experiments during the outbound transit \u2014 the first human-tended experiments beyond low Earth orbit since Apollo.",
+      "timed": true,
+      "day": 3
     },
     {
       "id": "lunar-obs-rehearsal",
       "metHours": 57,
       "phase": "outbound-coast",
       "title": "Lunar Observation Rehearsal",
-      "summary": "The crew rehearses the choreography for Flight Day 6\u2019s lunar flyby observations \u2014 camera positions, attitude manoeuvres, and target sequences."
+      "summary": "The crew rehearses the choreography for Flight Day 6\u2019s lunar flyby observations \u2014 camera positions, attitude manoeuvres, and target sequences.",
+      "timed": true,
+      "day": 3
     },
     {
       "id": "gps-tdrs-range-limit",
       "metHours": 68,
       "phase": "outbound-coast",
       "title": "GPS & TDRS Range Limit \u2014 Beyond Earth\u2019s Navigation Grid",
-      "summary": "Orion passes beyond the effective range of GPS satellites and the TDRS relay network \u2014 from here, only NASA\u2019s Deep Space Network can reach the crew."
+      "summary": "Orion passes beyond the effective range of GPS satellites and the TDRS relay network \u2014 from here, only NASA\u2019s Deep Space Network can reach the crew.",
+      "timed": true,
+      "day": 3
     },
     {
       "id": "emergency-procedure-practice-2",
       "metHours": 70,
       "phase": "outbound-coast",
       "title": "Emergency Procedure Practice \u2014 Rapid Abort Scenarios",
-      "summary": "Second emergency drill session: the crew practises abort scenarios including an emergency return trajectory burn and contingency power-down procedures."
+      "summary": "Second emergency drill session: the crew practises abort scenarios including an emergency return trajectory burn and contingency power-down procedures.",
+      "timed": true,
+      "day": 3
     },
     {
       "id": "outbound-correction-2",
       "metHours": 73.13,
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 2",
-      "summary": "Second mid-course correction refines Orion\u2019s lunar approach path."
+      "summary": "Second mid-course correction refines Orion\u2019s lunar approach path.",
+      "timed": true
     },
     {
       "id": "lunar-target-study",
       "metHours": 74,
       "phase": "outbound-coast",
       "title": "Lunar Geography Target Study",
-      "summary": "Each crew member reviews their assigned geographic targets for lunar flyby imaging \u2014 specific craters, maria, and the South Pole\u2013Aitken Basin."
+      "summary": "Each crew member reviews their assigned geographic targets for lunar flyby imaging \u2014 specific craters, maria, and the South Pole\u2013Aitken Basin.",
+      "timed": true,
+      "day": 4
     },
     {
       "id": "celestial-photography",
       "metHours": 78,
       "phase": "outbound-coast",
       "title": "Celestial Photography Session",
-      "summary": "Crew photographs celestial bodies from Orion\u2019s windows \u2014 a 20-minute dedicated photography session capturing views impossible from Earth."
+      "summary": "Crew photographs celestial bodies from Orion\u2019s windows \u2014 a 20-minute dedicated photography session capturing views impossible from Earth.",
+      "timed": false,
+      "day": 4
     },
     {
       "id": "spacesuit-pressure-test",
       "metHours": 98,
       "phase": "outbound-coast",
       "title": "Spacesuit Pressure Tests",
-      "summary": "Crew tests rapid donning and pressurisation of the Orion Crew Survival System (OCSS) suits \u2014 practising emergency scenarios."
+      "summary": "Crew tests rapid donning and pressurisation of the Orion Crew Survival System (OCSS) suits \u2014 practising emergency scenarios.",
+      "timed": true,
+      "day": 5
     },
     {
       "id": "suit-eat-drink-test",
       "metHours": 100,
       "phase": "outbound-coast",
       "title": "Suit Eat/Drink Port Test",
-      "summary": "Crew tests eating and drinking through the helmet port while suited \u2014 validating the ability to sustain crew during extended suited operations."
+      "summary": "Crew tests eating and drinking through the helmet port while suited \u2014 validating the ability to sustain crew during extended suited operations.",
+      "timed": false,
+      "day": 5
     },
     {
       "id": "outbound-correction-3",
       "metHours": 100.48,
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 3",
-      "summary": "Final outbound mid-course correction before the lunar flyby \u2014 last chance to fine-tune the approach trajectory."
+      "summary": "Final outbound mid-course correction before the lunar flyby \u2014 last chance to fine-tune the approach trajectory.",
+      "timed": true
     },
     {
       "id": "lunar-sphere-influence",
       "metHours": 102.13,
       "phase": "outbound-coast",
       "title": "\u2b50 Enter Lunar Sphere of Influence",
-      "summary": "Orion crosses into the Moon\u2019s gravitational sphere of influence at ~66,200 km from the lunar centre \u2014 the Moon\u2019s gravity is now the dominant force acting on the spacecraft."
+      "summary": "Orion crosses into the Moon\u2019s gravitational sphere of influence at ~66,200 km from the lunar centre \u2014 the Moon\u2019s gravity is now the dominant force acting on the spacecraft.",
+      "timed": true,
+      "day": 5
     },
     {
       "id": "lunar-approach",
       "metHours": 120,
       "phase": "lunar-flyby",
       "title": "Approach to Moon",
-      "summary": "Orion begins its close approach to the Moon. The crew prepares cameras and observation equipment for the historic flyby."
+      "summary": "Orion begins its close approach to the Moon. The crew prepares cameras and observation equipment for the historic flyby.",
+      "timed": true
     },
     {
       "id": "closest-approach",
       "metHours": 120.52,
       "phase": "lunar-flyby",
       "title": "\u2b50 Closest Approach \u2014 ~8,900 km Above Lunar Surface",
-      "summary": "The emotional and navigational heart of the mission \u2014 Orion passes ~8,900 km (~5,530 mi) above the Moon, closer than any crewed spacecraft since Apollo."
+      "summary": "The emotional and navigational heart of the mission \u2014 Orion passes ~8,900 km (~5,530 mi) above the Moon, closer than any crewed spacecraft since Apollo.",
+      "timed": true
     },
     {
       "id": "lunar-surface-obs",
       "metHours": 121,
       "phase": "lunar-flyby",
       "title": "Lunar Surface Observation & Photography",
-      "summary": "Intensive photography and scientific observation of the lunar surface during the close-approach window."
+      "summary": "Intensive photography and scientific observation of the lunar surface during the close-approach window.",
+      "timed": true,
+      "day": 6
     },
     {
       "id": "far-side-blackout",
       "metHours": 122,
       "phase": "lunar-flyby",
       "title": "\u2b50 Far Side of Moon \u2014 Communications Blackout (30\u201350 min)",
-      "summary": "Orion passes behind the Moon. All radio contact with Earth is lost for 30\u201350 minutes \u2014 the crew is completely on their own, farther from contact with home than any humans in history."
+      "summary": "Orion passes behind the Moon. All radio contact with Earth is lost for 30\u201350 minutes \u2014 the crew is completely on their own, farther from contact with home than any humans in history.",
+      "timed": true,
+      "day": 6
     },
     {
       "id": "far-side-photography",
       "metHours": 122.5,
       "phase": "lunar-flyby",
       "title": "Far-Side Photography Session",
-      "summary": "During the communications blackout, the crew turns all cameras toward the Moon\u2019s far side \u2014 a landscape no human eye has seen directly since Apollo 17."
+      "summary": "During the communications blackout, the crew turns all cameras toward the Moon\u2019s far side \u2014 a landscape no human eye has seen directly since Apollo 17.",
+      "timed": true
     },
     {
       "id": "signal-reacquired",
       "metHours": 122.8,
       "phase": "lunar-flyby",
       "title": "Signal Reacquired",
-      "summary": "Orion emerges from behind the Moon and re-establishes communication with Earth. Mission Control confirms spacecraft health."
+      "summary": "Orion emerges from behind the Moon and re-establishes communication with Earth. Mission Control confirms spacecraft health.",
+      "timed": true
     },
     {
       "id": "distance-record",
       "metHours": 121.43,
       "phase": "lunar-flyby",
       "title": "\u2b50 Maximum Distance from Earth \u2014 ~4,600 mi Beyond the Far Side",
-      "summary": "Orion reaches its maximum distance from Earth at approximately 405,500 km \u2014 surpassing Apollo 13\u2019s record of 400,171 km by over 5,300 km, and passing roughly 4,600 miles beyond the Moon\u2019s far side."
+      "summary": "Orion reaches its maximum distance from Earth at approximately 405,500 km \u2014 surpassing Apollo 13\u2019s record of 400,171 km by over 5,300 km, and passing roughly 4,600 miles beyond the Moon\u2019s far side.",
+      "timed": true,
+      "day": 6
     },
     {
       "id": "post-flyby-science",
       "metHours": 130,
       "phase": "lunar-flyby",
       "title": "Post-Flyby Science Observations",
-      "summary": "Continued photography and observations as Orion departs the Moon \u2014 capturing the receding lunar landscape and \"Earthrise\" views."
+      "summary": "Continued photography and observations as Orion departs the Moon \u2014 capturing the receding lunar landscape and \"Earthrise\" views.",
+      "timed": true
     },
     {
       "id": "exit-lunar-sphere",
       "metHours": 138.87,
       "phase": "return-coast",
       "title": "Exit Lunar Sphere of Influence",
-      "summary": "Orion exits the Moon\u2019s gravitational sphere of influence \u2014 Earth\u2019s gravity is once again the dominant force. The homeward journey accelerates from here."
+      "summary": "Orion exits the Moon\u2019s gravitational sphere of influence \u2014 Earth\u2019s gravity is once again the dominant force. The homeward journey accelerates from here.",
+      "timed": true,
+      "day": 6
     },
     {
       "id": "day7-off-duty",
       "metHours": 142,
       "phase": "return-coast",
       "title": "Crew Off-Duty Day \u2014 Rest & Personal Time",
-      "summary": "Largely off-duty day for the crew to rest and recover after the intense lunar flyby. Minimal scheduled activities."
+      "summary": "Largely off-duty day for the crew to rest and recover after the intense lunar flyby. Minimal scheduled activities.",
+      "timed": true,
+      "day": 6
     },
     {
       "id": "return-correction-1",
       "metHours": 145.48,
       "phase": "return-coast",
       "title": "Return Trajectory Correction Burn 1",
-      "summary": "First of three return course-correction burns to adjust Orion\u2019s path toward the re-entry corridor."
+      "summary": "First of three return course-correction burns to adjust Orion\u2019s path toward the re-entry corridor.",
+      "timed": true
     },
     {
       "id": "radiation-shelter",
       "metHours": 170,
       "phase": "return-coast",
       "title": "Radiation Shelter Demonstration",
-      "summary": "Crew builds a protective radiation shelter using Orion\u2019s supplies and equipment \u2014 demonstrating shielding from solar particle events."
+      "summary": "Crew builds a protective radiation shelter using Orion\u2019s supplies and equipment \u2014 demonstrating shielding from solar particle events.",
+      "timed": true,
+      "day": 8
     },
     {
       "id": "manual-piloting-demo",
       "metHours": 174,
       "phase": "return-coast",
       "title": "Manual Piloting Demo \u2014 6-DOF vs 3-DOF",
-      "summary": "Crew tests Orion\u2019s manual flight control modes: target centering, tail-to-Sun attitude, and comparing 6-DOF vs 3-DOF handling."
+      "summary": "Crew tests Orion\u2019s manual flight control modes: target centering, tail-to-Sun attitude, and comparing 6-DOF vs 3-DOF handling.",
+      "timed": false,
+      "day": 8
     },
     {
       "id": "return-correction-2",
       "metHours": 196.48,
       "phase": "return-coast",
       "title": "Return Trajectory Correction Burn 2",
-      "summary": "Second return course correction keeps Orion precisely on target for the Pacific Ocean splashdown zone."
+      "summary": "Second return course correction keeps Orion precisely on target for the Pacific Ocean splashdown zone.",
+      "timed": true
     },
     {
       "id": "reentry-procedure-review",
       "metHours": 196,
       "phase": "return-coast",
       "title": "Re-Entry Procedure Review",
-      "summary": "Crew studies re-entry procedures and coordinates with the flight control team on the timeline for atmospheric entry."
+      "summary": "Crew studies re-entry procedures and coordinates with the flight control team on the timeline for atmospheric entry.",
+      "timed": true,
+      "day": 9
     },
     {
       "id": "equipment-stow-begins",
       "metHours": 200,
       "phase": "return-coast",
       "title": "Equipment Stow Begins",
-      "summary": "Crew begins securing loose equipment and reconfiguring the cabin for the high-g re-entry environment."
+      "summary": "Crew begins securing loose equipment and reconfiguring the cabin for the high-g re-entry environment.",
+      "timed": true,
+      "day": 9
     },
     {
       "id": "final-stow-cabin-prep",
       "metHours": 214,
       "phase": "reentry",
       "title": "Final Stow & Cabin Prep",
-      "summary": "Final cabin preparations for re-entry \u2014 all equipment secured, seats in landing position, cabin in launch configuration."
+      "summary": "Final cabin preparations for re-entry \u2014 all equipment secured, seats in landing position, cabin in launch configuration.",
+      "timed": true,
+      "day": 9
     },
     {
       "id": "crew-dons-suits",
       "metHours": 218,
       "phase": "reentry",
       "title": "Crew Dons Spacesuits for Re-Entry",
-      "summary": "All four crew members don their OCSS pressure suits, close visors, and strap into their seats for atmospheric entry."
+      "summary": "All four crew members don their OCSS pressure suits, close visors, and strap into their seats for atmospheric entry.",
+      "timed": true,
+      "day": 10
     },
     {
       "id": "esm-sep",
       "metHours": 222,
       "phase": "reentry",
       "title": "Service Module Separation",
-      "summary": "The European Service Module separates from the crew module via pyrotechnic bolts. Only the capsule continues to splashdown."
+      "summary": "The European Service Module separates from the crew module via pyrotechnic bolts. Only the capsule continues to splashdown.",
+      "timed": true,
+      "day": 10
     },
     {
       "id": "entry-interface",
       "metHours": 225,
       "phase": "reentry",
       "title": "\u2b50 Entry Interface \u2014 Hitting Atmosphere at 40,000 km/h",
-      "summary": "Orion enters Earth\u2019s atmosphere at 120 km altitude, travelling at ~40,000 km/h (25,000 mph). Heat shield faces ~2,760 \u00b0C (5,000 \u00b0F)."
+      "summary": "Orion enters Earth\u2019s atmosphere at 120 km altitude, travelling at ~40,000 km/h (25,000 mph). Heat shield faces ~2,760 \u00b0C (5,000 \u00b0F).",
+      "timed": true
     },
     {
       "id": "reentry-radio-blackout",
       "metHours": 225.5,
       "phase": "reentry",
       "title": "Re-Entry Communications Blackout",
-      "summary": "Ionised plasma around the capsule blocks all radio signals for approximately 5 minutes during peak heating."
+      "summary": "Ionised plasma around the capsule blocks all radio signals for approximately 5 minutes during peak heating.",
+      "timed": true,
+      "day": 10
     },
     {
       "id": "drogue-chutes",
       "metHours": 226,
       "phase": "reentry",
       "title": "Drogue Parachute Deploy",
-      "summary": "At ~11,000 m (36,000 ft), two drogue parachutes deploy to stabilise and slow the capsule from ~480 km/h to ~200 km/h."
+      "summary": "At ~11,000 m (36,000 ft), two drogue parachutes deploy to stabilise and slow the capsule from ~480 km/h to ~200 km/h.",
+      "timed": true,
+      "day": 10
     },
     {
       "id": "main-chutes",
       "metHours": 226.2,
       "phase": "reentry",
       "title": "Main Parachute Deploy",
-      "summary": "Three 35 m (116 ft) main parachutes open in stages, slowing Orion to ~27 km/h (17 mph) for splashdown."
+      "summary": "Three 35 m (116 ft) main parachutes open in stages, slowing Orion to ~27 km/h (17 mph) for splashdown.",
+      "timed": true,
+      "day": 10
     },
     {
       "id": "splashdown",
       "metHours": 226.5,
       "phase": "reentry",
       "title": "\u2b50 Splashdown in Pacific Ocean",
-      "summary": "Orion splashes down in the Pacific Ocean ~370 km off San Diego, California. The Artemis II mission is complete."
+      "summary": "Orion splashes down in the Pacific Ocean ~370 km off San Diego, California. The Artemis II mission is complete.",
+      "timed": true
     },
     {
       "id": "recovery",
       "metHours": 228,
       "phase": "recovery",
       "title": "Crew Recovery by USS Portland",
-      "summary": "Navy divers stabilise the capsule. Crew exits and is helicopter-lifted to the USS Portland (LPD-27) for medical evaluation."
+      "summary": "Navy divers stabilise the capsule. Crew exits and is helicopter-lifted to the USS Portland (LPD-27) for medical evaluation.",
+      "timed": true
     },
     {
       "id": "avatar-checkout",
       "metHours": 26,
       "phase": "translunar",
       "title": "AVATAR Science Payload Checkout",
-      "summary": "Crew checks out the AVATAR scientific instrument package for deep space science observations."
+      "summary": "Crew checks out the AVATAR scientific instrument package for deep space science observations.",
+      "timed": false,
+      "day": 2
     },
     {
       "id": "solar-eclipse-flyby",
       "metHours": 123,
       "phase": "moon-orbit",
       "title": "\ud83c\udf11 Solar Eclipse from Lunar Orbit",
-      "summary": "The Sun passes behind the Moon from Orion's perspective. Nearly one hour of eclipse \u2014 crew observes the solar corona, meteoroid impacts on the dark surface, and lofted lunar dust."
+      "summary": "The Sun passes behind the Moon from Orion's perspective. Nearly one hour of eclipse \u2014 crew observes the solar corona, meteoroid impacts on the dark surface, and lofted lunar dust.",
+      "timed": true
     }
   ],
   "crewSchedule": [
