@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:12:00.000Z",
+  "lastUpdated": "2026-04-03T17:19:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -1010,6 +1010,22 @@
       "phase": "outbound-coast",
       "title": "Outbound Coast Begins",
       "summary": "Orion is on its way to the Moon. Four-day coast phase with trajectory corrections and crew activities."
+    },
+    {
+      "id": "day3-wake",
+      "timed": true,
+      "metHours": 42.4,
+      "phase": "outbound-coast",
+      "title": "Crew Wake & Meal \u2014 Day 3",
+      "summary": "Crew wakes from their first full sleep in transit. Post-sleep routine and breakfast."
+    },
+    {
+      "id": "day3-activities-start",
+      "timed": true,
+      "metHours": 43.5,
+      "phase": "outbound-coast",
+      "title": "Day 3 Activities Begin",
+      "summary": "CPR demonstration, medical kit checkout, and public events scheduled for today."
     }
   ],
   "crewSchedule": [
