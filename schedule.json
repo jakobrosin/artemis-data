@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:49:00.000Z",
+  "lastUpdated": "2026-04-03T17:57:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -828,7 +828,8 @@
       "phase": "lunar-flyby",
       "title": "Post-Flyby Science Observations",
       "summary": "Continued photography and observations as Orion departs the Moon \u2014 capturing the receding lunar landscape and \"Earthrise\" views.",
-      "timed": true
+      "timed": false,
+      "day": 6
     },
     {
       "id": "exit-lunar-sphere",
@@ -1186,6 +1187,62 @@
       "phase": "return-coast",
       "title": "Waste System & Anti-G Garment Tests",
       "summary": "Testing backup waste collection (in case the toilet fails during re-entry) and fitting orthostatic intolerance compression garments that prevent dizziness when gravity returns."
+    },
+    {
+      "id": "sleep-day3",
+      "timed": true,
+      "metHours": 56,
+      "phase": "outbound-coast",
+      "title": "Crew Sleep Period \u2014 Day 3",
+      "summary": "Eight hours of scheduled rest. Crew is on Houston time \u2014 their night is roughly 10:00-18:00 Tallinn time."
+    },
+    {
+      "id": "sleep-day4",
+      "timed": true,
+      "metHours": 79,
+      "phase": "outbound-coast",
+      "title": "Crew Sleep Period \u2014 Day 4",
+      "summary": "Rest before entering the Moon's sphere of influence tomorrow."
+    },
+    {
+      "id": "sleep-day5",
+      "timed": true,
+      "metHours": 104,
+      "phase": "outbound-coast",
+      "title": "Crew Sleep Period \u2014 Day 5",
+      "summary": "Final sleep before the lunar flyby. Orion is now in the Moon's gravitational sphere of influence."
+    },
+    {
+      "id": "sleep-day6",
+      "timed": true,
+      "metHours": 128,
+      "phase": "lunar-flyby",
+      "title": "Crew Sleep Period \u2014 Day 6",
+      "summary": "Rest after the most intense day of the mission \u2014 the lunar flyby."
+    },
+    {
+      "id": "sleep-day7",
+      "timed": true,
+      "metHours": 152,
+      "phase": "return-coast",
+      "title": "Crew Sleep Period \u2014 Day 7",
+      "summary": "Rest during the return coast. Earth is getting bigger in the windows again."
+    },
+    {
+      "id": "sleep-day8",
+      "timed": true,
+      "metHours": 174,
+      "phase": "return-coast",
+      "title": "Crew Sleep Period \u2014 Day 8",
+      "summary": "Second to last night in space."
+    },
+    {
+      "id": "sleep-day9",
+      "timed": true,
+      "metHours": 198,
+      "phase": "return-coast",
+      "title": "Crew Sleep Period \u2014 Day 9",
+      "summary": "Final night in space. Tomorrow: re-entry and splashdown."
     }
   ],
   "crewSchedule": [
