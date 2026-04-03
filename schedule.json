@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T21:19:00.000Z",
+  "lastUpdated": "2026-04-03T06:02:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -779,6 +779,20 @@
       "phase": "recovery",
       "title": "Crew Recovery by USS Portland",
       "summary": "Navy divers stabilise the capsule. Crew exits and is helicopter-lifted to the USS Portland (LPD-27) for medical evaluation."
+    },
+    {
+      "id": "avatar-checkout",
+      "metHours": 26,
+      "phase": "translunar",
+      "title": "AVATAR Science Payload Checkout",
+      "summary": "Crew checks out the AVATAR scientific instrument package for deep space science observations."
+    },
+    {
+      "id": "solar-eclipse-flyby",
+      "metHours": 123,
+      "phase": "moon-orbit",
+      "title": "\ud83c\udf11 Solar Eclipse from Lunar Orbit",
+      "summary": "The Sun passes behind the Moon from Orion's perspective. Nearly one hour of eclipse \u2014 crew observes the solar corona, meteoroid impacts on the dark surface, and lofted lunar dust."
     }
   ],
   "crewSchedule": [
@@ -1124,6 +1138,13 @@
       "day": 6,
       "label": "Lunar flyby \u2014 photography & observations",
       "desc": "Closest approach: 4,000\u20136,000 miles from lunar surface. Moon appears basketball-sized at arm's length. Crew photographs and records observations."
+    },
+    {
+      "startMET": 123,
+      "endMET": 124,
+      "day": 6,
+      "label": "Solar eclipse observation",
+      "desc": "Sun hidden behind Moon. Crew observes corona, meteoroid flashes, lunar dust."
     },
     {
       "startMET": 124,
