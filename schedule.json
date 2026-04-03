@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:34:00.000Z",
+  "lastUpdated": "2026-04-03T17:49:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -635,7 +635,7 @@
       "metHours": 50,
       "phase": "outbound-coast",
       "title": "CPR Demonstration in Microgravity",
-      "summary": "Glover, Koch, and Hansen demonstrate CPR procedures adapted for microgravity \u2014 a critical emergency skill for deep-space missions.",
+      "summary": "Glover, Koch, and Hansen demonstrate CPR procedures adapted for zero-g \u2014 a critical emergency skill when the nearest hospital is 400,000 km away.",
       "timed": false,
       "day": 3
     },
@@ -653,7 +653,7 @@
       "metHours": 53.42,
       "phase": "outbound-coast",
       "title": "Emergency Comms Test on Deep Space Network",
-      "summary": "Koch tests Orion\u2019s emergency communication modes through the Deep Space Network at increasing distance from Earth.",
+      "summary": "Koch tests Orion's emergency communication modes through the Deep Space Network at increasing distance from Earth.",
       "timed": false,
       "day": 3
     },
@@ -724,7 +724,7 @@
       "metHours": 78,
       "phase": "outbound-coast",
       "title": "Celestial Photography Session",
-      "summary": "Crew photographs celestial bodies from Orion\u2019s windows \u2014 a 20-minute dedicated photography session capturing views impossible from Earth.",
+      "summary": "20 minutes dedicated to photographing celestial bodies from Orion's windows \u2014 planets, stars, and Earth receding in the distance.",
       "timed": false,
       "day": 4
     },
@@ -815,10 +815,10 @@
     },
     {
       "id": "distance-record",
-      "metHours": 121.43,
+      "metHours": 115.16,
       "phase": "lunar-flyby",
       "title": "\u2b50 Maximum Distance from Earth \u2014 ~4,600 mi Beyond the Far Side",
-      "summary": "Orion reaches its maximum distance from Earth at approximately 405,500 km \u2014 surpassing Apollo 13\u2019s record of 400,171 km by over 5,300 km, and passing roughly 4,600 miles beyond the Moon\u2019s far side.",
+      "summary": "Crew surpasses Apollo 13's record of 248,655 miles from Earth, set in 1970. New record for the farthest any human has ever been from home.",
       "timed": true,
       "day": 6
     },
@@ -869,8 +869,8 @@
       "id": "manual-piloting-demo",
       "metHours": 174,
       "phase": "return-coast",
-      "title": "Manual Piloting Demo \u2014 6-DOF vs 3-DOF",
-      "summary": "Crew tests Orion\u2019s manual flight control modes: target centering, tail-to-Sun attitude, and comparing 6-DOF vs 3-DOF handling.",
+      "title": "Manual Piloting Demonstration",
+      "summary": "Crew steers Orion through manual attitude maneuvers: centering a target in the window, tail-to-Sun attitude, and comparing 6-DOF vs 3-DOF control modes.",
       "timed": false,
       "day": 8
     },
@@ -964,10 +964,10 @@
     },
     {
       "id": "splashdown",
-      "metHours": 226.5,
+      "metHours": 217.51,
       "phase": "reentry",
       "title": "\u2b50 Splashdown in Pacific Ocean",
-      "summary": "Orion splashes down in the Pacific Ocean ~370 km off San Diego, California. The Artemis II mission is complete.",
+      "summary": "Orion splashes down near San Diego. U.S. Navy recovery teams retrieve the crew and capsule.",
       "timed": true
     },
     {
@@ -1034,6 +1034,158 @@
       "phase": "outbound-coast",
       "title": "National Geographic Documentary Filming",
       "summary": "Crew films footage for a National Geographic documentary \u2014 daily life, work, and living aboard Orion in deep space."
+    },
+    {
+      "id": "downlink-day3",
+      "metHours": 50.14,
+      "phase": "outbound-coast",
+      "timed": true,
+      "title": "Live Crew Downlink Event \u2014 Day 3",
+      "summary": "Live video communication with the crew as they coast toward the Moon. First public view of the crew in deep space."
+    },
+    {
+      "id": "csa-downlink-day4",
+      "metHours": 54.39,
+      "phase": "outbound-coast",
+      "timed": true,
+      "title": "Canadian Space Agency Downlink",
+      "summary": "Jeremy Hansen speaks with Canadian media and the public from deep space."
+    },
+    {
+      "id": "downlink-day4",
+      "metHours": 69.98,
+      "phase": "outbound-coast",
+      "timed": true,
+      "title": "Live Crew Downlink Event \u2014 Day 4",
+      "summary": "Crew shares updates from outbound coast. Geography target review for lunar flyby."
+    },
+    {
+      "id": "csa-downlink-day5",
+      "metHours": 77.64,
+      "phase": "outbound-coast",
+      "timed": true,
+      "title": "Canadian Space Agency Downlink \u2014 Day 5",
+      "summary": "Second CSA public event with Jeremy Hansen from deep space."
+    },
+    {
+      "id": "flyby-coverage-start",
+      "metHours": 114.16,
+      "phase": "lunar-flyby",
+      "timed": true,
+      "title": "\ud83d\udce1 Lunar Flyby Coverage Begins",
+      "summary": "NASA begins live coverage of the lunar flyby \u2014 the most dramatic phase of the mission."
+    },
+    {
+      "id": "downlink-day6",
+      "metHours": 124.06,
+      "phase": "lunar-flyby",
+      "timed": true,
+      "title": "Live Crew Downlink \u2014 Post-Flyby",
+      "summary": "First communication after the lunar flyby and far-side transit."
+    },
+    {
+      "id": "iss-call",
+      "metHours": 139.89,
+      "phase": "return-coast",
+      "timed": true,
+      "title": "\ud83d\udef0\ufe0f Crew Speaks with ISS Astronauts",
+      "summary": "Audio conversation between the Artemis II crew and astronauts aboard the International Space Station."
+    },
+    {
+      "id": "csa-downlink-day8",
+      "metHours": 168.56,
+      "phase": "return-coast",
+      "timed": true,
+      "title": "Canadian Space Agency Downlink \u2014 Day 8",
+      "summary": "CSA public event with Jeremy Hansen during the return coast."
+    },
+    {
+      "id": "crew-press-conference",
+      "metHours": 191.39,
+      "phase": "return-coast",
+      "timed": true,
+      "title": "\ud83c\udfa4 Crew News Conference from Space",
+      "summary": "The Artemis II crew holds a press conference from deep space, answering questions from journalists on Earth."
+    },
+    {
+      "id": "downlink-day9",
+      "metHours": 193.31,
+      "phase": "return-coast",
+      "timed": true,
+      "title": "Live Crew Downlink \u2014 Final Full Day",
+      "summary": "Last major public event before re-entry preparations begin."
+    },
+    {
+      "id": "reentry-coverage",
+      "metHours": 215.91,
+      "phase": "reentry",
+      "timed": true,
+      "title": "\ud83d\udce1 Re-Entry Coverage Begins",
+      "summary": "NASA begins live coverage of the crew's return to Earth."
+    },
+    {
+      "id": "lunar-flyby-rehearsal",
+      "timed": false,
+      "day": 3,
+      "phase": "outbound-coast",
+      "title": "Lunar Flyby Observation Rehearsal",
+      "summary": "Entire crew rehearses the choreography for Day 6 scientific observation \u2014 who photographs what, when to switch windows, how to log observations in real time."
+    },
+    {
+      "id": "geography-targets",
+      "timed": false,
+      "day": 4,
+      "phase": "outbound-coast",
+      "title": "Lunar Geography Target Study",
+      "summary": "Each crew member spends an hour studying the specific lunar surface features they'll photograph on Day 6. Targets vary based on launch date and lighting conditions."
+    },
+    {
+      "id": "spacesuit-tests",
+      "timed": false,
+      "day": 5,
+      "phase": "outbound-coast",
+      "title": "Spacesuit Pressure and Function Tests",
+      "summary": "First in-space tests of the new Orion Crew Survival System suits. Crew tests: quick donning, pressurization, seat installation while suited, and eating/drinking through the helmet port. The suits can sustain a crew member for up to 6 days if Orion depressurizes."
+    },
+    {
+      "id": "lunar-debrief",
+      "timed": false,
+      "day": 7,
+      "phase": "return-coast",
+      "title": "Lunar Science Debrief",
+      "summary": "Scientists on the ground speak with the crew while the flyby is still fresh \u2014 discussing what they saw, unexpected features, and observations from the far side."
+    },
+    {
+      "id": "crew-offduty",
+      "timed": false,
+      "day": 7,
+      "phase": "return-coast",
+      "title": "Crew Off-Duty Day",
+      "summary": "Largely off-duty for the crew. Rest and personal time before the final tasks of the return leg."
+    },
+    {
+      "id": "radiation-shelter-demo",
+      "timed": false,
+      "day": 8,
+      "phase": "return-coast",
+      "title": "Radiation Shelter Demonstration",
+      "summary": "Crew builds a radiation shelter using Orion's supplies and equipment \u2014 testing how quickly they can protect themselves from a solar flare event in deep space."
+    },
+    {
+      "id": "reentry-review",
+      "timed": false,
+      "day": 9,
+      "phase": "return-coast",
+      "title": "Re-Entry Procedure Review",
+      "summary": "Crew studies splashdown procedures with the flight control team. Last day to rehearse before the real thing tomorrow."
+    },
+    {
+      "id": "waste-garment-tests",
+      "timed": false,
+      "day": 9,
+      "phase": "return-coast",
+      "title": "Waste System & Anti-G Garment Tests",
+      "summary": "Testing backup waste collection (in case the toilet fails during re-entry) and fitting orthostatic intolerance compression garments that prevent dizziness when gravity returns."
     }
   ],
   "crewSchedule": [
