@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T06:02:00.000Z",
+  "lastUpdated": "2026-04-03T06:15:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -481,10 +481,10 @@
     },
     {
       "id": "post-tli-acclimation",
-      "metHours": 32,
+      "metHours": 27,
       "phase": "translunar",
       "title": "Post-TLI Crew Acclimation",
-      "summary": "Crew verifies spacecraft health after TLI and begins adjusting to the outbound cruise phase."
+      "summary": "Crew verifies spacecraft health after TLI and begins adjusting to the outbound cruise phase. Lighter duties as Earth recedes."
     },
     {
       "id": "first-video-downlink",
