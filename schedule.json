@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:57:00.000Z",
+  "lastUpdated": "2026-04-03T17:58:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -711,15 +711,6 @@
       "timed": true
     },
     {
-      "id": "lunar-target-study",
-      "metHours": 74,
-      "phase": "outbound-coast",
-      "title": "Lunar Geography Target Study",
-      "summary": "Each crew member reviews their assigned geographic targets for lunar flyby imaging \u2014 specific craters, maria, and the South Pole\u2013Aitken Basin.",
-      "timed": true,
-      "day": 4
-    },
-    {
       "id": "celestial-photography",
       "metHours": 78,
       "phase": "outbound-coast",
@@ -858,15 +849,6 @@
       "timed": true
     },
     {
-      "id": "radiation-shelter",
-      "metHours": 170,
-      "phase": "return-coast",
-      "title": "Radiation Shelter Demonstration",
-      "summary": "Crew builds a protective radiation shelter using Orion\u2019s supplies and equipment \u2014 demonstrating shielding from solar particle events.",
-      "timed": true,
-      "day": 8
-    },
-    {
       "id": "manual-piloting-demo",
       "metHours": 174,
       "phase": "return-coast",
@@ -882,15 +864,6 @@
       "title": "Return Trajectory Correction Burn 2",
       "summary": "Second return course correction keeps Orion precisely on target for the Pacific Ocean splashdown zone.",
       "timed": true
-    },
-    {
-      "id": "reentry-procedure-review",
-      "metHours": 196,
-      "phase": "return-coast",
-      "title": "Re-Entry Procedure Review",
-      "summary": "Crew studies re-entry procedures and coordinates with the flight control team on the timeline for atmospheric entry.",
-      "timed": true,
-      "day": 9
     },
     {
       "id": "equipment-stow-begins",
