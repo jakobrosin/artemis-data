@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:58:00.000Z",
+  "lastUpdated": "2026-04-03T18:22:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -991,15 +991,15 @@
       "metHours": 42.4,
       "phase": "outbound-coast",
       "title": "Crew Wake & Meal \u2014 Day 3",
-      "summary": "Crew wakes from their first full sleep in transit. Post-sleep routine and breakfast."
+      "summary": "Post-sleep routine: pulse ox readings, family calls, breakfast. Takes about 2 hours before crew activities begin."
     },
     {
       "id": "day3-activities-start",
       "timed": true,
-      "metHours": 43.5,
+      "metHours": 44,
       "phase": "outbound-coast",
-      "title": "Day 3 Activities Begin",
-      "summary": "CPR demonstration, medical kit checkout, and public events scheduled for today."
+      "title": "Morning Conference & Day 3 Activities Begin",
+      "summary": "Morning planning conference with Houston, then CPR demo, medical kit checkout, and public events."
     },
     {
       "id": "natgeo-filming",
