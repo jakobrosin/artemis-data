@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T06:15:00.000Z",
+  "lastUpdated": "2026-04-03T06:17:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -488,7 +488,7 @@
     },
     {
       "id": "first-video-downlink",
-      "metHours": 34,
+      "metHours": 28,
       "phase": "translunar",
       "title": "First Space-to-Ground Video Communication",
       "summary": "The crew conducts their first live video session with Mission Control Houston, sharing the view of Earth receding behind them."
