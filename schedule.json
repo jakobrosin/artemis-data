@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:05:00.000Z",
+  "lastUpdated": "2026-04-03T17:07:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -607,7 +607,7 @@
     {
       "id": "post-tli-acclimation",
       "metHours": 27,
-      "phase": "translunar",
+      "phase": "outbound-coast",
       "title": "Post-TLI Crew Acclimation",
       "summary": "Crew verifies spacecraft health after TLI and begins adjusting to the outbound cruise phase. Lighter duties as Earth recedes.",
       "timed": false,
@@ -616,7 +616,7 @@
     {
       "id": "first-video-downlink",
       "metHours": 44,
-      "phase": "translunar",
+      "phase": "outbound-coast",
       "title": "First Space-to-Ground Video Communication",
       "summary": "The crew conducts their first live video session with Mission Control Houston, sharing the view of Earth receding behind them.",
       "timed": false,
