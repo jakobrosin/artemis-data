@@ -408,6 +408,86 @@
       "timed": true
     },
     {
+      "id": "public-events-day3",
+      "timed": false,
+      "day": 3,
+      "phase": "translunar",
+      "title": "Public Events",
+      "summary": "Crew participates in scheduled public communications and media events."
+    },
+    {
+      "id": "natgeo-filming",
+      "timed": false,
+      "day": 3,
+      "phase": "outbound-coast",
+      "title": "National Geographic Documentary Filming",
+      "summary": "Crew films footage for a National Geographic documentary \u2014 daily life, work, and living aboard Orion in deep space."
+    },
+    {
+      "id": "lunar-flyby-rehearsal",
+      "timed": false,
+      "day": 3,
+      "phase": "outbound-coast",
+      "title": "Lunar Flyby Observation Rehearsal",
+      "summary": "Entire crew rehearses the choreography for Day 6 scientific observation \u2014 who photographs what, when to switch windows, how to log observations in real time."
+    },
+    {
+      "id": "geography-targets",
+      "timed": false,
+      "day": 4,
+      "phase": "outbound-coast",
+      "title": "Lunar Geography Target Study",
+      "summary": "Each crew member spends an hour studying the specific lunar surface features they'll photograph on Day 6. Targets vary based on launch date and lighting conditions."
+    },
+    {
+      "id": "spacesuit-tests",
+      "timed": false,
+      "day": 5,
+      "phase": "outbound-coast",
+      "title": "Spacesuit Pressure and Function Tests",
+      "summary": "First in-space tests of the new Orion Crew Survival System suits. Crew tests: quick donning, pressurization, seat installation while suited, and eating/drinking through the helmet port. The suits can sustain a crew member for up to 6 days if Orion depressurizes."
+    },
+    {
+      "id": "lunar-debrief",
+      "timed": false,
+      "day": 7,
+      "phase": "return-coast",
+      "title": "Lunar Science Debrief",
+      "summary": "Scientists on the ground speak with the crew while the flyby is still fresh \u2014 discussing what they saw, unexpected features, and observations from the far side."
+    },
+    {
+      "id": "crew-offduty",
+      "timed": false,
+      "day": 7,
+      "phase": "return-coast",
+      "title": "Crew Off-Duty Day",
+      "summary": "Largely off-duty for the crew. Rest and personal time before the final tasks of the return leg."
+    },
+    {
+      "id": "radiation-shelter-demo",
+      "timed": false,
+      "day": 8,
+      "phase": "return-coast",
+      "title": "Radiation Shelter Demonstration",
+      "summary": "Crew builds a radiation shelter using Orion's supplies and equipment \u2014 testing how quickly they can protect themselves from a solar flare event in deep space."
+    },
+    {
+      "id": "reentry-review",
+      "timed": false,
+      "day": 9,
+      "phase": "return-coast",
+      "title": "Re-Entry Procedure Review",
+      "summary": "Crew studies splashdown procedures with the flight control team. Last day to rehearse before the real thing tomorrow."
+    },
+    {
+      "id": "waste-garment-tests",
+      "timed": false,
+      "day": 9,
+      "phase": "return-coast",
+      "title": "Waste System & Anti-G Garment Tests",
+      "summary": "Testing backup waste collection (in case the toilet fails during re-entry) and fitting orthostatic intolerance compression garments that prevent dizziness when gravity returns."
+    },
+    {
       "id": "max-q",
       "metHours": 0.0167,
       "phase": "launch",
@@ -605,6 +685,23 @@
       "timed": true
     },
     {
+      "id": "avatar-checkout",
+      "metHours": 26,
+      "phase": "translunar",
+      "title": "AVATAR Science Payload Checkout",
+      "summary": "Crew checks out the AVATAR scientific instrument package for deep space science observations.",
+      "timed": false,
+      "day": 2
+    },
+    {
+      "id": "outbound-coast-begin",
+      "timed": true,
+      "metHours": 26,
+      "phase": "outbound-coast",
+      "title": "Outbound Coast Begins",
+      "summary": "Orion is on its way to the Moon. Four-day coast phase with trajectory corrections and crew activities."
+    },
+    {
       "id": "post-tli-acclimation",
       "metHours": 27,
       "phase": "outbound-coast",
@@ -614,6 +711,14 @@
       "day": 2
     },
     {
+      "id": "day3-wake",
+      "timed": true,
+      "metHours": 42.4,
+      "phase": "outbound-coast",
+      "title": "Crew Wake & Meal \u2014 Day 3",
+      "summary": "Post-sleep routine: pulse ox readings, family calls, breakfast. Takes about 2 hours before crew activities begin."
+    },
+    {
       "id": "first-video-downlink",
       "metHours": 44,
       "phase": "outbound-coast",
@@ -621,6 +726,14 @@
       "summary": "The crew conducts their first live video session with Mission Control Houston, sharing the view of Earth receding behind them.",
       "timed": false,
       "day": 3
+    },
+    {
+      "id": "day3-activities-start",
+      "timed": true,
+      "metHours": 44,
+      "phase": "outbound-coast",
+      "title": "Morning Conference & Day 3 Activities Begin",
+      "summary": "Morning planning conference with Houston, then CPR demo, medical kit checkout, and public events."
     },
     {
       "id": "outbound-correction-1",
@@ -640,6 +753,14 @@
       "day": 3
     },
     {
+      "id": "downlink-day3",
+      "metHours": 50.14,
+      "phase": "outbound-coast",
+      "timed": true,
+      "title": "Live Crew Downlink Event \u2014 Day 3",
+      "summary": "Live video communication with the crew as they coast toward the Moon. First public view of the crew in deep space."
+    },
+    {
       "id": "medical-kit-checkout",
       "metHours": 52,
       "phase": "outbound-coast",
@@ -656,6 +777,14 @@
       "summary": "Koch tests Orion's emergency communication modes through the Deep Space Network at increasing distance from Earth.",
       "timed": false,
       "day": 3
+    },
+    {
+      "id": "csa-downlink-day4",
+      "metHours": 54.39,
+      "phase": "outbound-coast",
+      "timed": true,
+      "title": "Canadian Space Agency Downlink",
+      "summary": "Jeremy Hansen speaks with Canadian media and the public from deep space."
     },
     {
       "id": "emergency-procedure-practice",
@@ -685,6 +814,22 @@
       "day": 3
     },
     {
+      "id": "sleep-day3",
+      "timed": true,
+      "metHours": 57.4,
+      "phase": "outbound-coast",
+      "title": "Crew Sleep Period \u2014 Day 3",
+      "summary": "Crew begins sleep at approximately 3:00 AM CDT. They'll be woken at 11:35 AM CDT to begin flight day 4."
+    },
+    {
+      "id": "day4-wake",
+      "timed": true,
+      "metHours": 66.0,
+      "phase": "outbound-coast",
+      "title": "Crew Wake & Meal \u2014 Day 4",
+      "summary": "Ground team wakes crew at 11:35 AM CDT. Cabin preparation for lunar observation period continues."
+    },
+    {
       "id": "gps-tdrs-range-limit",
       "metHours": 68,
       "phase": "outbound-coast",
@@ -692,6 +837,14 @@
       "summary": "Orion passes beyond the effective range of GPS satellites and the TDRS relay network \u2014 from here, only NASA\u2019s Deep Space Network can reach the crew.",
       "timed": true,
       "day": 3
+    },
+    {
+      "id": "downlink-day4",
+      "metHours": 69.98,
+      "phase": "outbound-coast",
+      "timed": true,
+      "title": "Live Crew Downlink Event \u2014 Day 4",
+      "summary": "Crew shares updates from outbound coast. Geography target review for lunar flyby."
     },
     {
       "id": "emergency-procedure-practice-2",
@@ -703,12 +856,29 @@
       "day": 3
     },
     {
+      "id": "thermal-attitude-manoeuvre",
+      "metHours": 73.0,
+      "phase": "outbound-coast",
+      "title": "Thermal Attitude Manoeuvre \u2014 Waste Port Ice Bake",
+      "summary": "Spacecraft reoriented to point waste ejection ports toward the Sun to sublimate ice buildup.",
+      "timed": true,
+      "day": 4
+    },
+    {
       "id": "outbound-correction-2",
       "metHours": 73.13,
       "phase": "outbound-coast",
-      "title": "Outbound Trajectory Correction Burn 2",
-      "summary": "Second mid-course correction refines Orion\u2019s lunar approach path.",
+      "title": "Outbound Trajectory Correction Burn 2 \u2014 CANCELLED",
+      "summary": "Cancelled. Trajectory accurate enough after OTC-1 cancellation. Instead, crew performing thermal attitude manoeuvre to bake ice off waste ejection ports.",
       "timed": true
+    },
+    {
+      "id": "csa-downlink-day5",
+      "metHours": 77.64,
+      "phase": "outbound-coast",
+      "timed": true,
+      "title": "Canadian Space Agency Downlink \u2014 Day 5",
+      "summary": "Second CSA public event with Jeremy Hansen from deep space."
     },
     {
       "id": "celestial-photography",
@@ -718,6 +888,14 @@
       "summary": "20 minutes dedicated to photographing celestial bodies from Orion's windows \u2014 planets, stars, and Earth receding in the distance.",
       "timed": false,
       "day": 4
+    },
+    {
+      "id": "sleep-day4",
+      "timed": true,
+      "metHours": 79,
+      "phase": "outbound-coast",
+      "title": "Crew Sleep Period \u2014 Day 4",
+      "summary": "Rest before entering the Moon's sphere of influence tomorrow."
     },
     {
       "id": "spacesuit-pressure-test",
@@ -753,6 +931,31 @@
       "summary": "Orion crosses into the Moon\u2019s gravitational sphere of influence at ~66,200 km from the lunar centre \u2014 the Moon\u2019s gravity is now the dominant force acting on the spacecraft.",
       "timed": true,
       "day": 5
+    },
+    {
+      "id": "sleep-day5",
+      "timed": true,
+      "metHours": 104,
+      "phase": "outbound-coast",
+      "title": "Crew Sleep Period \u2014 Day 5",
+      "summary": "Final sleep before the lunar flyby. Orion is now in the Moon's gravitational sphere of influence."
+    },
+    {
+      "id": "flyby-coverage-start",
+      "metHours": 114.16,
+      "phase": "lunar-flyby",
+      "timed": true,
+      "title": "\ud83d\udce1 Lunar Flyby Coverage Begins",
+      "summary": "NASA begins live coverage of the lunar flyby \u2014 the most dramatic phase of the mission."
+    },
+    {
+      "id": "distance-record",
+      "metHours": 115.16,
+      "phase": "lunar-flyby",
+      "title": "\u2b50 Maximum Distance from Earth \u2014 ~4,600 mi Beyond the Far Side",
+      "summary": "Crew surpasses Apollo 13's record of 248,655 miles from Earth, set in 1970. New record for the farthest any human has ever been from home.",
+      "timed": true,
+      "day": 6
     },
     {
       "id": "lunar-approach",
@@ -805,13 +1008,28 @@
       "timed": true
     },
     {
-      "id": "distance-record",
-      "metHours": 115.16,
+      "id": "solar-eclipse-flyby",
+      "metHours": 123,
+      "phase": "moon-orbit",
+      "title": "\ud83c\udf11 Solar Eclipse from Lunar Orbit",
+      "summary": "The Sun passes behind the Moon from Orion's perspective. Nearly one hour of eclipse \u2014 crew observes the solar corona, meteoroid impacts on the dark surface, and lofted lunar dust.",
+      "timed": true
+    },
+    {
+      "id": "downlink-day6",
+      "metHours": 124.06,
       "phase": "lunar-flyby",
-      "title": "\u2b50 Maximum Distance from Earth \u2014 ~4,600 mi Beyond the Far Side",
-      "summary": "Crew surpasses Apollo 13's record of 248,655 miles from Earth, set in 1970. New record for the farthest any human has ever been from home.",
       "timed": true,
-      "day": 6
+      "title": "Live Crew Downlink \u2014 Post-Flyby",
+      "summary": "First communication after the lunar flyby and far-side transit."
+    },
+    {
+      "id": "sleep-day6",
+      "timed": true,
+      "metHours": 128,
+      "phase": "lunar-flyby",
+      "title": "Crew Sleep Period \u2014 Day 6",
+      "summary": "Rest after the most intense day of the mission \u2014 the lunar flyby."
     },
     {
       "id": "post-flyby-science",
@@ -832,6 +1050,14 @@
       "day": 6
     },
     {
+      "id": "iss-call",
+      "metHours": 139.89,
+      "phase": "return-coast",
+      "timed": true,
+      "title": "\ud83d\udef0\ufe0f Crew Speaks with ISS Astronauts",
+      "summary": "Audio conversation between the Artemis II crew and astronauts aboard the International Space Station."
+    },
+    {
       "id": "day7-off-duty",
       "metHours": 142,
       "phase": "return-coast",
@@ -849,6 +1075,22 @@
       "timed": true
     },
     {
+      "id": "sleep-day7",
+      "timed": true,
+      "metHours": 152,
+      "phase": "return-coast",
+      "title": "Crew Sleep Period \u2014 Day 7",
+      "summary": "Rest during the return coast. Earth is getting bigger in the windows again."
+    },
+    {
+      "id": "csa-downlink-day8",
+      "metHours": 168.56,
+      "phase": "return-coast",
+      "timed": true,
+      "title": "Canadian Space Agency Downlink \u2014 Day 8",
+      "summary": "CSA public event with Jeremy Hansen during the return coast."
+    },
+    {
       "id": "manual-piloting-demo",
       "metHours": 174,
       "phase": "return-coast",
@@ -858,12 +1100,44 @@
       "day": 8
     },
     {
+      "id": "sleep-day8",
+      "timed": true,
+      "metHours": 174,
+      "phase": "return-coast",
+      "title": "Crew Sleep Period \u2014 Day 8",
+      "summary": "Second to last night in space."
+    },
+    {
+      "id": "crew-press-conference",
+      "metHours": 191.39,
+      "phase": "return-coast",
+      "timed": true,
+      "title": "\ud83c\udfa4 Crew News Conference from Space",
+      "summary": "The Artemis II crew holds a press conference from deep space, answering questions from journalists on Earth."
+    },
+    {
+      "id": "downlink-day9",
+      "metHours": 193.31,
+      "phase": "return-coast",
+      "timed": true,
+      "title": "Live Crew Downlink \u2014 Final Full Day",
+      "summary": "Last major public event before re-entry preparations begin."
+    },
+    {
       "id": "return-correction-2",
       "metHours": 196.48,
       "phase": "return-coast",
       "title": "Return Trajectory Correction Burn 2",
       "summary": "Second return course correction keeps Orion precisely on target for the Pacific Ocean splashdown zone.",
       "timed": true
+    },
+    {
+      "id": "sleep-day9",
+      "timed": true,
+      "metHours": 198,
+      "phase": "return-coast",
+      "title": "Crew Sleep Period \u2014 Day 9",
+      "summary": "Final night in space. Tomorrow: re-entry and splashdown."
     },
     {
       "id": "equipment-stow-begins",
@@ -882,6 +1156,22 @@
       "summary": "Final cabin preparations for re-entry \u2014 all equipment secured, seats in landing position, cabin in launch configuration.",
       "timed": true,
       "day": 9
+    },
+    {
+      "id": "reentry-coverage",
+      "metHours": 215.91,
+      "phase": "reentry",
+      "timed": true,
+      "title": "\ud83d\udce1 Re-Entry Coverage Begins",
+      "summary": "NASA begins live coverage of the crew's return to Earth."
+    },
+    {
+      "id": "splashdown",
+      "metHours": 217.51,
+      "phase": "reentry",
+      "title": "\u2b50 Splashdown in Pacific Ocean",
+      "summary": "Orion splashes down near San Diego. U.S. Navy recovery teams retrieve the crew and capsule.",
+      "timed": true
     },
     {
       "id": "crew-dons-suits",
@@ -937,293 +1227,12 @@
       "day": 10
     },
     {
-      "id": "splashdown",
-      "metHours": 217.51,
-      "phase": "reentry",
-      "title": "\u2b50 Splashdown in Pacific Ocean",
-      "summary": "Orion splashes down near San Diego. U.S. Navy recovery teams retrieve the crew and capsule.",
-      "timed": true
-    },
-    {
       "id": "recovery",
       "metHours": 228,
       "phase": "recovery",
       "title": "Crew Recovery by USS Portland",
       "summary": "Navy divers stabilise the capsule. Crew exits and is helicopter-lifted to the USS Portland (LPD-27) for medical evaluation.",
       "timed": true
-    },
-    {
-      "id": "avatar-checkout",
-      "metHours": 26,
-      "phase": "translunar",
-      "title": "AVATAR Science Payload Checkout",
-      "summary": "Crew checks out the AVATAR scientific instrument package for deep space science observations.",
-      "timed": false,
-      "day": 2
-    },
-    {
-      "id": "solar-eclipse-flyby",
-      "metHours": 123,
-      "phase": "moon-orbit",
-      "title": "\ud83c\udf11 Solar Eclipse from Lunar Orbit",
-      "summary": "The Sun passes behind the Moon from Orion's perspective. Nearly one hour of eclipse \u2014 crew observes the solar corona, meteoroid impacts on the dark surface, and lofted lunar dust.",
-      "timed": true
-    },
-    {
-      "id": "public-events-day3",
-      "timed": false,
-      "day": 3,
-      "phase": "translunar",
-      "title": "Public Events",
-      "summary": "Crew participates in scheduled public communications and media events."
-    },
-    {
-      "id": "outbound-coast-begin",
-      "timed": true,
-      "metHours": 26,
-      "phase": "outbound-coast",
-      "title": "Outbound Coast Begins",
-      "summary": "Orion is on its way to the Moon. Four-day coast phase with trajectory corrections and crew activities."
-    },
-    {
-      "id": "day3-wake",
-      "timed": true,
-      "metHours": 42.4,
-      "phase": "outbound-coast",
-      "title": "Crew Wake & Meal \u2014 Day 3",
-      "summary": "Post-sleep routine: pulse ox readings, family calls, breakfast. Takes about 2 hours before crew activities begin."
-    },
-    {
-      "id": "day3-activities-start",
-      "timed": true,
-      "metHours": 44,
-      "phase": "outbound-coast",
-      "title": "Morning Conference & Day 3 Activities Begin",
-      "summary": "Morning planning conference with Houston, then CPR demo, medical kit checkout, and public events."
-    },
-    {
-      "id": "natgeo-filming",
-      "timed": false,
-      "day": 3,
-      "phase": "outbound-coast",
-      "title": "National Geographic Documentary Filming",
-      "summary": "Crew films footage for a National Geographic documentary \u2014 daily life, work, and living aboard Orion in deep space."
-    },
-    {
-      "id": "downlink-day3",
-      "metHours": 50.14,
-      "phase": "outbound-coast",
-      "timed": true,
-      "title": "Live Crew Downlink Event \u2014 Day 3",
-      "summary": "Live video communication with the crew as they coast toward the Moon. First public view of the crew in deep space."
-    },
-    {
-      "id": "csa-downlink-day4",
-      "metHours": 54.39,
-      "phase": "outbound-coast",
-      "timed": true,
-      "title": "Canadian Space Agency Downlink",
-      "summary": "Jeremy Hansen speaks with Canadian media and the public from deep space."
-    },
-    {
-      "id": "downlink-day4",
-      "metHours": 69.98,
-      "phase": "outbound-coast",
-      "timed": true,
-      "title": "Live Crew Downlink Event \u2014 Day 4",
-      "summary": "Crew shares updates from outbound coast. Geography target review for lunar flyby."
-    },
-    {
-      "id": "csa-downlink-day5",
-      "metHours": 77.64,
-      "phase": "outbound-coast",
-      "timed": true,
-      "title": "Canadian Space Agency Downlink \u2014 Day 5",
-      "summary": "Second CSA public event with Jeremy Hansen from deep space."
-    },
-    {
-      "id": "flyby-coverage-start",
-      "metHours": 114.16,
-      "phase": "lunar-flyby",
-      "timed": true,
-      "title": "\ud83d\udce1 Lunar Flyby Coverage Begins",
-      "summary": "NASA begins live coverage of the lunar flyby \u2014 the most dramatic phase of the mission."
-    },
-    {
-      "id": "downlink-day6",
-      "metHours": 124.06,
-      "phase": "lunar-flyby",
-      "timed": true,
-      "title": "Live Crew Downlink \u2014 Post-Flyby",
-      "summary": "First communication after the lunar flyby and far-side transit."
-    },
-    {
-      "id": "iss-call",
-      "metHours": 139.89,
-      "phase": "return-coast",
-      "timed": true,
-      "title": "\ud83d\udef0\ufe0f Crew Speaks with ISS Astronauts",
-      "summary": "Audio conversation between the Artemis II crew and astronauts aboard the International Space Station."
-    },
-    {
-      "id": "csa-downlink-day8",
-      "metHours": 168.56,
-      "phase": "return-coast",
-      "timed": true,
-      "title": "Canadian Space Agency Downlink \u2014 Day 8",
-      "summary": "CSA public event with Jeremy Hansen during the return coast."
-    },
-    {
-      "id": "crew-press-conference",
-      "metHours": 191.39,
-      "phase": "return-coast",
-      "timed": true,
-      "title": "\ud83c\udfa4 Crew News Conference from Space",
-      "summary": "The Artemis II crew holds a press conference from deep space, answering questions from journalists on Earth."
-    },
-    {
-      "id": "downlink-day9",
-      "metHours": 193.31,
-      "phase": "return-coast",
-      "timed": true,
-      "title": "Live Crew Downlink \u2014 Final Full Day",
-      "summary": "Last major public event before re-entry preparations begin."
-    },
-    {
-      "id": "reentry-coverage",
-      "metHours": 215.91,
-      "phase": "reentry",
-      "timed": true,
-      "title": "\ud83d\udce1 Re-Entry Coverage Begins",
-      "summary": "NASA begins live coverage of the crew's return to Earth."
-    },
-    {
-      "id": "lunar-flyby-rehearsal",
-      "timed": false,
-      "day": 3,
-      "phase": "outbound-coast",
-      "title": "Lunar Flyby Observation Rehearsal",
-      "summary": "Entire crew rehearses the choreography for Day 6 scientific observation \u2014 who photographs what, when to switch windows, how to log observations in real time."
-    },
-    {
-      "id": "geography-targets",
-      "timed": false,
-      "day": 4,
-      "phase": "outbound-coast",
-      "title": "Lunar Geography Target Study",
-      "summary": "Each crew member spends an hour studying the specific lunar surface features they'll photograph on Day 6. Targets vary based on launch date and lighting conditions."
-    },
-    {
-      "id": "spacesuit-tests",
-      "timed": false,
-      "day": 5,
-      "phase": "outbound-coast",
-      "title": "Spacesuit Pressure and Function Tests",
-      "summary": "First in-space tests of the new Orion Crew Survival System suits. Crew tests: quick donning, pressurization, seat installation while suited, and eating/drinking through the helmet port. The suits can sustain a crew member for up to 6 days if Orion depressurizes."
-    },
-    {
-      "id": "lunar-debrief",
-      "timed": false,
-      "day": 7,
-      "phase": "return-coast",
-      "title": "Lunar Science Debrief",
-      "summary": "Scientists on the ground speak with the crew while the flyby is still fresh \u2014 discussing what they saw, unexpected features, and observations from the far side."
-    },
-    {
-      "id": "crew-offduty",
-      "timed": false,
-      "day": 7,
-      "phase": "return-coast",
-      "title": "Crew Off-Duty Day",
-      "summary": "Largely off-duty for the crew. Rest and personal time before the final tasks of the return leg."
-    },
-    {
-      "id": "radiation-shelter-demo",
-      "timed": false,
-      "day": 8,
-      "phase": "return-coast",
-      "title": "Radiation Shelter Demonstration",
-      "summary": "Crew builds a radiation shelter using Orion's supplies and equipment \u2014 testing how quickly they can protect themselves from a solar flare event in deep space."
-    },
-    {
-      "id": "reentry-review",
-      "timed": false,
-      "day": 9,
-      "phase": "return-coast",
-      "title": "Re-Entry Procedure Review",
-      "summary": "Crew studies splashdown procedures with the flight control team. Last day to rehearse before the real thing tomorrow."
-    },
-    {
-      "id": "waste-garment-tests",
-      "timed": false,
-      "day": 9,
-      "phase": "return-coast",
-      "title": "Waste System & Anti-G Garment Tests",
-      "summary": "Testing backup waste collection (in case the toilet fails during re-entry) and fitting orthostatic intolerance compression garments that prevent dizziness when gravity returns."
-    },
-    {
-      "id": "sleep-day3",
-      "timed": true,
-      "metHours": 57.4,
-      "phase": "outbound-coast",
-      "title": "Crew Sleep Period — Day 3",
-      "summary": "Crew begins sleep at approximately 3:00 AM CDT. They'll be woken at 11:35 AM CDT to begin flight day 4."
-    },
-    {
-      "id": "day4-wake",
-      "timed": true,
-      "metHours": 66.0,
-      "phase": "outbound-coast",
-      "title": "Crew Wake & Meal — Day 4",
-      "summary": "Ground team wakes crew at 11:35 AM CDT. Cabin preparation for lunar observation period continues."
-    },
-    {
-      "id": "sleep-day4",
-      "timed": true,
-      "metHours": 79,
-      "phase": "outbound-coast",
-      "title": "Crew Sleep Period \u2014 Day 4",
-      "summary": "Rest before entering the Moon's sphere of influence tomorrow."
-    },
-    {
-      "id": "sleep-day5",
-      "timed": true,
-      "metHours": 104,
-      "phase": "outbound-coast",
-      "title": "Crew Sleep Period \u2014 Day 5",
-      "summary": "Final sleep before the lunar flyby. Orion is now in the Moon's gravitational sphere of influence."
-    },
-    {
-      "id": "sleep-day6",
-      "timed": true,
-      "metHours": 128,
-      "phase": "lunar-flyby",
-      "title": "Crew Sleep Period \u2014 Day 6",
-      "summary": "Rest after the most intense day of the mission \u2014 the lunar flyby."
-    },
-    {
-      "id": "sleep-day7",
-      "timed": true,
-      "metHours": 152,
-      "phase": "return-coast",
-      "title": "Crew Sleep Period \u2014 Day 7",
-      "summary": "Rest during the return coast. Earth is getting bigger in the windows again."
-    },
-    {
-      "id": "sleep-day8",
-      "timed": true,
-      "metHours": 174,
-      "phase": "return-coast",
-      "title": "Crew Sleep Period \u2014 Day 8",
-      "summary": "Second to last night in space."
-    },
-    {
-      "id": "sleep-day9",
-      "timed": true,
-      "metHours": 198,
-      "phase": "return-coast",
-      "title": "Crew Sleep Period \u2014 Day 9",
-      "summary": "Final night in space. Tomorrow: re-entry and splashdown."
     }
   ],
   "crewSchedule": [
