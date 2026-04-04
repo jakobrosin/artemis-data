@@ -1164,10 +1164,18 @@
     {
       "id": "sleep-day3",
       "timed": true,
-      "metHours": 56,
+      "metHours": 57.4,
       "phase": "outbound-coast",
-      "title": "Crew Sleep Period \u2014 Day 3",
-      "summary": "Eight hours of scheduled rest. Crew is on Houston time \u2014 their night is roughly 10:00-18:00 Tallinn time."
+      "title": "Crew Sleep Period — Day 3",
+      "summary": "Crew begins sleep at approximately 3:00 AM CDT. They'll be woken at 11:35 AM CDT to begin flight day 4."
+    },
+    {
+      "id": "day4-wake",
+      "timed": true,
+      "metHours": 66.0,
+      "phase": "outbound-coast",
+      "title": "Crew Wake & Meal — Day 4",
+      "summary": "Ground team wakes crew at 11:35 AM CDT. Cabin preparation for lunar observation period continues."
     },
     {
       "id": "sleep-day4",
