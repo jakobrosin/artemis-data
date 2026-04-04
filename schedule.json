@@ -831,12 +831,12 @@
     },
     {
       "id": "gps-tdrs-range-limit",
-      "metHours": 68,
+      "metHours": 28.0,
       "phase": "outbound-coast",
       "title": "GPS & TDRS Range Limit \u2014 Beyond Earth\u2019s Navigation Grid",
       "summary": "Orion passes beyond the effective range of GPS satellites and the TDRS relay network \u2014 from here, only NASA\u2019s Deep Space Network can reach the crew.",
       "timed": true,
-      "day": 3
+      "day": 2
     },
     {
       "id": "downlink-day4",
