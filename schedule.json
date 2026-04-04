@@ -28,7 +28,7 @@
       "title": "Orion Spacecraft Powered Up",
       "summary": "The Orion crew module and European Service Module are powered on and begin system self-checks.",
       "timed": true,
-      "day": 0
+      "day": -1
     },
     {
       "id": "core-stage-power-up",
@@ -37,7 +37,7 @@
       "title": "Core Stage Powered Up",
       "summary": "The SLS core stage avionics and flight computers are powered on for pre-flight testing.",
       "timed": true,
-      "day": 0
+      "day": -1
     },
     {
       "id": "rs25-final-prep",
@@ -46,7 +46,7 @@
       "title": "Final Preparations of RS-25 Engines",
       "summary": "Technicians complete final inspections and preparations on the four RS-25 main engines.",
       "timed": true,
-      "day": 0
+      "day": -1
     },
     {
       "id": "icps-power-up",
@@ -55,7 +55,7 @@
       "title": "ICPS Powered Up for Launch",
       "summary": "The Interim Cryogenic Propulsion Stage upper stage is powered on and its RL10B-2 engine systems are checked.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "non-essential-leave-pad",
@@ -64,7 +64,7 @@
       "title": "Non-Essential Personnel Leave Pad",
       "summary": "All non-essential workers are cleared from Launch Complex 39B as the countdown enters its critical phase.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "gls-activation",
@@ -73,7 +73,7 @@
       "title": "Ground Launch Sequencer Activation",
       "summary": "The Ground Launch Sequencer (GLS) software is activated and begins monitoring vehicle health.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "built-in-hold-2h45m",
@@ -82,7 +82,7 @@
       "title": "Built-in 2h 45m Hold Begins",
       "summary": "A planned 2-hour 45-minute hold in the countdown allows teams to catch up on procedures and resolve any open issues.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "go-nogo-tanking",
@@ -91,7 +91,7 @@
       "title": "Go/No-Go for Tanking",
       "summary": "The Launch Director polls the team for permission to begin loading cryogenic propellants into the SLS core stage.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "lh2-slow-fill",
@@ -100,7 +100,7 @@
       "title": "Core Stage LH\u2082 Slow Fill",
       "summary": "Loading of liquid hydrogen into the SLS core stage begins with a slow fill to chill down the tank and feed lines.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "resume-t-clock",
@@ -109,7 +109,7 @@
       "title": "Resume T-Clock from T\u22128h 10m",
       "summary": "The T-clock resumes counting from T\u22128 hours 10 minutes, running in parallel with the L-clock.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "lox-slow-fill",
@@ -118,7 +118,7 @@
       "title": "Core Stage LOX Slow Fill",
       "summary": "Liquid oxygen loading begins into the SLS core stage, starting with slow fill to chill the tank.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "orion-comms-activated",
@@ -127,7 +127,7 @@
       "title": "Orion Comms Activated (RF to Mission Control)",
       "summary": "Orion\u2019s RF communication link to Mission Control Houston is activated and verified.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "closeout-crew-assemble",
@@ -136,7 +136,7 @@
       "title": "Closeout Crew Assemble",
       "summary": "The closeout crew assembles at the pad to prepare for crew arrival and ingress into Orion.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "crew-weather-brief",
@@ -145,7 +145,7 @@
       "title": "Flight Crew Weather Brief",
       "summary": "The flight crew receives the final weather briefing from the 45th Weather Squadron at Patrick Space Force Base.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "built-in-hold-1h10m",
@@ -154,7 +154,7 @@
       "title": "Built-in 1h 10m Hold Begins",
       "summary": "A planned 1-hour 10-minute hold provides final margin before crew transport to the pad.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "crew-deploy-to-pad",
@@ -163,7 +163,7 @@
       "title": "Flight Crew Deployment to Pad",
       "summary": "The crew departs the Neil Armstrong Operations and Checkout Building for the 9-mile drive to Launch Complex 39B.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "crew-board-orion",
@@ -172,7 +172,7 @@
       "title": "Flight Crew Board Orion (Ingress)",
       "summary": "The four crew members enter the Orion spacecraft via the Crew Access Arm and take their assigned seats.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "hatch-preps-closure",
@@ -181,7 +181,7 @@
       "title": "Crew Module Hatch Preps and Closure",
       "summary": "The closeout crew prepares and closes the Orion crew module hatch, then performs leak checks.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "hatch-service-panel",
@@ -190,7 +190,7 @@
       "title": "Hatch Service Panel Install / Closeouts",
       "summary": "The exterior hatch service panel is installed and final closeout tasks are performed on the crew module.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "las-hatch-closure",
@@ -199,7 +199,7 @@
       "title": "Launch Abort System Hatch Closure",
       "summary": "The Launch Abort System (LAS) hatch is sealed, completing the closeout of the crew escape path.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "launch-director-brief",
@@ -208,7 +208,7 @@
       "title": "Launch Director Brief",
       "summary": "Launch Director Charlie Blackwell-Thompson briefs the team on countdown status and any open items.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "closeout-crew-departs",
@@ -217,7 +217,7 @@
       "title": "Closeout Crew Departs Pad",
       "summary": "The closeout crew leaves the mobile launcher and evacuates to the Launch Control Center, 5.6 km away.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "final-ntd-briefing",
@@ -226,7 +226,7 @@
       "title": "Final NTD Briefing",
       "summary": "The NASA Test Director (NTD) delivers the final pre-launch briefing to all teams.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "built-in-hold-30m",
@@ -235,7 +235,7 @@
       "title": "Built-in 30-Minute Hold",
       "summary": "The final planned hold in the countdown \u2014 30 minutes of margin for last-minute issue resolution.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "orion-earth-comm",
@@ -244,7 +244,7 @@
       "title": "Transition to Orion\u2013Earth Comm Loop",
       "summary": "Communications switch from ground-based loops to the direct Orion\u2013Earth space communication link.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "launch-director-poll",
@@ -253,7 +253,7 @@
       "title": "Launch Director Polls Team for Go",
       "summary": "The Launch Director polls all console positions for a final \u201cGo/No-Go\u201d decision to proceed with launch.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "visors-down",
@@ -262,7 +262,7 @@
       "title": "Flight Crew Visors Down",
       "summary": "The four crew members lower and lock their helmet visors, sealing their OCSS pressure suits for launch.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "terminal-countdown",
@@ -271,7 +271,7 @@
       "title": "Terminal Countdown Begins (GLS)",
       "summary": "The Ground Launch Sequencer takes active control at T\u221210 minutes, beginning the automated terminal countdown.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "crew-access-arm-retract",
@@ -280,7 +280,7 @@
       "title": "Crew Access Arm Retract",
       "summary": "The 55-metre Crew Access Arm swings away from Orion and locks into launch position.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "tank-press-internal-power",
@@ -289,7 +289,7 @@
       "title": "Core Stage Tank Pressurization / Orion to Internal Power",
       "summary": "Core stage propellant tanks are pressurised to flight levels and Orion switches to internal battery power.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "las-capability-available",
@@ -298,7 +298,7 @@
       "title": "LAS Capability Available",
       "summary": "The Launch Abort System is armed and ready to pull the crew module to safety if an abort is triggered.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "fts-armed",
@@ -307,7 +307,7 @@
       "title": "Flight Termination System Armed",
       "summary": "The flight termination system is armed, giving Range Safety the ability to destroy the vehicle if it goes off course.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "core-stage-apu-start",
@@ -316,7 +316,7 @@
       "title": "Core Stage APU Start",
       "summary": "The core stage Auxiliary Power Units start, providing hydraulic power for RS-25 engine gimballing.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "purge-sequence-4",
@@ -325,7 +325,7 @@
       "title": "Purge Sequence 4",
       "summary": "The fourth and final purge sequence flushes the engine compartment with inert gas to prevent hydrogen accumulation.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "booster-internal-power",
@@ -334,7 +334,7 @@
       "title": "Booster to Internal Power",
       "summary": "The twin solid rocket boosters switch to internal battery power in preparation for ignition.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "core-stage-internal-power",
@@ -343,7 +343,7 @@
       "title": "Core Stage to Internal Power",
       "summary": "The SLS core stage disconnects from ground power and switches to internal batteries.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "icps-lh2-terminate",
@@ -352,7 +352,7 @@
       "title": "ICPS LH\u2082 Terminate Replenish",
       "summary": "Liquid hydrogen replenishment to the ICPS upper stage is terminated and the fill line is secured.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "go-automated-sequencer",
@@ -361,7 +361,7 @@
       "title": "Go for Automated Launch Sequencer",
       "summary": "Final \u201cGo\u201d is given and the automated launch sequencer takes full control for the final seconds.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "h2-burnoff-igniters",
@@ -370,7 +370,7 @@
       "title": "Hydrogen Burn-Off Igniters",
       "summary": "Hydrogen burn-off igniters activate beneath the RS-25 engines to safely combust any free hydrogen before ignition.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "rs25-start-command",
@@ -379,7 +379,7 @@
       "title": "RS-25 Engine Start Command",
       "summary": "The start command is sent to the four RS-25 engines, initiating the staggered ignition sequence.",
       "timed": true,
-      "day": 1
+      "day": -1
     },
     {
       "id": "rs25-ignition",
@@ -388,24 +388,7 @@
       "title": "RS-25 Engines Ignite",
       "summary": "All four RS-25 engines reach full thrust. The vehicle strains against the hold-down posts as systems are verified.",
       "timed": true,
-      "day": 1
-    },
-    {
-      "id": "booster-ignition-liftoff",
-      "metHours": 0,
-      "phase": "prelaunch",
-      "title": "Booster Ignition \u2014 Liftoff!",
-      "summary": "The twin solid rocket boosters ignite and the eight hold-down bolts are severed pyrotechnically. SLS lifts off from LC-39B.",
-      "timed": true,
-      "day": 1
-    },
-    {
-      "id": "launch",
-      "metHours": 0,
-      "phase": "launch",
-      "title": "Liftoff",
-      "summary": "SLS lifts off from LC-39B at Kennedy Space Center. Nearly 40 MN of thrust pushes the crew toward orbit at ~8 km/s.",
-      "timed": true
+      "day": -1
     },
     {
       "id": "public-events-day3",
@@ -464,14 +447,6 @@
       "summary": "Largely off-duty for the crew. Rest and personal time before the final tasks of the return leg."
     },
     {
-      "id": "radiation-shelter-demo",
-      "timed": false,
-      "day": 8,
-      "phase": "return-coast",
-      "title": "Radiation Shelter Demonstration",
-      "summary": "Crew builds a radiation shelter using Orion's supplies and equipment \u2014 testing how quickly they can protect themselves from a solar flare event in deep space."
-    },
-    {
       "id": "reentry-review",
       "timed": false,
       "day": 9,
@@ -486,6 +461,24 @@
       "phase": "return-coast",
       "title": "Waste System & Anti-G Garment Tests",
       "summary": "Testing backup waste collection (in case the toilet fails during re-entry) and fitting orthostatic intolerance compression garments that prevent dizziness when gravity returns."
+    },
+    {
+      "id": "booster-ignition-liftoff",
+      "metHours": 0,
+      "phase": "prelaunch",
+      "title": "Booster Ignition \u2014 Liftoff!",
+      "summary": "The twin solid rocket boosters ignite and the eight hold-down bolts are severed pyrotechnically. SLS lifts off from LC-39B.",
+      "timed": true,
+      "day": 1
+    },
+    {
+      "id": "launch",
+      "metHours": 0,
+      "phase": "launch",
+      "title": "Liftoff",
+      "summary": "SLS lifts off from LC-39B at Kennedy Space Center. Nearly 40 MN of thrust pushes the crew toward orbit at ~8 km/s.",
+      "timed": true,
+      "day": 1
     },
     {
       "id": "max-q",
@@ -520,7 +513,8 @@
       "phase": "launch",
       "title": "Launch Abort System Jettison",
       "summary": "The Launch Abort System tower is jettisoned. It is no longer needed as the vehicle is above the altitude where it could safely pull the crew module away.",
-      "timed": true
+      "timed": true,
+      "day": 1
     },
     {
       "id": "meco",
@@ -528,7 +522,8 @@
       "phase": "launch",
       "title": "Core Stage MECO (Main Engine Cutoff)",
       "summary": "The four RS-25 engines shut down after ~8 minutes 24 seconds of powered flight. The core stage has done its job.",
-      "timed": true
+      "timed": true,
+      "day": 1
     },
     {
       "id": "core-sep",
@@ -617,7 +612,8 @@
       "phase": "earth-orbit",
       "title": "ICPS Disposal Burn",
       "summary": "The spent ICPS performs a disposal burn to move into a safe heliocentric orbit, away from Orion\u2019s path.",
-      "timed": true
+      "timed": true,
+      "day": 1
     },
     {
       "id": "cubesat-deploy",
@@ -634,7 +630,8 @@
       "phase": "earth-orbit",
       "title": "Crew Sleep Period 1",
       "summary": "Brief rest period after launch. Crew woken at MET ~12.5h for the perigee raise burn.",
-      "timed": true
+      "timed": true,
+      "day": 1
     },
     {
       "id": "orbit-geometry-burn",
@@ -642,7 +639,8 @@
       "phase": "earth-orbit",
       "title": "Orbit Geometry Burn",
       "summary": "Engine firing adjusts orbital geometry to set up the correct approach angle for the TLI burn on Flight Day 2.",
-      "timed": true
+      "timed": true,
+      "day": 1
     },
     {
       "id": "dsn-emergency-checkout",
@@ -650,7 +648,8 @@
       "phase": "earth-orbit",
       "title": "Deep Space Network Emergency Comms Checkout",
       "summary": "First test of Orion\u2019s emergency communication system via the Deep Space Network \u2014 verifying the link that will be critical during the lunar phase.",
-      "timed": true
+      "timed": true,
+      "day": 1
     },
     {
       "id": "crew-sleep-1b",
@@ -658,7 +657,8 @@
       "phase": "earth-orbit",
       "title": "Crew Sleep Period 2",
       "summary": "After the perigee raise burn, crew returns to sleep until MET 20h. Crew requested wakeup music at MET 20:00.",
-      "timed": true
+      "timed": true,
+      "day": 1
     },
     {
       "id": "exercise-wiseman-glover",
@@ -666,7 +666,8 @@
       "phase": "earth-orbit",
       "title": "Crew Exercise",
       "summary": "Crew rotates on the flywheel resistive exercise device before the TLI burn.",
-      "timed": true
+      "timed": true,
+      "day": 2
     },
     {
       "id": "tli-prep",
@@ -674,7 +675,8 @@
       "phase": "earth-orbit",
       "title": "TLI Burn Preparation",
       "summary": "Koch prepares Orion\u2019s orbital manoeuvring system engine for the critical translunar injection burn.",
-      "timed": true
+      "timed": true,
+      "day": 2
     },
     {
       "id": "tli",
@@ -682,7 +684,8 @@
       "phase": "translunar",
       "title": "\u2b50 Trans-Lunar Injection (TLI) Burn",
       "summary": "THE critical burn \u2014 ESM main engine fires for ~6 min 5 s, adding ~1,450 km/h to escape Earth orbit and set course for the Moon.",
-      "timed": true
+      "timed": true,
+      "day": 2
     },
     {
       "id": "avatar-checkout",
@@ -699,7 +702,8 @@
       "metHours": 26,
       "phase": "outbound-coast",
       "title": "Outbound Coast Begins",
-      "summary": "Orion is on its way to the Moon. Four-day coast phase with trajectory corrections and crew activities."
+      "summary": "Orion is on its way to the Moon. Four-day coast phase with trajectory corrections and crew activities.",
+      "day": 2
     },
     {
       "id": "post-tli-acclimation",
@@ -711,12 +715,22 @@
       "day": 2
     },
     {
+      "id": "gps-tdrs-range-limit",
+      "metHours": 28.0,
+      "phase": "outbound-coast",
+      "title": "GPS & TDRS Range Limit \u2014 Beyond Earth\u2019s Navigation Grid",
+      "summary": "Orion passes beyond the effective range of GPS satellites and the TDRS relay network \u2014 from here, only NASA\u2019s Deep Space Network can reach the crew.",
+      "timed": true,
+      "day": 2
+    },
+    {
       "id": "day3-wake",
       "timed": true,
       "metHours": 42.4,
       "phase": "outbound-coast",
       "title": "Crew Wake & Meal \u2014 Day 3",
-      "summary": "Post-sleep routine: pulse ox readings, family calls, breakfast. Takes about 2 hours before crew activities begin."
+      "summary": "Post-sleep routine: pulse ox readings, family calls, breakfast. Takes about 2 hours before crew activities begin.",
+      "day": 3
     },
     {
       "id": "first-video-downlink",
@@ -733,7 +747,8 @@
       "metHours": 44,
       "phase": "outbound-coast",
       "title": "Morning Conference & Day 3 Activities Begin",
-      "summary": "Morning planning conference with Houston, then CPR demo, medical kit checkout, and public events."
+      "summary": "Morning planning conference with Houston, then CPR demo, medical kit checkout, and public events.",
+      "day": 3
     },
     {
       "id": "outbound-correction-1",
@@ -741,7 +756,8 @@
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 1 \u2014 CANCELLED",
       "summary": "Cancelled \u2014 Orion's trajectory is already on the right flight path. Any adjustments will be incorporated into a later burn.",
-      "timed": true
+      "timed": true,
+      "day": 3
     },
     {
       "id": "cpr-demo",
@@ -758,7 +774,8 @@
       "phase": "outbound-coast",
       "timed": true,
       "title": "Live Crew Downlink Event \u2014 Day 3",
-      "summary": "Live video communication with the crew as they coast toward the Moon. First public view of the crew in deep space."
+      "summary": "Live video communication with the crew as they coast toward the Moon. First public view of the crew in deep space.",
+      "day": 3
     },
     {
       "id": "medical-kit-checkout",
@@ -783,8 +800,9 @@
       "metHours": 54.39,
       "phase": "outbound-coast",
       "timed": true,
-      "title": "Canadian Space Agency Downlink",
-      "summary": "Jeremy Hansen speaks with Canadian media and the public from deep space."
+      "title": "Canadian Space Agency Downlink \u2014 Day 3",
+      "summary": "Jeremy Hansen speaks with Canadian media and the public from deep space.",
+      "day": 3
     },
     {
       "id": "emergency-procedure-practice",
@@ -819,7 +837,8 @@
       "metHours": 57.4,
       "phase": "outbound-coast",
       "title": "Crew Sleep Period \u2014 Day 3",
-      "summary": "Crew begins sleep at approximately 3:00 AM CDT. They'll be woken at 11:35 AM CDT to begin flight day 4."
+      "summary": "Crew begins sleep at approximately 3:00 AM CDT. They'll be woken at 11:35 AM CDT to begin flight day 4.",
+      "day": 3
     },
     {
       "id": "day4-wake",
@@ -827,16 +846,8 @@
       "metHours": 66.0,
       "phase": "outbound-coast",
       "title": "Crew Wake & Meal \u2014 Day 4",
-      "summary": "Ground team wakes crew at 11:35 AM CDT. Cabin preparation for lunar observation period continues."
-    },
-    {
-      "id": "gps-tdrs-range-limit",
-      "metHours": 28.0,
-      "phase": "outbound-coast",
-      "title": "GPS & TDRS Range Limit \u2014 Beyond Earth\u2019s Navigation Grid",
-      "summary": "Orion passes beyond the effective range of GPS satellites and the TDRS relay network \u2014 from here, only NASA\u2019s Deep Space Network can reach the crew.",
-      "timed": true,
-      "day": 2
+      "summary": "Ground team wakes crew at 11:35 AM CDT. Cabin preparation for lunar observation period continues.",
+      "day": 4
     },
     {
       "id": "downlink-day4",
@@ -844,7 +855,8 @@
       "phase": "outbound-coast",
       "timed": true,
       "title": "Live Crew Downlink Event \u2014 Day 4",
-      "summary": "Crew shares updates from outbound coast. Geography target review for lunar flyby."
+      "summary": "Crew shares updates from outbound coast. Geography target review for lunar flyby.",
+      "day": 4
     },
     {
       "id": "emergency-procedure-practice-2",
@@ -853,7 +865,7 @@
       "title": "Emergency Procedure Practice \u2014 Rapid Abort Scenarios",
       "summary": "Second emergency drill session: the crew practises abort scenarios including an emergency return trajectory burn and contingency power-down procedures.",
       "timed": true,
-      "day": 3
+      "day": 4
     },
     {
       "id": "thermal-attitude-manoeuvre",
@@ -870,15 +882,17 @@
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 2 \u2014 CANCELLED",
       "summary": "Cancelled. Trajectory accurate enough after OTC-1 cancellation. Instead, crew performing thermal attitude manoeuvre to bake ice off waste ejection ports.",
-      "timed": true
+      "timed": true,
+      "day": 4
     },
     {
       "id": "csa-downlink-day5",
       "metHours": 77.64,
       "phase": "outbound-coast",
       "timed": true,
-      "title": "Canadian Space Agency Downlink \u2014 Day 5",
-      "summary": "Second CSA public event with Jeremy Hansen from deep space."
+      "title": "Canadian Space Agency Downlink \u2014 Day 4",
+      "summary": "Second CSA public event with Jeremy Hansen from deep space.",
+      "day": 4
     },
     {
       "id": "celestial-photography",
@@ -895,7 +909,17 @@
       "metHours": 79,
       "phase": "outbound-coast",
       "title": "Crew Sleep Period \u2014 Day 4",
-      "summary": "Rest before entering the Moon's sphere of influence tomorrow."
+      "summary": "Rest before entering the Moon's sphere of influence tomorrow.",
+      "day": 4
+    },
+    {
+      "id": "day5-wake",
+      "metHours": 90.0,
+      "phase": "outbound-coast",
+      "title": "Crew Wake & Meal \u2014 Day 5",
+      "summary": "Crew begins Day 5. Spacesuit testing and final outbound correction burn ahead.",
+      "timed": true,
+      "day": 5
     },
     {
       "id": "spacesuit-pressure-test",
@@ -921,7 +945,8 @@
       "phase": "outbound-coast",
       "title": "Outbound Trajectory Correction Burn 3",
       "summary": "Final outbound mid-course correction before the lunar flyby \u2014 last chance to fine-tune the approach trajectory.",
-      "timed": true
+      "timed": true,
+      "day": 5
     },
     {
       "id": "lunar-sphere-influence",
@@ -938,7 +963,17 @@
       "metHours": 104,
       "phase": "outbound-coast",
       "title": "Crew Sleep Period \u2014 Day 5",
-      "summary": "Final sleep before the lunar flyby. Orion is now in the Moon's gravitational sphere of influence."
+      "summary": "Final sleep before the lunar flyby. Orion is now in the Moon's gravitational sphere of influence.",
+      "day": 5
+    },
+    {
+      "id": "day6-wake",
+      "metHours": 114.0,
+      "phase": "outbound-coast",
+      "title": "Crew Wake & Meal \u2014 Day 6",
+      "summary": "Crew begins Day 6 \u2014 lunar flyby day. Closest approach to the Moon ahead.",
+      "timed": true,
+      "day": 6
     },
     {
       "id": "flyby-coverage-start",
@@ -946,7 +981,8 @@
       "phase": "lunar-flyby",
       "timed": true,
       "title": "\ud83d\udce1 Lunar Flyby Coverage Begins",
-      "summary": "NASA begins live coverage of the lunar flyby \u2014 the most dramatic phase of the mission."
+      "summary": "NASA begins live coverage of the lunar flyby \u2014 the most dramatic phase of the mission.",
+      "day": 6
     },
     {
       "id": "distance-record",
@@ -963,7 +999,8 @@
       "phase": "lunar-flyby",
       "title": "Approach to Moon",
       "summary": "Orion begins its close approach to the Moon. The crew prepares cameras and observation equipment for the historic flyby.",
-      "timed": true
+      "timed": true,
+      "day": 6
     },
     {
       "id": "closest-approach",
@@ -971,7 +1008,8 @@
       "phase": "lunar-flyby",
       "title": "\u2b50 Closest Approach \u2014 ~8,900 km Above Lunar Surface",
       "summary": "The emotional and navigational heart of the mission \u2014 Orion passes ~8,900 km (~5,530 mi) above the Moon, closer than any crewed spacecraft since Apollo.",
-      "timed": true
+      "timed": true,
+      "day": 6
     },
     {
       "id": "lunar-surface-obs",
@@ -997,7 +1035,8 @@
       "phase": "lunar-flyby",
       "title": "Far-Side Photography Session",
       "summary": "During the communications blackout, the crew turns all cameras toward the Moon\u2019s far side \u2014 a landscape no human eye has seen directly since Apollo 17.",
-      "timed": true
+      "timed": true,
+      "day": 6
     },
     {
       "id": "signal-reacquired",
@@ -1005,7 +1044,8 @@
       "phase": "lunar-flyby",
       "title": "Signal Reacquired",
       "summary": "Orion emerges from behind the Moon and re-establishes communication with Earth. Mission Control confirms spacecraft health.",
-      "timed": true
+      "timed": true,
+      "day": 6
     },
     {
       "id": "solar-eclipse-flyby",
@@ -1013,7 +1053,8 @@
       "phase": "moon-orbit",
       "title": "\ud83c\udf11 Solar Eclipse from Lunar Orbit",
       "summary": "The Sun passes behind the Moon from Orion's perspective. Nearly one hour of eclipse \u2014 crew observes the solar corona, meteoroid impacts on the dark surface, and lofted lunar dust.",
-      "timed": true
+      "timed": true,
+      "day": 6
     },
     {
       "id": "downlink-day6",
@@ -1021,7 +1062,8 @@
       "phase": "lunar-flyby",
       "timed": true,
       "title": "Live Crew Downlink \u2014 Post-Flyby",
-      "summary": "First communication after the lunar flyby and far-side transit."
+      "summary": "First communication after the lunar flyby and far-side transit.",
+      "day": 6
     },
     {
       "id": "sleep-day6",
@@ -1029,7 +1071,8 @@
       "metHours": 128,
       "phase": "lunar-flyby",
       "title": "Crew Sleep Period \u2014 Day 6",
-      "summary": "Rest after the most intense day of the mission \u2014 the lunar flyby."
+      "summary": "Rest after the most intense day of the mission \u2014 the lunar flyby.",
+      "day": 6
     },
     {
       "id": "post-flyby-science",
@@ -1041,13 +1084,22 @@
       "day": 6
     },
     {
+      "id": "day7-wake",
+      "metHours": 138.0,
+      "phase": "return-coast",
+      "title": "Crew Wake & Meal \u2014 Day 7",
+      "summary": "Crew begins Day 7. Off-duty day with science debrief and first return correction burn.",
+      "timed": true,
+      "day": 7
+    },
+    {
       "id": "exit-lunar-sphere",
       "metHours": 138.87,
       "phase": "return-coast",
       "title": "Exit Lunar Sphere of Influence",
       "summary": "Orion exits the Moon\u2019s gravitational sphere of influence \u2014 Earth\u2019s gravity is once again the dominant force. The homeward journey accelerates from here.",
       "timed": true,
-      "day": 6
+      "day": 7
     },
     {
       "id": "iss-call",
@@ -1055,7 +1107,8 @@
       "phase": "return-coast",
       "timed": true,
       "title": "\ud83d\udef0\ufe0f Crew Speaks with ISS Astronauts",
-      "summary": "Audio conversation between the Artemis II crew and astronauts aboard the International Space Station."
+      "summary": "Audio conversation between the Artemis II crew and astronauts aboard the International Space Station.",
+      "day": 7
     },
     {
       "id": "day7-off-duty",
@@ -1064,7 +1117,7 @@
       "title": "Crew Off-Duty Day \u2014 Rest & Personal Time",
       "summary": "Largely off-duty day for the crew to rest and recover after the intense lunar flyby. Minimal scheduled activities.",
       "timed": true,
-      "day": 6
+      "day": 7
     },
     {
       "id": "return-correction-1",
@@ -1072,7 +1125,8 @@
       "phase": "return-coast",
       "title": "Return Trajectory Correction Burn 1",
       "summary": "First of three return course-correction burns to adjust Orion\u2019s path toward the re-entry corridor.",
-      "timed": true
+      "timed": true,
+      "day": 7
     },
     {
       "id": "sleep-day7",
@@ -1080,7 +1134,26 @@
       "metHours": 152,
       "phase": "return-coast",
       "title": "Crew Sleep Period \u2014 Day 7",
-      "summary": "Rest during the return coast. Earth is getting bigger in the windows again."
+      "summary": "Rest during the return coast. Earth is getting bigger in the windows again.",
+      "day": 7
+    },
+    {
+      "id": "day8-wake",
+      "metHours": 162.0,
+      "phase": "return-coast",
+      "title": "Crew Wake & Meal \u2014 Day 8",
+      "summary": "Crew begins Day 8. Radiation shelter demo and manual piloting tests ahead.",
+      "timed": true,
+      "day": 8
+    },
+    {
+      "id": "radiation-shelter-demo",
+      "timed": true,
+      "day": 8,
+      "phase": "return-coast",
+      "title": "Radiation Shelter Construction Demo",
+      "summary": "Crew builds an improvised radiation shelter using Orion supplies and equipment to demonstrate protection from solar particle events.",
+      "metHours": 166
     },
     {
       "id": "csa-downlink-day8",
@@ -1088,15 +1161,16 @@
       "phase": "return-coast",
       "timed": true,
       "title": "Canadian Space Agency Downlink \u2014 Day 8",
-      "summary": "CSA public event with Jeremy Hansen during the return coast."
+      "summary": "CSA public event with Jeremy Hansen during the return coast.",
+      "day": 8
     },
     {
       "id": "manual-piloting-demo",
-      "metHours": 174,
+      "metHours": 170,
       "phase": "return-coast",
       "title": "Manual Piloting Demonstration",
-      "summary": "Crew steers Orion through manual attitude maneuvers: centering a target in the window, tail-to-Sun attitude, and comparing 6-DOF vs 3-DOF control modes.",
-      "timed": false,
+      "summary": "Crew demonstrates Orion manual piloting: centering targets in windows, tail-to-Sun attitude, and comparing 6DOF vs 3DOF attitude control modes.",
+      "timed": true,
       "day": 8
     },
     {
@@ -1105,7 +1179,17 @@
       "metHours": 174,
       "phase": "return-coast",
       "title": "Crew Sleep Period \u2014 Day 8",
-      "summary": "Second to last night in space."
+      "summary": "Second to last night in space.",
+      "day": 8
+    },
+    {
+      "id": "day9-wake",
+      "metHours": 186.0,
+      "phase": "return-coast",
+      "title": "Crew Wake & Meal \u2014 Day 9",
+      "summary": "Crew begins Day 9. Final full day in space. Reentry prep and garment checks.",
+      "timed": true,
+      "day": 9
     },
     {
       "id": "crew-press-conference",
@@ -1113,7 +1197,8 @@
       "phase": "return-coast",
       "timed": true,
       "title": "\ud83c\udfa4 Crew News Conference from Space",
-      "summary": "The Artemis II crew holds a press conference from deep space, answering questions from journalists on Earth."
+      "summary": "The Artemis II crew holds a press conference from deep space, answering questions from journalists on Earth.",
+      "day": 9
     },
     {
       "id": "downlink-day9",
@@ -1121,7 +1206,17 @@
       "phase": "return-coast",
       "timed": true,
       "title": "Live Crew Downlink \u2014 Final Full Day",
-      "summary": "Last major public event before re-entry preparations begin."
+      "summary": "Last major public event before re-entry preparations begin.",
+      "day": 9
+    },
+    {
+      "id": "orthostatic-garment-check",
+      "metHours": 194,
+      "phase": "return-coast",
+      "title": "Orthostatic Intolerance Garment Fit Check",
+      "summary": "Crew tries on compression garments designed to help regulate blood flow after return to gravity. Body measurements and questionnaire completed.",
+      "timed": true,
+      "day": 9
     },
     {
       "id": "return-correction-2",
@@ -1129,7 +1224,8 @@
       "phase": "return-coast",
       "title": "Return Trajectory Correction Burn 2",
       "summary": "Second return course correction keeps Orion precisely on target for the Pacific Ocean splashdown zone.",
-      "timed": true
+      "timed": true,
+      "day": 9
     },
     {
       "id": "sleep-day9",
@@ -1137,7 +1233,8 @@
       "metHours": 198,
       "phase": "return-coast",
       "title": "Crew Sleep Period \u2014 Day 9",
-      "summary": "Final night in space. Tomorrow: re-entry and splashdown."
+      "summary": "Final night in space. Tomorrow: re-entry and splashdown.",
+      "day": 9
     },
     {
       "id": "equipment-stow-begins",
@@ -1149,33 +1246,26 @@
       "day": 9
     },
     {
+      "id": "day10-wake",
+      "metHours": 206.0,
+      "phase": "return-coast",
+      "title": "Crew Wake \u2014 Day 10 (Landing Day)",
+      "summary": "Crew begins their final day. Suit up, stow, and prepare for reentry and splashdown.",
+      "timed": true,
+      "day": 10
+    },
+    {
       "id": "final-stow-cabin-prep",
-      "metHours": 214,
+      "metHours": 210,
       "phase": "reentry",
       "title": "Final Stow & Cabin Prep",
       "summary": "Final cabin preparations for re-entry \u2014 all equipment secured, seats in landing position, cabin in launch configuration.",
       "timed": true,
-      "day": 9
-    },
-    {
-      "id": "reentry-coverage",
-      "metHours": 215.91,
-      "phase": "reentry",
-      "timed": true,
-      "title": "\ud83d\udce1 Re-Entry Coverage Begins",
-      "summary": "NASA begins live coverage of the crew's return to Earth."
-    },
-    {
-      "id": "splashdown",
-      "metHours": 217.51,
-      "phase": "reentry",
-      "title": "\u2b50 Splashdown in Pacific Ocean",
-      "summary": "Orion splashes down near San Diego. U.S. Navy recovery teams retrieve the crew and capsule.",
-      "timed": true
+      "day": 10
     },
     {
       "id": "crew-dons-suits",
-      "metHours": 218,
+      "metHours": 212,
       "phase": "reentry",
       "title": "Crew Dons Spacesuits for Re-Entry",
       "summary": "All four crew members don their OCSS pressure suits, close visors, and strap into their seats for atmospheric entry.",
@@ -1183,8 +1273,17 @@
       "day": 10
     },
     {
+      "id": "reentry-coverage",
+      "metHours": 214,
+      "phase": "reentry",
+      "timed": true,
+      "title": "\ud83d\udce1 Re-Entry Coverage Begins",
+      "summary": "NASA begins live coverage of the crew's return to Earth.",
+      "day": 10
+    },
+    {
       "id": "esm-sep",
-      "metHours": 222,
+      "metHours": 216.5,
       "phase": "reentry",
       "title": "Service Module Separation",
       "summary": "The European Service Module separates from the crew module via pyrotechnic bolts. Only the capsule continues to splashdown.",
@@ -1193,15 +1292,16 @@
     },
     {
       "id": "entry-interface",
-      "metHours": 225,
+      "metHours": 217,
       "phase": "reentry",
       "title": "\u2b50 Entry Interface \u2014 Hitting Atmosphere at 40,000 km/h",
       "summary": "Orion enters Earth\u2019s atmosphere at 120 km altitude, travelling at ~40,000 km/h (25,000 mph). Heat shield faces ~2,760 \u00b0C (5,000 \u00b0F).",
-      "timed": true
+      "timed": true,
+      "day": 10
     },
     {
       "id": "reentry-radio-blackout",
-      "metHours": 225.5,
+      "metHours": 217.1,
       "phase": "reentry",
       "title": "Re-Entry Communications Blackout",
       "summary": "Ionised plasma around the capsule blocks all radio signals for approximately 5 minutes during peak heating.",
@@ -1210,7 +1310,7 @@
     },
     {
       "id": "drogue-chutes",
-      "metHours": 226,
+      "metHours": 217.3,
       "phase": "reentry",
       "title": "Drogue Parachute Deploy",
       "summary": "At ~11,000 m (36,000 ft), two drogue parachutes deploy to stabilise and slow the capsule from ~480 km/h to ~200 km/h.",
@@ -1219,7 +1319,7 @@
     },
     {
       "id": "main-chutes",
-      "metHours": 226.2,
+      "metHours": 217.4,
       "phase": "reentry",
       "title": "Main Parachute Deploy",
       "summary": "Three 35 m (116 ft) main parachutes open in stages, slowing Orion to ~27 km/h (17 mph) for splashdown.",
@@ -1227,12 +1327,22 @@
       "day": 10
     },
     {
+      "id": "splashdown",
+      "metHours": 217.51,
+      "phase": "reentry",
+      "title": "\u2b50 Splashdown in Pacific Ocean",
+      "summary": "Orion splashes down near San Diego. U.S. Navy recovery teams retrieve the crew and capsule.",
+      "timed": true,
+      "day": 10
+    },
+    {
       "id": "recovery",
-      "metHours": 228,
+      "metHours": 218,
       "phase": "recovery",
       "title": "Crew Recovery by USS Portland",
       "summary": "Navy divers stabilise the capsule. Crew exits and is helicopter-lifted to the USS Portland (LPD-27) for medical evaluation.",
-      "timed": true
+      "timed": true,
+      "day": 10
     }
   ],
   "crewSchedule": [
