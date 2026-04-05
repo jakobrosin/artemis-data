@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T09:33:00.000Z",
+  "lastUpdated": "2026-04-05T11:37:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -923,19 +923,28 @@
     },
     {
       "id": "flyby-coverage-start",
-      "metHours": 114.16,
+      "metHours": 114.41,
       "phase": "lunar-flyby",
       "timed": true,
       "title": "\ud83d\udce1 Lunar Flyby Coverage Begins",
-      "summary": "NASA begins live coverage of the lunar flyby \u2014 the most dramatic phase of the mission.",
+      "summary": "Live NASA coverage of the lunar flyby begins. Coverage continues through 9:45 PM EDT.",
       "day": 6
     },
     {
-      "id": "distance-record",
-      "metHours": 115.16,
+      "id": "flyby-science-briefing",
+      "metHours": 114.91,
       "phase": "lunar-flyby",
-      "title": "\u2b50 Maximum Distance from Earth \u2014 ~4,600 mi Beyond the Far Side",
-      "summary": "Crew surpasses Apollo 13's record of 248,655 miles from Earth, set in 1970. New record for the farthest any human has ever been from home.",
+      "title": "Crew-Science Officer Flyby Briefing",
+      "summary": "NASA hosts a conversation between the crew and the science officer to review objectives and timeline for the flyby, including final lighting conditions on the lunar surface.",
+      "timed": true,
+      "day": 6
+    },
+    {
+      "id": "distance-record-remarks",
+      "metHours": 115.58,
+      "phase": "lunar-flyby",
+      "title": "Crew Remarks \u2014 Approaching Distance Record",
+      "summary": "Crew expected to make remarks as they approach the farthest distance from Earth any humans have traveled.",
       "timed": true,
       "day": 6
     },
@@ -958,11 +967,38 @@
       "day": 6
     },
     {
-      "id": "closest-approach",
-      "metHours": 120.52,
+      "id": "far-side-blackout",
+      "metHours": 120.2,
       "phase": "lunar-flyby",
-      "title": "\u2b50 Closest Approach \u2014 ~8,900 km Above Lunar Surface",
-      "summary": "The emotional and navigational heart of the mission \u2014 Orion passes ~8,900 km (~5,530 mi) above the Moon, closer than any crewed spacecraft since Apollo.",
+      "title": "\u2b50 Loss of Signal \u2014 Orion Behind the Moon",
+      "summary": "Mission Control temporarily loses communication as Orion passes behind the Moon.",
+      "timed": true,
+      "day": 6
+    },
+    {
+      "id": "closest-approach",
+      "metHours": 120.45,
+      "phase": "lunar-flyby",
+      "title": "\u2b50 Closest Approach \u2014 ~4,066 Miles Above Lunar Surface",
+      "summary": "Orion makes its closest approach to the Moon at approximately 4,066 miles above the surface. The Moon appears about the size of a basketball held at arm's length.",
+      "timed": true,
+      "day": 6
+    },
+    {
+      "id": "distance-record",
+      "metHours": 120.5,
+      "phase": "lunar-flyby",
+      "title": "\u2b50 Maximum Distance from Earth \u2014 252,757 Miles, Surpassing Apollo 13",
+      "summary": "Orion reaches 252,757 miles from Earth, surpassing Apollo 13's record by about 4,102 miles. Crew expected to make remarks around 2:10 PM EDT.",
+      "timed": true,
+      "day": 6
+    },
+    {
+      "id": "signal-reacquired",
+      "metHours": 120.86,
+      "phase": "lunar-flyby",
+      "title": "Signal Reacquired",
+      "summary": "NASA Mission Control re-acquires communication with the astronauts after loss of signal behind the Moon.",
       "timed": true,
       "day": 6
     },
@@ -976,15 +1012,6 @@
       "day": 6
     },
     {
-      "id": "far-side-blackout",
-      "metHours": 122,
-      "phase": "lunar-flyby",
-      "title": "\u2b50 Far Side of Moon \u2014 Communications Blackout (30\u201350 min)",
-      "summary": "Orion passes behind the Moon. All radio contact with Earth is lost for 30\u201350 minutes \u2014 the crew is completely on their own, farther from contact with home than any humans in history.",
-      "timed": true,
-      "day": 6
-    },
-    {
       "id": "far-side-photography",
       "metHours": 122.5,
       "phase": "lunar-flyby",
@@ -994,11 +1021,11 @@
       "day": 6
     },
     {
-      "id": "signal-reacquired",
-      "metHours": 122.8,
+      "id": "flyby-observation-ends",
+      "metHours": 122.75,
       "phase": "lunar-flyby",
-      "title": "Signal Reacquired",
-      "summary": "Orion emerges from behind the Moon and re-establishes communication with Earth. Mission Control confirms spacecraft health.",
+      "title": "Lunar Flyby Observation Period Ends",
+      "summary": "The seven-hour flyby observation period wraps. Crew begins transferring imagery to the ground. NASA science team reviews overnight.",
       "timed": true,
       "day": 6
     },
