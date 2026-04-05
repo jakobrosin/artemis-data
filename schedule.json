@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T11:37:00.000Z",
+  "lastUpdated": "2026-04-05T16:08:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -896,10 +896,10 @@
     },
     {
       "id": "lunar-sphere-influence",
-      "metHours": 102.13,
+      "metHours": 102.05,
       "phase": "outbound-coast",
       "title": "\u2b50 Enter Lunar Sphere of Influence",
-      "summary": "Orion crosses into the Moon\u2019s gravitational sphere of influence at ~66,200 km from the lunar centre \u2014 the Moon\u2019s gravity is now the dominant force acting on the spacecraft.",
+      "summary": "Orion enters the lunar sphere of influence \u2014 the Moon's gravity now exerts more force on the spacecraft than Earth's. Occurs during crew pre-sleep period.",
       "timed": true,
       "day": 5
     },
