@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T22:23:00.000Z",
+  "lastUpdated": "2026-04-05T09:33:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -389,78 +389,6 @@
       "summary": "All four RS-25 engines reach full thrust. The vehicle strains against the hold-down posts as systems are verified.",
       "timed": true,
       "day": -1
-    },
-    {
-      "id": "public-events-day3",
-      "timed": false,
-      "day": 3,
-      "phase": "translunar",
-      "title": "Public Events",
-      "summary": "Crew participates in scheduled public communications and media events."
-    },
-    {
-      "id": "natgeo-filming",
-      "timed": false,
-      "day": 3,
-      "phase": "outbound-coast",
-      "title": "National Geographic Documentary Filming",
-      "summary": "Crew films footage for a National Geographic documentary \u2014 daily life, work, and living aboard Orion in deep space."
-    },
-    {
-      "id": "lunar-flyby-rehearsal",
-      "timed": false,
-      "day": 3,
-      "phase": "outbound-coast",
-      "title": "Lunar Flyby Observation Rehearsal",
-      "summary": "Entire crew rehearses the choreography for Day 6 scientific observation \u2014 who photographs what, when to switch windows, how to log observations in real time."
-    },
-    {
-      "id": "geography-targets",
-      "timed": false,
-      "day": 4,
-      "phase": "outbound-coast",
-      "title": "Lunar Geography Target Study",
-      "summary": "Each crew member spends an hour studying the specific lunar surface features they'll photograph on Day 6. Targets vary based on launch date and lighting conditions."
-    },
-    {
-      "id": "spacesuit-tests",
-      "timed": false,
-      "day": 5,
-      "phase": "outbound-coast",
-      "title": "Spacesuit Pressure and Function Tests",
-      "summary": "First in-space tests of the new Orion Crew Survival System suits. Crew tests: quick donning, pressurization, seat installation while suited, and eating/drinking through the helmet port. The suits can sustain a crew member for up to 6 days if Orion depressurizes."
-    },
-    {
-      "id": "lunar-debrief",
-      "timed": false,
-      "day": 7,
-      "phase": "return-coast",
-      "title": "Lunar Science Debrief",
-      "summary": "Scientists on the ground speak with the crew while the flyby is still fresh \u2014 discussing what they saw, unexpected features, and observations from the far side."
-    },
-    {
-      "id": "crew-offduty",
-      "timed": false,
-      "day": 7,
-      "phase": "return-coast",
-      "title": "Crew Off-Duty Day",
-      "summary": "Largely off-duty for the crew. Rest and personal time before the final tasks of the return leg."
-    },
-    {
-      "id": "reentry-review",
-      "timed": false,
-      "day": 9,
-      "phase": "return-coast",
-      "title": "Re-Entry Procedure Review",
-      "summary": "Crew studies splashdown procedures with the flight control team. Last day to rehearse before the real thing tomorrow."
-    },
-    {
-      "id": "waste-garment-tests",
-      "timed": false,
-      "day": 9,
-      "phase": "return-coast",
-      "title": "Waste System & Anti-G Garment Tests",
-      "summary": "Testing backup waste collection (in case the toilet fails during re-entry) and fitting orthostatic intolerance compression garments that prevent dizziness when gravity returns."
     },
     {
       "id": "booster-ignition-liftoff",
@@ -868,6 +796,15 @@
       "day": 4
     },
     {
+      "id": "geography-targets",
+      "timed": false,
+      "day": 4,
+      "phase": "outbound-coast",
+      "title": "Lunar Imaging Target Review",
+      "summary": "Crew reviewed a list of lunar surface features sent by the science team to photograph and analyse during the six-hour flyby on April 6.",
+      "metHours": 72.0
+    },
+    {
       "id": "thermal-attitude-manoeuvre",
       "metHours": 73.0,
       "phase": "outbound-coast",
@@ -884,6 +821,15 @@
       "summary": "Cancelled. Trajectory accurate enough after OTC-1 cancellation. Instead, crew performing thermal attitude manoeuvre to bake ice off waste ejection ports.",
       "timed": true,
       "day": 4
+    },
+    {
+      "id": "manual-piloting-demo",
+      "metHours": 74.56,
+      "phase": "return-coast",
+      "title": "Manual Piloting Demonstration",
+      "summary": "Koch and Hansen performed a 41-minute manual piloting demonstration testing two thruster modes (six degrees of freedom and three degrees of freedom). Wiseman and Glover will repeat on Flight Day 8 (April 9).",
+      "timed": true,
+      "day": 8
     },
     {
       "id": "csa-downlink-day5",
@@ -906,18 +852,18 @@
     {
       "id": "sleep-day4",
       "timed": true,
-      "metHours": 79,
+      "metHours": 80.66,
       "phase": "outbound-coast",
       "title": "Crew Sleep Period \u2014 Day 4",
-      "summary": "Rest before entering the Moon's sphere of influence tomorrow.",
+      "summary": "Crew sleep begins at 3:15 AM EDT. Wake scheduled for noon EDT on Sunday, April 5.",
       "day": 4
     },
     {
       "id": "day5-wake",
-      "metHours": 90.0,
+      "metHours": 89.41,
       "phase": "outbound-coast",
       "title": "Crew Wake & Meal \u2014 Day 5",
-      "summary": "Crew begins Day 5. Spacesuit testing and final outbound correction burn ahead.",
+      "summary": "Mission Control wakes crew at noon EDT to begin Flight Day 5.",
       "timed": true,
       "day": 5
     },
@@ -990,6 +936,15 @@
       "phase": "lunar-flyby",
       "title": "\u2b50 Maximum Distance from Earth \u2014 ~4,600 mi Beyond the Far Side",
       "summary": "Crew surpasses Apollo 13's record of 248,655 miles from Earth, set in 1970. New record for the farthest any human has ever been from home.",
+      "timed": true,
+      "day": 6
+    },
+    {
+      "id": "flyby-window-open",
+      "metHours": 116.16,
+      "phase": "lunar-flyby",
+      "title": "\u2b50 Lunar Flyby Observation Window Opens",
+      "summary": "Orion's main cabin windows point toward the Moon. Six-hour observation period begins \u2014 crew photographs lunar surface features.",
       "timed": true,
       "day": 6
     },
@@ -1165,15 +1120,6 @@
       "day": 8
     },
     {
-      "id": "manual-piloting-demo",
-      "metHours": 170,
-      "phase": "return-coast",
-      "title": "Manual Piloting Demonstration",
-      "summary": "Crew demonstrates Orion manual piloting: centering targets in windows, tail-to-Sun attitude, and comparing 6DOF vs 3DOF attitude control modes.",
-      "timed": true,
-      "day": 8
-    },
-    {
       "id": "sleep-day8",
       "timed": true,
       "metHours": 174,
@@ -1343,6 +1289,70 @@
       "summary": "Navy divers stabilise the capsule. Crew exits and is helicopter-lifted to the USS Portland (LPD-27) for medical evaluation.",
       "timed": true,
       "day": 10
+    },
+    {
+      "id": "public-events-day3",
+      "timed": false,
+      "day": 3,
+      "phase": "translunar",
+      "title": "Public Events",
+      "summary": "Crew participates in scheduled public communications and media events."
+    },
+    {
+      "id": "natgeo-filming",
+      "timed": false,
+      "day": 3,
+      "phase": "outbound-coast",
+      "title": "National Geographic Documentary Filming",
+      "summary": "Crew films footage for a National Geographic documentary \u2014 daily life, work, and living aboard Orion in deep space."
+    },
+    {
+      "id": "lunar-flyby-rehearsal",
+      "timed": false,
+      "day": 3,
+      "phase": "outbound-coast",
+      "title": "Lunar Flyby Observation Rehearsal",
+      "summary": "Entire crew rehearses the choreography for Day 6 scientific observation \u2014 who photographs what, when to switch windows, how to log observations in real time."
+    },
+    {
+      "id": "spacesuit-tests",
+      "timed": false,
+      "day": 5,
+      "phase": "outbound-coast",
+      "title": "Spacesuit Pressure and Function Tests",
+      "summary": "First in-space tests of the new Orion Crew Survival System suits. Crew tests: quick donning, pressurization, seat installation while suited, and eating/drinking through the helmet port. The suits can sustain a crew member for up to 6 days if Orion depressurizes."
+    },
+    {
+      "id": "lunar-debrief",
+      "timed": false,
+      "day": 7,
+      "phase": "return-coast",
+      "title": "Lunar Science Debrief",
+      "summary": "Scientists on the ground speak with the crew while the flyby is still fresh \u2014 discussing what they saw, unexpected features, and observations from the far side."
+    },
+    {
+      "id": "crew-offduty",
+      "timed": false,
+      "day": 7,
+      "phase": "return-coast",
+      "title": "Crew Off-Duty Day",
+      "summary": "Largely off-duty for the crew. Rest and personal time before the final tasks of the return leg."
+    },
+    {
+      "id": "reentry-review",
+      "timed": false,
+      "day": 9,
+      "phase": "return-coast",
+      "title": "Re-Entry Procedure Review",
+      "summary": "Crew studies splashdown procedures with the flight control team. Last day to rehearse before the real thing tomorrow."
+    },
+    {
+      "id": "waste-garment-tests",
+      "timed": false,
+      "day": 9,
+      "phase": "return-coast",
+      "title": "Waste System & Anti-G Garment Tests",
+      "summary": "Testing backup waste collection (in case the toilet fails during re-entry) and fitting orthostatic intolerance compression garments that prevent dizziness when gravity returns."
     }
   ],
   "crewSchedule": [
