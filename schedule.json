@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T07:24:00.000Z",
+  "lastUpdated": "2026-04-06T17:27:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "distance-record",
-      "metHours": 120.53,
+      "metHours": 120.58,
       "phase": "lunar-flyby",
       "title": "\u2b50 Maximum Distance from Earth \u2014 252,757 Miles, Surpassing Apollo 13",
       "summary": "Orion reaches maximum distance from Earth: 252,757 miles at 7:07 PM EDT, surpassing Apollo 13's record by 4,102 miles.",
