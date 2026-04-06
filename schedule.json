@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T17:40:00.000Z",
+  "lastUpdated": "2026-04-06T22:05:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -995,19 +995,19 @@
     },
     {
       "id": "closest-approach",
-      "metHours": 120.45,
+      "metHours": 120.426,
       "phase": "lunar-flyby",
-      "title": "Closest Approach \u2014 4,070 Miles Above Lunar Surface",
-      "summary": "Orion makes its closest approach to the Moon at approximately 4,066 miles above the surface. The Moon appears about the size of a basketball held at arm's length.",
+      "title": "Closest Approach \u2014 6545 km (4067 mi) Above Lunar Surface",
+      "summary": "Orion makes its closest approach to the Moon at 6545 km (4067 statute miles) above the surface.",
       "timed": true,
       "day": 6
     },
     {
       "id": "distance-record",
-      "metHours": 120.58,
+      "metHours": 120.461,
       "phase": "lunar-flyby",
-      "title": "Maximum Distance from Earth \u2014 252,757 Miles, Surpassing Apollo 13",
-      "summary": "Orion reaches maximum distance from Earth: 252,757 miles at 7:07 PM EDT, surpassing Apollo 13's record by 4,102 miles.",
+      "title": "Maximum Distance from Earth \u2014 406770 km (252756 mi)",
+      "summary": "Orion reaches maximum distance from Earth: 406770 km (252756 statute miles).",
       "timed": true,
       "day": 6
     },
