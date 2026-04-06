@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T17:37:00.000Z",
+  "lastUpdated": "2026-04-06T17:40:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -610,7 +610,7 @@
       "id": "tli",
       "metHours": 25.23,
       "phase": "translunar",
-      "title": "\u2b50 Trans-Lunar Injection (TLI) Burn",
+      "title": "Trans-Lunar Injection (TLI) Burn",
       "summary": "THE critical burn \u2014 ESM main engine fires for ~6 min 5 s, adding ~1,450 km/h to escape Earth orbit and set course for the Moon.",
       "timed": true,
       "day": 2
@@ -898,7 +898,7 @@
       "id": "lunar-sphere-influence",
       "metHours": 102.1,
       "phase": "outbound-coast",
-      "title": "\u2b50 Enter Lunar Sphere of Influence",
+      "title": "Enter Lunar Sphere of Influence",
       "summary": "Orion enters the lunar sphere of influence \u2014 the Moon's gravity becomes the dominant force controlling the spacecraft's trajectory.",
       "timed": true,
       "day": 5
@@ -926,7 +926,7 @@
       "metHours": 114.41,
       "phase": "lunar-flyby",
       "timed": true,
-      "title": "\ud83d\udce1 Lunar Flyby Coverage Begins",
+      "title": "Lunar Flyby Coverage Begins",
       "summary": "Live NASA coverage of the lunar flyby begins. Coverage continues through 9:45 PM EDT.",
       "day": 6
     },
@@ -943,7 +943,7 @@
       "id": "distance-record-surpass",
       "metHours": 115.4,
       "phase": "lunar-flyby",
-      "title": "\u2b50 Artemis II Surpasses Apollo 13 Distance Record",
+      "title": "Artemis II Surpasses Apollo 13 Distance Record",
       "summary": "The crew surpasses the record for humans' farthest distance from Earth, previously set by Apollo 13 in 1970 at 248,655 miles.",
       "timed": true,
       "day": 6
@@ -970,7 +970,7 @@
       "id": "flyby-window-open",
       "metHours": 116.16,
       "phase": "lunar-flyby",
-      "title": "\u2b50 Lunar Flyby Observation Window Opens",
+      "title": "Lunar Flyby Observation Window Opens",
       "summary": "Orion's main cabin windows point toward the Moon. Six-hour observation period begins \u2014 crew photographs lunar surface features.",
       "timed": true,
       "day": 6
@@ -988,7 +988,7 @@
       "id": "far-side-blackout",
       "metHours": 120.15,
       "phase": "lunar-flyby",
-      "title": "\u2b50 Loss of Signal \u2014 Orion Behind the Moon",
+      "title": "Loss of Signal \u2014 Orion Behind the Moon",
       "summary": "Predicted loss of communications as crew heads behind the Moon. Approximately 40 minutes of blackout.",
       "timed": true,
       "day": 6
@@ -997,7 +997,7 @@
       "id": "closest-approach",
       "metHours": 120.45,
       "phase": "lunar-flyby",
-      "title": "\u2b50 Closest Approach \u2014 4,070 Miles Above Lunar Surface",
+      "title": "Closest Approach \u2014 4,070 Miles Above Lunar Surface",
       "summary": "Orion makes its closest approach to the Moon at approximately 4,066 miles above the surface. The Moon appears about the size of a basketball held at arm's length.",
       "timed": true,
       "day": 6
@@ -1006,7 +1006,7 @@
       "id": "distance-record",
       "metHours": 120.58,
       "phase": "lunar-flyby",
-      "title": "\u2b50 Maximum Distance from Earth \u2014 252,757 Miles, Surpassing Apollo 13",
+      "title": "Maximum Distance from Earth \u2014 252,757 Miles, Surpassing Apollo 13",
       "summary": "Orion reaches maximum distance from Earth: 252,757 miles at 7:07 PM EDT, surpassing Apollo 13's record by 4,102 miles.",
       "timed": true,
       "day": 6
@@ -1033,7 +1033,7 @@
       "id": "solar-eclipse-flyby",
       "metHours": 122.0,
       "phase": "moon-orbit",
-      "title": "\ud83c\udf11 Solar Eclipse from Lunar Orbit",
+      "title": "Solar Eclipse from Lunar Orbit",
       "summary": "Solar eclipse from lunar orbit \u2014 the Sun passes behind the Moon from the crew's perspective. Lasts approximately 57 minutes (8:35\u20139:32 PM EDT).",
       "timed": true,
       "day": 6
@@ -1106,7 +1106,7 @@
       "metHours": 139.89,
       "phase": "return-coast",
       "timed": true,
-      "title": "\ud83d\udef0\ufe0f Crew Speaks with ISS Astronauts",
+      "title": "Crew Speaks with ISS Astronauts",
       "summary": "Audio conversation between the Artemis II crew and astronauts aboard the International Space Station.",
       "day": 7
     },
@@ -1187,7 +1187,7 @@
       "metHours": 191.39,
       "phase": "return-coast",
       "timed": true,
-      "title": "\ud83c\udfa4 Crew News Conference from Space",
+      "title": "Crew News Conference from Space",
       "summary": "The Artemis II crew holds a press conference from deep space, answering questions from journalists on Earth.",
       "day": 9
     },
@@ -1268,7 +1268,7 @@
       "metHours": 214,
       "phase": "reentry",
       "timed": true,
-      "title": "\ud83d\udce1 Re-Entry Coverage Begins",
+      "title": "Re-Entry Coverage Begins",
       "summary": "NASA begins live coverage of the crew's return to Earth.",
       "day": 10
     },
@@ -1285,7 +1285,7 @@
       "id": "entry-interface",
       "metHours": 217,
       "phase": "reentry",
-      "title": "\u2b50 Entry Interface \u2014 Hitting Atmosphere at 40,000 km/h",
+      "title": "Entry Interface \u2014 Hitting Atmosphere at 40,000 km/h",
       "summary": "Orion enters Earth\u2019s atmosphere at 120 km altitude, travelling at ~40,000 km/h (25,000 mph). Heat shield faces ~2,760 \u00b0C (5,000 \u00b0F).",
       "timed": true,
       "day": 10
@@ -1321,7 +1321,7 @@
       "id": "splashdown",
       "metHours": 217.51,
       "phase": "reentry",
-      "title": "\u2b50 Splashdown in Pacific Ocean",
+      "title": "Splashdown in Pacific Ocean",
       "summary": "Orion splashes down near San Diego. U.S. Navy recovery teams retrieve the crew and capsule.",
       "timed": true,
       "day": 10
