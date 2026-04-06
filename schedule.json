@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T22:17:00.000Z",
+  "lastUpdated": "2026-04-06T22:43:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -977,7 +977,7 @@
     },
     {
       "id": "far-side-blackout",
-      "metHours": 120.15,
+      "metHours": 120.13,
       "phase": "lunar-flyby",
       "title": "Loss of Signal \u2014 Orion Behind the Moon",
       "summary": "Predicted loss of communications as crew heads behind the Moon. Approximately 40 minutes of blackout.",
