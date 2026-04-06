@@ -1247,7 +1247,7 @@
     },
     {
       "id": "final-stow-cabin-prep",
-      "metHours": 210,
+      "metHours": 209.83,
       "phase": "reentry",
       "title": "Final Stow & Cabin Prep",
       "summary": "Final cabin preparations for re-entry \u2014 all equipment secured, seats in landing position, cabin in launch configuration.",
