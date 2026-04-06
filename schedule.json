@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T22:05:00.000Z",
+  "lastUpdated": "2026-04-06T22:17:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -972,15 +972,6 @@
       "phase": "lunar-flyby",
       "title": "Lunar Flyby Observation Window Opens",
       "summary": "Orion's main cabin windows point toward the Moon. Six-hour observation period begins \u2014 crew photographs lunar surface features.",
-      "timed": true,
-      "day": 6
-    },
-    {
-      "id": "lunar-approach",
-      "metHours": 120,
-      "phase": "lunar-flyby",
-      "title": "Approach to Moon",
-      "summary": "Orion begins its close approach to the Moon. The crew prepares cameras and observation equipment for the historic flyby.",
       "timed": true,
       "day": 6
     },
