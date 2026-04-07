@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T22:43:00.000Z",
+  "lastUpdated": "2026-04-07T14:18:00.000Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -1050,7 +1050,7 @@
     {
       "id": "downlink-day6",
       "metHours": 124.06,
-      "phase": "lunar-flyby",
+      "phase": "return-coast",
       "timed": true,
       "title": "Live Crew Downlink \u2014 Post-Flyby",
       "summary": "First communication after the lunar flyby and far-side transit.",
@@ -1060,7 +1060,7 @@
       "id": "sleep-day6",
       "timed": true,
       "metHours": 128,
-      "phase": "lunar-flyby",
+      "phase": "return-coast",
       "title": "Crew Sleep Period \u2014 Day 6",
       "summary": "Rest after the most intense day of the mission \u2014 the lunar flyby.",
       "day": 6
@@ -1068,7 +1068,7 @@
     {
       "id": "post-flyby-science",
       "metHours": 130,
-      "phase": "lunar-flyby",
+      "phase": "return-coast",
       "title": "Post-Flyby Science Observations",
       "summary": "Continued photography and observations as Orion departs the Moon \u2014 capturing the receding lunar landscape and \"Earthrise\" views.",
       "timed": false,
