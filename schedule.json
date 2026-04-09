@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T15:50:21Z",
+  "lastUpdated": "2026-04-09T15:56:20Z",
   "note": "Single source of truth for all mission timeline and crew schedule data. Enrichment detail+links live in data.js EVENT_DETAILS.",
   "launchTime": "2026-04-01T22:35:12Z",
   "events": [
@@ -1202,7 +1202,7 @@
     },
     {
       "id": "return-correction-2",
-      "metHours": 196.48,
+      "metHours": 196.3,
       "phase": "return-coast",
       "title": "Return Trajectory Correction Burn 2",
       "summary": "Second return course correction keeps Orion precisely on target for the Pacific Ocean splashdown zone.",
@@ -1310,7 +1310,7 @@
     },
     {
       "id": "splashdown",
-      "metHours": 217.51,
+      "metHours": 217.53,
       "phase": "reentry",
       "title": "Splashdown in Pacific Ocean",
       "summary": "Orion splashes down near San Diego. U.S. Navy recovery teams retrieve the crew and capsule.",
