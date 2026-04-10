@@ -1212,10 +1212,10 @@
     {
       "id": "sleep-day9",
       "timed": true,
-      "metHours": 198,
+      "metHours": 200.497,
       "phase": "return-coast",
       "title": "Crew Sleep Period — Day 9",
-      "summary": "Final night in space. Tomorrow: re-entry and splashdown.",
+      "summary": "Final sleep in space begins at about 3:05 a.m. EDT ahead of landing day.",
       "day": 9
     },
     {
@@ -1229,19 +1229,28 @@
     },
     {
       "id": "day10-wake",
-      "metHours": 206.0,
+      "metHours": 208.997,
       "phase": "return-coast",
       "title": "Crew Wake — Day 10 (Landing Day)",
-      "summary": "Crew begins their final day. Suit up, stow, and prepare for reentry and splashdown.",
+      "summary": "Crew wakeup is scheduled for 11:35 a.m. EDT as Orion begins final landing-day procedures.",
       "timed": true,
       "day": 10
     },
     {
       "id": "final-stow-cabin-prep",
-      "metHours": 209.83,
+      "metHours": 211.247,
       "phase": "reentry",
       "title": "Final Stow & Cabin Prep",
-      "summary": "Final cabin preparations for re-entry — all equipment secured, seats in landing position, cabin in launch configuration.",
+      "summary": "Cabin configuration for re-entry begins at about 1:50 p.m. EDT, with equipment secured and seats returned to landing position.",
+      "timed": true,
+      "day": 10
+    },
+    {
+      "id": "return-correction-3",
+      "metHours": 211.297,
+      "phase": "reentry",
+      "title": "Return Trajectory Correction Burn 3",
+      "summary": "Final return correction burn at about 1:53 p.m. EDT fine-tunes Orion’s path ahead of re-entry.",
       "timed": true,
       "day": 10
     },
@@ -1256,55 +1265,64 @@
     },
     {
       "id": "reentry-coverage",
-      "metHours": 214,
+      "metHours": 215.913,
       "phase": "reentry",
       "timed": true,
       "title": "Re-Entry Coverage Begins",
-      "summary": "NASA begins live coverage of the crew's return to Earth.",
+      "summary": "NASA begins live return coverage at 6:30 p.m. EDT.",
       "day": 10
     },
     {
       "id": "esm-sep",
-      "metHours": 216.5,
+      "metHours": 216.963,
       "phase": "reentry",
       "title": "Service Module Separation",
-      "summary": "The European Service Module separates from the crew module via pyrotechnic bolts. Only the capsule continues to splashdown.",
+      "summary": "The European Service Module separates from the crew module at about 7:33 p.m. EDT, exposing Orion’s heat shield for entry.",
+      "timed": true,
+      "day": 10
+    },
+    {
+      "id": "crew-module-raise-burn",
+      "metHours": 217.03,
+      "phase": "reentry",
+      "title": "Crew Module Raise Burn",
+      "summary": "A final trajectory-adjustment burn at about 7:37 p.m. EDT fine-tunes Orion’s entry angle before atmospheric interface.",
       "timed": true,
       "day": 10
     },
     {
       "id": "entry-interface",
-      "metHours": 217,
+      "metHours": 217.297,
       "phase": "reentry",
       "title": "Entry Interface — Hitting Atmosphere at 40,000 km/h",
-      "summary": "Orion enters Earth’s atmosphere at 120 km altitude, travelling at ~40,000 km/h (25,000 mph). Heat shield faces ~2,760 °C (5,000 °F).",
+      "summary": "Orion reaches entry interface at about 7:53 p.m. EDT, entering Earth’s atmosphere at roughly 40,000 km/h as peak heating begins.",
       "timed": true,
       "day": 10
     },
     {
       "id": "reentry-radio-blackout",
-      "metHours": 217.1,
+      "metHours": 217.297,
       "phase": "reentry",
       "title": "Re-Entry Communications Blackout",
-      "summary": "Ionised plasma around the capsule blocks all radio signals for approximately 5 minutes during peak heating.",
+      "summary": "A planned six-minute communications blackout begins as plasma builds around the capsule during peak heating.",
       "timed": true,
       "day": 10
     },
     {
       "id": "drogue-chutes",
-      "metHours": 217.3,
+      "metHours": 217.463,
       "phase": "reentry",
       "title": "Drogue Parachute Deploy",
-      "summary": "At ~11,000 m (36,000 ft), two drogue parachutes deploy to stabilise and slow the capsule from ~480 km/h to ~200 km/h.",
+      "summary": "Two drogue parachutes deploy at about 8:03 p.m. EDT to stabilise and slow the capsule.",
       "timed": true,
       "day": 10
     },
     {
       "id": "main-chutes",
-      "metHours": 217.4,
+      "metHours": 217.48,
       "phase": "reentry",
       "title": "Main Parachute Deploy",
-      "summary": "Three 35 m (116 ft) main parachutes open in stages, slowing Orion to ~27 km/h (17 mph) for splashdown.",
+      "summary": "Three main parachutes deploy at about 8:04 p.m. EDT, slowing Orion for splashdown.",
       "timed": true,
       "day": 10
     },
@@ -1313,7 +1331,7 @@
       "metHours": 217.53,
       "phase": "reentry",
       "title": "Splashdown in Pacific Ocean",
-      "summary": "Orion splashes down near San Diego. U.S. Navy recovery teams retrieve the crew and capsule.",
+      "summary": "Orion splashes down near San Diego at about 8:07 p.m. EDT. U.S. Navy recovery teams retrieve the crew and capsule.",
       "timed": true,
       "day": 10
     },
@@ -1321,8 +1339,8 @@
       "id": "recovery",
       "metHours": 218,
       "phase": "recovery",
-      "title": "Crew Recovery by USS Portland",
-      "summary": "Navy divers stabilise the capsule. Crew exits and is helicopter-lifted to the USS Portland (LPD-27) for medical evaluation.",
+      "title": "Crew Recovery by USS John P. Murtha",
+      "summary": "Recovery teams stabilise the capsule and helicopter the crew to USS John P. Murtha for medical evaluation after splashdown.",
       "timed": true,
       "day": 10
     },
@@ -1898,73 +1916,80 @@
     },
     {
       "startMET": 198,
-      "endMET": 200,
+      "endMET": 200.5,
       "day": 9,
-      "label": "Exercise & personal time",
-      "desc": "Final workout session and personal time."
+      "label": "Final return prep & crew meal",
+      "desc": "Last landing-prep tasks, equipment stowage, and evening meal before the final sleep period."
     },
     {
-      "startMET": 200,
-      "endMET": 202,
-      "day": 9,
-      "label": "Crew meal",
-      "desc": "Evening meal — last full evening in space."
-    },
-    {
-      "startMET": 202,
-      "endMET": 206,
+      "startMET": 200.5,
+      "endMET": 209,
       "day": 9,
       "label": "Sleep period",
-      "desc": "Final rest period before re-entry day."
+      "desc": "Final sleep period in space before landing day."
     },
     {
-      "startMET": 210,
-      "endMET": 214,
+      "startMET": 209,
+      "endMET": 211.25,
       "day": 10,
       "label": "Wake early — re-entry day",
-      "desc": "Early wake-up for the final day of the mission."
+      "desc": "Crew wakeup, morning meal, and initial landing-day checks."
     },
     {
-      "startMET": 214,
-      "endMET": 218,
+      "startMET": 211.25,
+      "endMET": 211.35,
+      "day": 10,
+      "label": "Final return trajectory correction burn",
+      "desc": "Final course correction burn to lock in the splashdown corridor."
+    },
+    {
+      "startMET": 211.35,
+      "endMET": 212.8,
       "day": 10,
       "label": "Final stow & cabin prep",
-      "desc": "Return cabin to launch configuration: stow equipment, install seats."
+      "desc": "Return cabin to launch configuration: secure equipment, reinstall seats, and finish entry prep."
     },
     {
-      "startMET": 218,
-      "endMET": 222,
+      "startMET": 212.8,
+      "endMET": 215.9,
       "day": 10,
       "label": "Don spacesuits for re-entry",
       "desc": "Crew dons OCSS pressure suits, closes visors, and straps in for atmospheric entry."
     },
     {
-      "startMET": 222,
-      "endMET": 225,
+      "startMET": 215.9,
+      "endMET": 216.96,
+      "day": 10,
+      "label": "Final approach & entry monitoring",
+      "desc": "Final checks in suits as NASA live return coverage begins and Orion closes on entry interface."
+    },
+    {
+      "startMET": 216.96,
+      "endMET": 217.03,
       "day": 10,
       "label": "Service module separation",
-      "desc": "Crew module separates from European Service Module prior to atmospheric entry."
+      "desc": "Crew module separates from the European Service Module ahead of entry."
     },
     {
-      "startMET": 225,
-      "endMET": 226,
+      "startMET": 217.03,
+      "endMET": 217.3,
       "day": 10,
-      "label": "Atmospheric re-entry",
-      "desc": "Heat shield faces temperatures up to ~2,760 °C (5,000 °F) during re-entry at ~40,000 km/h."
+      "label": "Crew module raise burn & roll maneuvers",
+      "desc": "Final raise burn and roll maneuvers fine-tune Orion’s entry attitude and flight path."
     },
     {
-      "startMET": 226,
-      "endMET": 226.5,
+      "startMET": 217.3,
+      "endMET": 217.53,
       "day": 10,
-      "label": "Parachute descent",
-      "desc": "Drogue chutes slow to ~494 km/h, then three main chutes deploy — final descent at ~27 km/h."
+      "label": "Atmospheric re-entry & parachutes",
+      "desc": "Entry interface, blackout, drogue deployment, and main chute deployment unfold in quick succession."
     },
     {
-      "startMET": 226.5,
-      "endMET": 228,
+      "startMET": 217.53,
+      "endMET": 220,
       "day": 10,
       "label": "Splashdown & recovery",
-      "desc": "Splashdown in the Pacific Ocean. NASA and U.S. Navy recovery teams retrieve crew and capsule."
+      "desc": "Splashdown in the Pacific Ocean, followed by crew recovery and transfer to USS John P. Murtha."
     }
   ]
 }
